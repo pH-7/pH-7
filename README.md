@@ -7,5 +7,5 @@
 **Happy Coding! 🤗**
 
 <details><summary><em>More about me? 🤔</em></summary>
-  <a href="https://pierrehenry.be">PierreHenry.BE</a> 🏁
+  👉 <a href="https://pierrehenry.be">PierreHenry.BE</a> 🏁
 </details>
