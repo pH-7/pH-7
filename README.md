@@ -17,7 +17,7 @@
   🧠 Never Stop Learning! 🏁
 </details>
 
-<details><summary><em>What I'm doing now?</em></summary>
+<details><summary><em>What I'm doing?</em></summary>
   <ul>
     <li>
       ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a>.
@@ -30,6 +30,9 @@
     </li>
     <li>
       ✔︎ Listening to Audible and Podcasts when walking 🐾
+    </li>
+    <li>
+      ✔︎ Keeping myself updated with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
     </li>
   </ul>
 </details>
