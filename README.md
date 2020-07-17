@@ -7,14 +7,14 @@
 **🏁 Happy Coding! 🤗**
 
 <details><summary><em>Further about me? 🤔</em></summary>
-  <p>👉 <a href="https://pierrehenry.be">PierreHenry.BE</a> 🏁</p>
+  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
   <p>
     <img src="https://avatars0.githubusercontent.com/u/1325411?s=200" alt="Pierre-Henry Soria" />
   </p>
 </details>
 
 <details><summary><em>My principle</em></summary>
-  🧠 Never Stop Learning! 🏁
+  <em>🧠 Never Stop Learning! 🏁</em>
 </details>
 
 <details><summary><em>What I'm doing?</em></summary>
