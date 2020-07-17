@@ -8,7 +8,9 @@
 
 <details><summary><em>Further about me? 🤔</em></summary>
   <p>👉 <a href="https://pierrehenry.be">PierreHenry.BE</a> 🏁</p>
-  <p>[![Pierre-Henry Soria](https://avatars0.githubusercontent.com/u/1325411?s=200)](https://ph7.me "pH7.ME :=)")</p>
+  <p>
+    [![Pierre-Henry Soria](https://avatars0.githubusercontent.com/u/1325411?s=200)](https://ph7.me "pH7.ME :=)")
+  </p>
 </details>
 
 <details><summary><em>My principle</em></summary>
