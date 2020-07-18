@@ -25,13 +25,7 @@
 
   ✅ Enthusiastic and highly passionate full-stack developer.
 
-  ✅
-
-   Over 8 years of proven commercial experience building complex and 
-
-  scalable PHP applications, online communities, SaaS and modern CMS from 
-
-  scratch.
+  ✅ Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
 
   ✅ Strong knowledge in relational databases such as MySQL and Postgres and ORM (Doctrine 2).
 
