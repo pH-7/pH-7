@@ -1,10 +1,10 @@
 # 👑 Pierre-Henry™ 🤖
 
 
-🎡 A 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
+### 🎡 A 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
 
-**🏁 Happy Coding! 🤗**
+#### 🏁 Happy Coding! 🤗
 
 <details open><em>Who Am I?</em></summary>
   Pierre-Henry, passionate full stack engineer, building things that matters, making a real impact on the world. Really like to take care of others and manage my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges.
