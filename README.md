@@ -27,8 +27,6 @@
 
   ✅ Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
 
-  ✅ Strong knowledge in relational databases such as MySQL and Postgres and ORM (Doctrine 2).
-
   ✅ Strong knowledge in design patterns (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
 
   ✅ Clean Code, DRY and SOLID principles are a second nature to me.
@@ -37,11 +35,9 @@
 
   ✅ Passion for writing secure, testable and scalable applications, following the best coding practices.
 
-  ✅ Love sharing knowledge and helping others.
+  ✅ Love sharing knowledge ➕ helping others.
 
   ✅ Learning is my core value. Developing new skills on a daily basis is essential to me.
-
-  ✅ Open to fast-paced changes and challenges with rapidly evolving business and Web toolsets.
 
   ✅ Comfortable working with Agile methodologies such as Scrum and Kanban.
 
@@ -49,8 +45,12 @@
 
 <details><summary><em>What I'm doing?</em></summary>
   ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a>.
+  
   ✔️ Writing articles at <a href="https://pierrewriter.com">PierreWriter</a> 📝
+  
   ✔️ Drinking coffes/teas ☕️ and eating vegeterian healthy food 🥕
+  
   ✔︎ Listening to Audible and Podcasts when walking 🐾
+  
   ✔︎ Keeping myself updated with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 </details>
