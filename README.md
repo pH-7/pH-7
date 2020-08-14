@@ -6,7 +6,7 @@
 
 #### 🏁 Happy Coding! 🤗
 
-<details open><em>Who Am I?</em></summary>
+<details open><summary><em>Who Am I?</em></summary>
   Pierre-Henry, passionate full stack engineer, building things that matters, making a real impact on the world. Really like to take care of others and manage my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges.
 </details>
 
