@@ -46,11 +46,11 @@
 <details><summary><em>What I'm doing?</em></summary>
   ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a>.
   
-  ✔️ Writing articles at <a href="https://pierrewriter.com">PierreWriter</a> 📝
+  ✔️ Writing interesting posts at <a href="https://pierrewriter.com">PierreWriter</a> 📝
   
-  ✔️ Drinking coffes/teas ☕️ and eating vegeterian healthy food 🥕
+  ✔️ Drinking coffes/teas ☕️ and eating vegan healthy food 🥕
   
-  ✔︎ Listening to Audible and Podcasts when walking 🐾
+  ✔️ Listening to Audible and Podcasts 🎧 when walking 🐾
   
-  ✔︎ Keeping myself updated with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+  ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 </details>
