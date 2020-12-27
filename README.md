@@ -44,13 +44,15 @@
 </details>
 
 <details><summary><em>What I'm doing?</em></summary>
-  ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a>.
-  
+
+  ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
+
   ✔️ Writing interesting posts at <a href="https://pierrewriter.com">PierreWriter</a> 📝
-  
+
   ✔️ Drinking coffes/teas ☕️ and eating vegan healthy food 🥕
-  
+
   ✔️ Listening to Audible and Podcasts 🎧 when walking 🐾
-  
+
   ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+
 </details>
