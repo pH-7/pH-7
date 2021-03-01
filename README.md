@@ -7,11 +7,12 @@
 #### 🏁 Happy Coding! 🤗
 
 <details open><summary><em>Who Am I?</em></summary>
-  Pierre-Henry, passionate full stack engineer, building things that matter with a real impact on the world!🌏 Really like to take care of others and manage my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges.
+  Pierre-Henry, passionate full stack engineer, building things that matter with a real impact on the world!🌏 Really like to take care of others and manage my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. 
+
 </details>
 
 <details><summary><em>Further about me? 🤔</em></summary>
-  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
+  <p>👉 **[PierreHenry.BE][author-url]** 🏁</p>
   <p>
     <img src="https://avatars0.githubusercontent.com/u/1325411?s=200" alt="Pierre-Henry Soria" />
   </p>
@@ -56,3 +57,14 @@
   ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 
 </details>
+
+
+ ### 🚀 Let's Connect! 🤗
+
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url] 
+[<img align="left" alt="Follow on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter-url]  
+ 
+ <!-- GitHub's Markdown reference links -->
+[author-url]: https://pierrehenry.be
+[linkedin-url]:https://www.linkedin.com/in/ph7enry/
+[twitter-url]: https://twitter.com/phenrysay
