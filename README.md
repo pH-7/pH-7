@@ -1,7 +1,7 @@
 # 👑 Pierre-Henry de Soria™ 🤖
 
 
-### 🎡 A 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
+### 🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
 
 #### 🏁 Happy Coding! 🤗
@@ -14,7 +14,7 @@
 <details><summary><em>Further about me? 🤔</em></summary>
   <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
   <p>
-    <img src="https://avatars0.githubusercontent.com/u/1325411?s=200" alt="Pierre-Henry Soria" />
+    <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
   </p>
 </details>
 
