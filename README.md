@@ -61,8 +61,8 @@
 
  ### 🚀 Let's Connect! 🤗
 
-[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url] 
-[<img align="left" alt="Follow on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter-url]  
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
+[<img align="left" alt="Follow on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter-url]
  
  <!-- GitHub's Markdown reference links -->
 [author-url]: https://pierrehenry.be
