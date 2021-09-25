@@ -35,6 +35,8 @@
   ✅ Push a lot of focus, perseverance, and knowledge to accomplish as best I can a new project from scratch.
 
   ✅ Passion for writing secure, testable and scalable applications, following the best coding practices.
+  
+  ✅ Growth mindset, always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
   ✅ Love sharing knowledge ➕ helping others.
 
