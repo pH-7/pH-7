@@ -24,25 +24,25 @@
 
 <details><summary><em>My Core Values</em></summary>
 
-  ✅ Enthusiastic and highly passionate full-stack developer.
+  ✅ **Enthusiastic and highly passionate** full-stack developer.
 
-  ✅ Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
+  ✅** Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
 
-  ✅ Strong knowledge in design patterns (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
+  ✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
 
-  ✅ Clean Code, DRY and SOLID principles are a second nature to me.
+  ✅ **Clean Code, DRY and SOLID principles** are a second nature to me.
 
-  ✅ Push a lot of focus, perseverance, and knowledge to accomplish as best I can a new project from scratch.
+  ✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
 
   ✅ Passion for writing secure, testable and scalable applications, following the best coding practices.
   
-  ✅ Growth mindset, always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
+  ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
-  ✅ Love sharing knowledge ➕ helping others.
+  ✅ **Love sharing** knowledge ➕ helping others.
 
-  ✅ Learning is my core value. Developing new skills on a daily basis is essential to me.
+  ✅ **Learning is my core value**. Developing new skills on a daily basis is essential to me.
 
-  ✅ Comfortable working with Agile methodologies such as Scrum and Kanban.
+  ✅ **Working with Agile** methodologies such as Scrum and Kanban.
 
 </details>
 
