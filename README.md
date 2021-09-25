@@ -26,7 +26,7 @@
 
   ✅ **Enthusiastic and highly passionate** full-stack developer.
 
-  ✅** Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
+  ✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
 
   ✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
 
@@ -34,7 +34,7 @@
 
   ✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
 
-  ✅ Passion for writing secure, testable and scalable applications, following the best coding practices.
+  ✅ **Passion for writing secure, testable and scalable applications**, following the best coding practices.
   
   ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
