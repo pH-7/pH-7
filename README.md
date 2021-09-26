@@ -17,7 +17,7 @@
     <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
   </p>
   
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
+  ![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
 </details>
 
 <details><summary><em>My Principle</em></summary>
