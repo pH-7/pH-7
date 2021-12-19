@@ -20,7 +20,7 @@
   ![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
 </details>
 
-<details><summary><em>My Principle</em></summary>
+<details><summary><em>My Principle 🎂</em></summary>
   <em>🧠 Never Stop Learning! 🏁</em>
 </details>
 
