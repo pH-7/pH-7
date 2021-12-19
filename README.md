@@ -24,7 +24,7 @@
   <em>🧠 Never Stop Learning! 🏁</em>
 </details>
 
-<details><summary><em>My Core Values</em></summary>
+<details><summary><em>My Core Values 🏆</em></summary>
 
   ✅ **Enthusiastic and highly passionate** full-stack developer.
 
@@ -48,7 +48,7 @@
 
 </details>
 
-<details><summary><em>What I'm doing?</em></summary>
+<details><summary><em>What I'm doing? 💪</em></summary>
 
   ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
 
