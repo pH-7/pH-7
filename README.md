@@ -75,5 +75,5 @@
 [linkedin-url]:https://www.linkedin.com/in/ph7enry/
 [twitter-url]: https://twitter.com/phenrysay
 [dev-url]: https://dev.to/pierre/
-[youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g/videos
+[youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
 [author-url]: https://pierrehenry.be
