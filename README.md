@@ -73,7 +73,7 @@
 ![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
 
 
-### 🎉 My Latest Programmming Videos
+### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
 - [Master console.table&lpar;&rpar; 💥](https://www.youtube.com/watch?v=xfQ7NEE_9Vo)
