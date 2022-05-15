@@ -81,6 +81,7 @@
 - [`final` keyword in PHP](https://www.youtube.com/watch?v=OolQSbIdjBU)
 - [Named Parameters with PHP 8 🔥](https://www.youtube.com/watch?v=hs_w6GHkSfw)
 - [Elegent way to write numbers with JavaScript 👌](https://www.youtube.com/watch?v=JvP5OiUGgxs)
+- [How to be more productive as a dev? 🧑‍💻](https://www.youtube.com/watch?v=4AD7Mg4Ahoc)
 <!-- YOUTUBE:END -->
 
 
