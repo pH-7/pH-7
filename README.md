@@ -6,11 +6,11 @@
 
 #### 🏁 Happy Coding! 🤗
 
-<details open><summary><em>Who Am I?</em></summary>
+<details open><summary><strong><em>Who Am I?</em></strong></summary>
   Pierre-Henry, passionate full stack engineer, building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. I always push a lot off focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 </details>
 
-<details><summary><strong><em>Further about me? 🤔</em></strong></summary>
+<details><summary><ins><em>Further about me? 🤔</em></ins></summary>
   <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
   <p>
     <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
