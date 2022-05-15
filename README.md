@@ -10,18 +10,29 @@
   Pierre-Henry, passionate full stack engineer, building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always thirsty to learn and undertake new exciting things and thrilling challenges. I always push a lot off focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 </details>
 
-<details><summary><em>Further about me? 🤔</em></summary>
+<details><summary><strong><em>Further about me? 🤔</em></strong></summary>
   <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
   <p>
     <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
   </p>
 </details>
 
-<details><summary><em>My Principle 🎂</em></summary>
+<details><summary><ins><em>My Principle 🎂</em></ins></summary>
   <em>🧠 Never Stop Learning! 🏁</em>
+  
+  ```mermaid
+  journey
+    title 🌞 Daily Routine 🏁
+    section Breakfast
+      JavaScript: 5
+    section Lunch
+      React: 5
+    section Dinner
+      IntegrationTests: 5
+  ```
 </details>
 
-<details><summary><em>My Core Values 🏆</em></summary>
+<details><summary><ins><em>My Core Values 🏆</em></ins></summary>
 
   ✅ **Enthusiastic and highly passionate** full-stack developer.
 
@@ -45,7 +56,7 @@
 
 </details>
 
-<details><summary><em>What I'm doing? 💪</em></summary>
+<details><summary><ins><em>What I'm doing? 💪</em></ins></summary>
 
   ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
 
