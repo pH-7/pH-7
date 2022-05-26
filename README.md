@@ -76,12 +76,12 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Rename complicated conditions to clear names](https://www.youtube.com/watch?v=qrOTS24yC_k)
 - [Master console.table&lpar;&rpar; 💥](https://www.youtube.com/watch?v=xfQ7NEE_9Vo)
 - [How to write cleaner JavaScript code 💥](https://www.youtube.com/watch?v=47KO9gzaMAg)
 - [`final` keyword in PHP](https://www.youtube.com/watch?v=OolQSbIdjBU)
 - [Named Parameters with PHP 8 🔥](https://www.youtube.com/watch?v=hs_w6GHkSfw)
 - [Elegent way to write numbers with JavaScript 👌](https://www.youtube.com/watch?v=JvP5OiUGgxs)
-- [How to be more productive as a dev? 🧑‍💻](https://www.youtube.com/watch?v=4AD7Mg4Ahoc)
 <!-- YOUTUBE:END -->
 
 
