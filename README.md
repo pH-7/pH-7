@@ -82,6 +82,7 @@
 - [Rename complicated conditions to clear names](https://www.youtube.com/watch?v=qrOTS24yC_k)
 - [Master console.table&lpar;&rpar; 💥](https://www.youtube.com/watch?v=xfQ7NEE_9Vo)
 - [How to write cleaner JavaScript code 💥](https://www.youtube.com/watch?v=47KO9gzaMAg)
+- [`final` keyword in PHP - How &amp; When to use it?](https://www.youtube.com/watch?v=OolQSbIdjBU)
 <!-- YOUTUBE:END -->
 
 
