@@ -76,13 +76,13 @@
 ### 🎉 Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [🇫🇷 Les noms d&#39;arguments en PHP 8 &lpar;arguments nommés...](https://www.youtube.com/watch?v=s57rOWlZsq4)
 - [How to use &#39;readonly&#39; keyword with PHP 8.1](https://www.youtube.com/watch?v=X3XKSl868ZI)
 - [Destructing array values - The Clean Way™](https://www.youtube.com/watch?v=Ujr_UfzZrsA)
 - [Guard Clause Approach 🤔](https://www.youtube.com/watch?v=Jr5JJt_Vfls)
 - [Rename complicated conditions to clear names](https://www.youtube.com/watch?v=qrOTS24yC_k)
 - [Master console.table&lpar;&rpar; 💥](https://www.youtube.com/watch?v=xfQ7NEE_9Vo)
 - [How to write cleaner JavaScript code 💥](https://www.youtube.com/watch?v=47KO9gzaMAg)
-- [`final` keyword in PHP - How &amp; When to use it?](https://www.youtube.com/watch?v=OolQSbIdjBU)
 <!-- YOUTUBE:END -->
 
 
