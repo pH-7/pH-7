@@ -18,11 +18,11 @@
 </details>
 
 <details><summary><ins><em>My Principle 🎂</em></ins></summary>
-  <em>🧠 Never Stop Learning! 🏁</em>
+  <em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
   
   ```mermaid
   journey
-    title 🌞 Daily Routine 🏁
+    title 🌞 Daily Routine 🏆
     section Breakfast
       JavaScript: 5
     section Lunch
@@ -32,7 +32,7 @@
   ```
 </details>
 
-<details><summary><ins><em>My Core Values 🏆</em></ins></summary>
+<details><summary><ins><em>My Core Values 💥</em></ins></summary>
 
 ✅ **Enthusiastic and highly passionate** full-stack developer.
 
@@ -86,7 +86,7 @@
 <!-- YOUTUBE:END -->
 
 
-### 🚀 Let's Connect! 🤗
+### 👋 Let's Connect! 🤗
 
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Follow Me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter-url]
@@ -95,7 +95,7 @@
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
 
 
- <!-- GitHub's Markdown reference links -->
+<!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
 [twitter-url]: https://twitter.com/phenrysay
 [dev-url]: https://dev.to/pierre/
