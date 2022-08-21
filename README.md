@@ -76,7 +76,7 @@
 ### 🎉 Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [How to address PHP issues in an open source projec...](https://www.youtube.com/watch?v=5GouYsqpJcc)
+- [How to address PHP issues for an open source proje...](https://www.youtube.com/watch?v=5GouYsqpJcc)
 - [Découvrir les Fonctions Fléchée en PHP 🇫🇷](https://www.youtube.com/watch?v=W-DB2gKSE6M)
 - [PHP - Let&#39;s learn about arrow functions](https://www.youtube.com/watch?v=9QtsVle8FOM)
 - [🇫🇷 Les noms d&#39;arguments en PHP 8 &lpar;arguments nommés...](https://www.youtube.com/watch?v=s57rOWlZsq4)
