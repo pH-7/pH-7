@@ -76,13 +76,13 @@
 ### 🎉 Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [Make a release for a open-source project &lpar;pH7Build...](https://www.youtube.com/watch?v=Du2Ipz4QQpA)
+- [Create a basic react app TheCatAPI Part 3 🐈](https://www.youtube.com/watch?v=e4Z5AhreKTc)
+- [Make a release for a open-source project on GitHub](https://www.youtube.com/watch?v=Du2Ipz4QQpA)
 - [PHP: Some basics for building a &lpar;very&rpar; minimum Web...](https://www.youtube.com/watch?v=KK9fGjFV4w4)
 - [How to build a simple React app with TheCatAPI 😻 -...](https://www.youtube.com/watch?v=d0IHEn5GeGU)
 - [Learn React - Create a basic React app - PART 1 🔥](https://www.youtube.com/watch?v=kUR3XAFR3K0)
 - [How to address PHP issues for an open source proje...](https://www.youtube.com/watch?v=5GouYsqpJcc)
 - [Découvrir les Fonctions Fléchée en PHP 🇫🇷](https://www.youtube.com/watch?v=W-DB2gKSE6M)
-- [PHP - Let&#39;s learn about arrow functions](https://www.youtube.com/watch?v=9QtsVle8FOM)
 <!-- YOUTUBE:END -->
 
 
