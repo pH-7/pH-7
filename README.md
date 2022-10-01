@@ -82,7 +82,7 @@
 - [PHP: Some basics for building a &lpar;very&rpar; minimum Web...](https://www.youtube.com/watch?v=KK9fGjFV4w4)
 - [How to build a simple React app with TheCatAPI 😻 -...](https://www.youtube.com/watch?v=d0IHEn5GeGU)
 - [Learn React - Create a basic React app - PART 1 🔥](https://www.youtube.com/watch?v=kUR3XAFR3K0)
-- [How to address PHP issues for an open source proje...](https://www.youtube.com/watch?v=5GouYsqpJcc)
+- [PHP 8.2 readonly classes](https://www.youtube.com/watch?v=dI_aNyp-MU4)
 <!-- YOUTUBE:END -->
 
 
