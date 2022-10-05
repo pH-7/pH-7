@@ -34,7 +34,7 @@
 
 <details><summary><ins><em>My Core Values 💥</em></ins></summary>
 
-✅ **Enthusiastic and highly passionate** full-stack developer.
+✅ **Enthusiastic and Highly Passionate** engineer.
 
 ✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
 
@@ -48,9 +48,9 @@
 
 ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
-✅ **Love sharing** knowledge ➕ helping others.
+✅ **Love sharing** knowledge and helping others.
 
-✅ **Learning is my core value**. Developing new skills on a daily basis is essential to me.
+✅ **As a lifelong learner, learning is my core value**. Developing new skills on a daily basis is essential to me.
 
 ✅ **Working with Agile** methodologies such as Scrum and Kanban.
 
