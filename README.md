@@ -76,7 +76,7 @@
 ### 🎉 Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [PHP 8.2, new features](https://www.youtube.com/watch?v=yqj48lOKIIA)
+- [PHP 8.2, New Features](https://www.youtube.com/watch?v=yqj48lOKIIA)
 - [Create a basic react app TheCatAPI Part 3 🐈](https://www.youtube.com/watch?v=e4Z5AhreKTc)
 - [Make a release for a open-source project on GitHub](https://www.youtube.com/watch?v=Du2Ipz4QQpA)
 - [PHP: Some basics for building a &lpar;very&rpar; minimum Web...](https://www.youtube.com/watch?v=KK9fGjFV4w4)
