@@ -79,10 +79,10 @@
 - [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
+- [Create great contributions and high values PRs](https://www.youtube.com/watch?v=-ekQwxHrPic)
 - [PHP 8.2, New Features](https://www.youtube.com/watch?v=yqj48lOKIIA)
 - [Solve problems efficiently as a developer ⚡️](https://www.youtube.com/watch?v=xdIBuBk-kEQ)
 - [How you can organize your workflow as a software e...](https://www.youtube.com/watch?v=3fTpkBDcQsw)
-- [Create a basic react app TheCatAPI Part 3 🐈](https://www.youtube.com/watch?v=e4Z5AhreKTc)
 <!-- YOUTUBE:END -->
 
 
