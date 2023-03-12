@@ -82,7 +82,7 @@
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
 - [Create great contributions and high values PRs](https://www.youtube.com/watch?v=-ekQwxHrPic)
 - [Building a simple thing with React](https://www.youtube.com/watch?v=1wpI9-t63Hg)
-- [Simple React App - Part 2 🔥](https://www.youtube.com/watch?v=m3j7JUQES70)
+- [PHP 8.2, New Features](https://www.youtube.com/watch?v=yqj48lOKIIA)
 <!-- YOUTUBE:END -->
 
 
