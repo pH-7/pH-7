@@ -81,8 +81,8 @@
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
 - [Create great contributions and high values PRs](https://www.youtube.com/watch?v=-ekQwxHrPic)
+- [How to give a good impression by contributing the...](https://www.youtube.com/watch?v=Z5CQxhAb2CU)
 - [Building a simple thing with React](https://www.youtube.com/watch?v=1wpI9-t63Hg)
-- [Simple React App - Part 2 🔥](https://www.youtube.com/watch?v=m3j7JUQES70)
 <!-- YOUTUBE:END -->
 
 
