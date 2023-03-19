@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Comment bien trier des tableaux en JS](https://www.youtube.com/watch?v=BLgyAoRCn2U)
 - [Build a Simple React App!🔥](https://www.youtube.com/watch?v=ckT1YGDo9Vo)
 - [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
 - [Create great contributions and high values PRs](https://www.youtube.com/watch?v=-ekQwxHrPic)
 - [How to give a good impression by contributing the...](https://www.youtube.com/watch?v=Z5CQxhAb2CU)
-- [Building a simple thing with React](https://www.youtube.com/watch?v=1wpI9-t63Hg)
 <!-- YOUTUBE:END -->
 
 
