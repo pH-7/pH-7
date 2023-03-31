@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [How to sort arrays in JavaScript?](https://www.youtube.com/watch?v=3XYREfb_l94)
 - [Comment bien trier des tableaux en JS🇫🇷](https://www.youtube.com/watch?v=BLgyAoRCn2U)
 - [Build a Simple React App!🔥](https://www.youtube.com/watch?v=ckT1YGDo9Vo)
 - [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
 - [Create and Run CI Tests with GitHub Workflow Actio...](https://www.youtube.com/watch?v=UocAzwUX0n8)
-- [Create great contributions and high values PRs](https://www.youtube.com/watch?v=-ekQwxHrPic)
 <!-- YOUTUBE:END -->
 
 
