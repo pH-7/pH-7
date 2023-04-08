@@ -82,7 +82,7 @@
 - [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
 - [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
-- [Create and Run CI Tests with GitHub Workflow Actio...](https://www.youtube.com/watch?v=UocAzwUX0n8)
+- [How to rename a git branch from master to main on...](https://www.youtube.com/watch?v=zSwasHWljVU)
 <!-- YOUTUBE:END -->
 
 
