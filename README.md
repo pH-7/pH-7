@@ -77,12 +77,12 @@
 
 <!-- YOUTUBE:START -->
 - [How to correctly use ES6 arrow functions in JS?](https://www.youtube.com/watch?v=KnZOuqOmaS8)
+- [Clean Code with JavaScript 🪄](https://www.youtube.com/watch?v=51Wxel89PrI)
 - [How to sort arrays in JavaScript?](https://www.youtube.com/watch?v=3XYREfb_l94)
 - [Comment bien trier des tableaux en JS 🇫🇷](https://www.youtube.com/watch?v=BLgyAoRCn2U)
 - [Build a Simple React App!🔥](https://www.youtube.com/watch?v=ckT1YGDo9Vo)
 - [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 - [Use match expression with PHP 8 🎯](https://www.youtube.com/watch?v=ioAEjBjNYiM)
-- [GitHub &amp; Open-Source Contributions](https://www.youtube.com/watch?v=ppOWxmYJt-M)
 <!-- YOUTUBE:END -->
 
 
