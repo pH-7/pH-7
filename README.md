@@ -76,7 +76,7 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [Syntaxe courte pour définir les attributs d&#39;une cl...](https://www.youtube.com/watch?v=f_A837qpMJo)
+- [Syntaxe courte pour définition des attributs en Ty...](https://www.youtube.com/watch?v=f_A837qpMJo)
 - [How to correctly use ES6 arrow functions in JS?](https://www.youtube.com/watch?v=KnZOuqOmaS8)
 - [Clean Code with JavaScript 🪄](https://www.youtube.com/watch?v=51Wxel89PrI)
 - [How to sort arrays in JavaScript?](https://www.youtube.com/watch?v=3XYREfb_l94)
