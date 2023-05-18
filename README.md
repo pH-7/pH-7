@@ -78,11 +78,11 @@
 <!-- YOUTUBE:START -->
 - [Syntaxe courte pour définition des attributs en Ty...](https://www.youtube.com/watch?v=f_A837qpMJo)
 - [How to correctly use ES6 arrow functions in JS?](https://www.youtube.com/watch?v=KnZOuqOmaS8)
+- [How to Clean Code with JavaScript? 💪](https://www.youtube.com/watch?v=V8vWdlkzzFY)
 - [Clean Code with JavaScript 🪄](https://www.youtube.com/watch?v=51Wxel89PrI)
 - [How to sort arrays in JavaScript?](https://www.youtube.com/watch?v=3XYREfb_l94)
 - [Comment bien trier des tableaux en JS 🇫🇷](https://www.youtube.com/watch?v=BLgyAoRCn2U)
 - [Build a Simple React App!🔥](https://www.youtube.com/watch?v=ckT1YGDo9Vo)
-- [How to use the PHP 8.1 native enums?](https://www.youtube.com/watch?v=c080A4Lrnps)
 <!-- YOUTUBE:END -->
 
 
