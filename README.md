@@ -79,10 +79,10 @@
 - [Comparing Objects with PHP](https://www.youtube.com/watch?v=TPu4rza84cc)
 - [Syntaxe courte pour définir des attributs en TypeS...](https://www.youtube.com/watch?v=f_A837qpMJo)
 - [How to correctly use ES6 arrow functions in JS?](https://www.youtube.com/watch?v=KnZOuqOmaS8)
+- [How to Clean Code with JavaScript? 💪](https://www.youtube.com/watch?v=V8vWdlkzzFY)
 - [Clean Code with JavaScript 🪄](https://www.youtube.com/watch?v=51Wxel89PrI)
 - [How to sort arrays in JavaScript?](https://www.youtube.com/watch?v=3XYREfb_l94)
 - [Comment bien trier des tableaux en JS 🇫🇷](https://www.youtube.com/watch?v=BLgyAoRCn2U)
-- [Build a Simple React App!🔥 &lpar;fetching Reddit posts&rpar;](https://www.youtube.com/watch?v=ckT1YGDo9Vo)
 <!-- YOUTUBE:END -->
 
 
