@@ -77,12 +77,12 @@
 
 <!-- YOUTUBE:START -->
 - [The obscure workaround to have 4TB storage on iClo...](https://www.youtube.com/watch?v=s9CMKBH3HMI)
+- [How to recover a Recording Error in ScreenFlow?](https://www.youtube.com/watch?v=MSR8L8fprT4)
 - [Fix deprecated set-output in GitHub Action cache](https://www.youtube.com/watch?v=dT1d72OR_iw)
 - [Comparing Objects with PHP](https://www.youtube.com/watch?v=TPu4rza84cc)
+- [Better code with TypeScript](https://www.youtube.com/watch?v=cPkb5p0sgdQ)
 - [TypeScript OOP Constructor Parameter Properties](https://www.youtube.com/watch?v=QHnZErQvUCo)
 - [Syntaxe courte pour définir des attributs en TypeS...](https://www.youtube.com/watch?v=f_A837qpMJo)
-- [How to correctly use ES6 arrow functions in JS?](https://www.youtube.com/watch?v=KnZOuqOmaS8)
-- [How to Clean Code with JavaScript? 💪](https://www.youtube.com/watch?v=V8vWdlkzzFY)
 <!-- YOUTUBE:END -->
 
 
