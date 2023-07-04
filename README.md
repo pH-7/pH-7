@@ -80,7 +80,7 @@
 - [How to recover a Recording Error in ScreenFlow?](https://www.youtube.com/watch?v=MSR8L8fprT4)
 - [Fix deprecated set-output in GitHub Action cache](https://www.youtube.com/watch?v=dT1d72OR_iw)
 - [Comparing Objects with PHP](https://www.youtube.com/watch?v=TPu4rza84cc)
-- [Better code with TypeScript](https://www.youtube.com/watch?v=cPkb5p0sgdQ)
+- [Better code with TypeScript 💡](https://www.youtube.com/watch?v=cPkb5p0sgdQ)
 - [TypeScript OOP Constructor Parameter Properties](https://www.youtube.com/watch?v=QHnZErQvUCo)
 - [Syntaxe courte pour définir des attributs en TypeS...](https://www.youtube.com/watch?v=f_A837qpMJo)
 <!-- YOUTUBE:END -->
