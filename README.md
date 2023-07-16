@@ -76,7 +76,7 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [How to create a folder in a repository directly fr...](https://www.youtube.com/watch?v=U12xu1D5-kg)
+- [How to create folders in a repository, right from...](https://www.youtube.com/watch?v=P8NfI6tN79g)
 - [Obscure workaround to get 4TB storage on iCloud Ap...](https://www.youtube.com/watch?v=s9CMKBH3HMI)
 - [How to recover a Recording Error in ScreenFlow?](https://www.youtube.com/watch?v=MSR8L8fprT4)
 - [Fix deprecated set-output in GitHub Action cache](https://www.youtube.com/watch?v=dT1d72OR_iw)
