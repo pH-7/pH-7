@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Creating the simplest NodeJS app with ChatGPT](https://www.youtube.com/watch?v=5uAmNuHAKdU)
 - [How to create folders in a repository, right from...](https://www.youtube.com/watch?v=P8NfI6tN79g)
 - [Obscure workaround to get 4TB storage on iCloud Ap...](https://www.youtube.com/watch?v=s9CMKBH3HMI)
 - [How to recover a Recording Error in ScreenFlow?](https://www.youtube.com/watch?v=MSR8L8fprT4)
 - [Fix deprecated set-output in GitHub Action cache](https://www.youtube.com/watch?v=dT1d72OR_iw)
 - [Comparing Objects with PHP](https://www.youtube.com/watch?v=TPu4rza84cc)
 - [Better code with TypeScript 💡](https://www.youtube.com/watch?v=cPkb5p0sgdQ)
-- [TypeScript OOP Constructor Parameter Properties](https://www.youtube.com/watch?v=QHnZErQvUCo)
 <!-- YOUTUBE:END -->
 
 
