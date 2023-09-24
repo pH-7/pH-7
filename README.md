@@ -77,7 +77,7 @@
 
 <!-- YOUTUBE:START -->
 - [FINALLY keyword in PHP when handling exceptions](https://www.youtube.com/watch?v=cYUwbuiYbzI)
-- [Creating PHP Composer package &lpar;HTTP header respons...](https://www.youtube.com/watch?v=Q4djsRczxgo)
+- [How to build a PHP package? 📦](https://www.youtube.com/watch?v=Q4djsRczxgo)
 - [Let&#39;s play with TypeScript](https://www.youtube.com/watch?v=ChTzT-mPgvU)
 - [Creating the simplest NodeJS app with ChatGPT](https://www.youtube.com/watch?v=5uAmNuHAKdU)
 - [How to create folders in a repository, right from...](https://www.youtube.com/watch?v=P8NfI6tN79g)
