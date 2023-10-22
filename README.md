@@ -81,7 +81,7 @@
 - [Let&#39;s play with TypeScript](https://www.youtube.com/watch?v=ChTzT-mPgvU)
 - [Creating the simplest NodeJS app with ChatGPT](https://www.youtube.com/watch?v=5uAmNuHAKdU)
 - [How to create folders in a repository, right from...](https://www.youtube.com/watch?v=P8NfI6tN79g)
-- [Obscure workaround to get 4TB storage on iCloud 🍎](https://www.youtube.com/watch?v=s9CMKBH3HMI)
+- [How to get more storage on iCloud &lpar;4TB storage&rpar; 🍎](https://www.youtube.com/watch?v=s9CMKBH3HMI)
 - [How to recover a Recording Error in ScreenFlow?](https://www.youtube.com/watch?v=MSR8L8fprT4)
 <!-- YOUTUBE:END -->
 
