@@ -80,7 +80,7 @@
 - [Question your code to Copilot. How to receive sugg...](https://www.youtube.com/watch?v=xEIjZbOn5mc)
 - [How to filter data from Parameter field in Tableau](https://www.youtube.com/watch?v=OSztN1NFJag)
 - [FINALLY keyword in PHP when handling exceptions](https://www.youtube.com/watch?v=cYUwbuiYbzI)
-- [How to build a PHP package? 📦](https://www.youtube.com/watch?v=Q4djsRczxgo)
+- [Build a PHP package from scratch? ⚡️ I recorded ev...](https://www.youtube.com/watch?v=Q4djsRczxgo)
 - [Let&#39;s play with TypeScript](https://www.youtube.com/watch?v=ChTzT-mPgvU)
 - [Creating the simplest NodeJS app with ChatGPT](https://www.youtube.com/watch?v=5uAmNuHAKdU)
 <!-- YOUTUBE:END -->
