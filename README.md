@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [TypeScript Constructor Shorthand](https://www.youtube.com/watch?v=tC4ZWB7-zvI)
 - [How to add new icons in Tableau](https://www.youtube.com/watch?v=dJ-hecc1Ubg)
 - [How MySQL Workbench really works?](https://www.youtube.com/watch?v=nhaa5_WLdTs)
 - [Question your code to Copilot. How to receive sugg...](https://www.youtube.com/watch?v=xEIjZbOn5mc)
 - [How to filter data from Parameter field in Tableau](https://www.youtube.com/watch?v=OSztN1NFJag)
 - [FINALLY keyword in PHP when handling exceptions](https://www.youtube.com/watch?v=cYUwbuiYbzI)
 - [Build a PHP package from scratch? ⚡️ I recorded ev...](https://www.youtube.com/watch?v=Q4djsRczxgo)
-- [Let&#39;s play with TypeScript](https://www.youtube.com/watch?v=ChTzT-mPgvU)
 <!-- YOUTUBE:END -->
 
 
