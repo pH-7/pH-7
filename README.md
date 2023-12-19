@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [How to filter data in Tableau by using Measure Nam...](https://www.youtube.com/watch?v=RiCUh_V7Tjg)
 - [Be 3x more productive with these Copilot tips!](https://www.youtube.com/watch?v=1_qAPodRNUE)
 - [Learn Tableau for beginners 🎢 Data Visualization](https://www.youtube.com/watch?v=HcioaU54p08)
 - [TypeScript Constructor Shorthand](https://www.youtube.com/watch?v=tC4ZWB7-zvI)
 - [How to add new icons in Tableau](https://www.youtube.com/watch?v=dJ-hecc1Ubg)
 - [How MySQL Workbench really works?](https://www.youtube.com/watch?v=nhaa5_WLdTs)
 - [Question your code to Copilot. How to receive sugg...](https://www.youtube.com/watch?v=xEIjZbOn5mc)
-- [How to filter data from Parameter field in Tableau](https://www.youtube.com/watch?v=OSztN1NFJag)
 <!-- YOUTUBE:END -->
 
 
