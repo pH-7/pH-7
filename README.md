@@ -76,7 +76,7 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [Create app from ZERO &lpar;with NodeJS and AI&rpar;](https://www.youtube.com/watch?v=3xBPCwZAN7w)
+- [Create NodeJS App from ZERO &lpar;with AI&rpar;](https://www.youtube.com/watch?v=3xBPCwZAN7w)
 - [Publish a Tableau dashboard to Cloud ☁️](https://www.youtube.com/watch?v=n2jrVACpTdY)
 - [Pie Chart with Numeric Field Values in Tableau](https://www.youtube.com/watch?v=Hhb8ghB8lMg)
 - [How to filter data in Tableau by using Measure Nam...](https://www.youtube.com/watch?v=RiCUh_V7Tjg)
