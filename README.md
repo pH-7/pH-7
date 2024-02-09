@@ -82,7 +82,7 @@
 - [How to filter data in Tableau by using Measure Nam...](https://www.youtube.com/watch?v=RiCUh_V7Tjg)
 - [Be 3x more productive with these Copilot tips!](https://www.youtube.com/watch?v=1_qAPodRNUE)
 - [Learn Tableau for beginners 🎢 Data Visualization](https://www.youtube.com/watch?v=HcioaU54p08)
-- [TypeScript Constructor Shorthand](https://www.youtube.com/watch?v=tC4ZWB7-zvI)
+- [TypeScript Class Constructor Shorthand](https://www.youtube.com/watch?v=tC4ZWB7-zvI)
 <!-- YOUTUBE:END -->
 
 
