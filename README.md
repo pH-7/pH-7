@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Critical Visualisation Dashboard Review](https://www.youtube.com/watch?v=b_Jw5r95xoQ)
 - [Pierre-Henry Soria Live Stream](https://www.youtube.com/watch?v=DpsuQT1q2Oo)
 - [Create NodeJS App from ZERO &lpar;with AI&rpar;](https://www.youtube.com/watch?v=3xBPCwZAN7w)
 - [Publish a Tableau dashboard to Cloud ☁️](https://www.youtube.com/watch?v=n2jrVACpTdY)
 - [Pie Chart with Numeric Field Values in Tableau](https://www.youtube.com/watch?v=Hhb8ghB8lMg)
 - [How to filter data in Tableau by using Measure Nam...](https://www.youtube.com/watch?v=RiCUh_V7Tjg)
 - [Be 3x more productive with these Copilot tips!](https://www.youtube.com/watch?v=1_qAPodRNUE)
-- [Learn Tableau for beginners 🎢 Data Visualization](https://www.youtube.com/watch?v=HcioaU54p08)
 <!-- YOUTUBE:END -->
 
 
