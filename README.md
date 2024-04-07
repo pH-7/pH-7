@@ -77,12 +77,12 @@
 
 <!-- YOUTUBE:START -->
 - [Dev Chit-chat: Tools &amp; Tips](https://www.youtube.com/watch?v=5DfCX5Q7wPY)
-- [Would you like to #hireme?](https://www.youtube.com/watch?v=wL_gnuKdflA)
 - [Passing arguments to event handlers in React with...](https://www.youtube.com/watch?v=t98qRt6QeDg)
 - [Master useState in React with TypeScript](https://www.youtube.com/watch?v=cx9DZhPDlHU)
 - [Critical Visualisation Dashboard Review](https://www.youtube.com/watch?v=b_Jw5r95xoQ)
 - [Pierre-Henry Soria Live Stream](https://www.youtube.com/watch?v=DpsuQT1q2Oo)
 - [Create NodeJS App from ZERO &lpar;with AI&rpar; 3-Hour Full...](https://www.youtube.com/watch?v=3xBPCwZAN7w)
+- [Publish a Tableau dashboard to Cloud ☁️](https://www.youtube.com/watch?v=n2jrVACpTdY)
 <!-- YOUTUBE:END -->
 
 
