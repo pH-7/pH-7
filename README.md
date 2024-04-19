@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [The Software Engineer Mindset 🧠](https://www.youtube.com/watch?v=48PqrhJb1ls)
 - [Passing arguments to event handlers in React with...](https://www.youtube.com/watch?v=t98qRt6QeDg)
 - [Master useState in React with TypeScript](https://www.youtube.com/watch?v=cx9DZhPDlHU)
 - [Critical Visualisation Dashboard Review](https://www.youtube.com/watch?v=b_Jw5r95xoQ)
 - [Pierre-Henry Soria Live Stream](https://www.youtube.com/watch?v=DpsuQT1q2Oo)
 - [Create NodeJS App from ZERO &lpar;with AI&rpar; 3-Hour Full...](https://www.youtube.com/watch?v=3xBPCwZAN7w)
 - [Publish a Tableau dashboard to Cloud ☁️](https://www.youtube.com/watch?v=n2jrVACpTdY)
-- [Pie Chart with Numeric Field Values in Tableau](https://www.youtube.com/watch?v=Hhb8ghB8lMg)
 <!-- YOUTUBE:END -->
 
 
