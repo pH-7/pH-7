@@ -76,7 +76,7 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [React: Protips on useState and useEffect hooks](https://www.youtube.com/watch?v=HLyv12Tg6jo)
+- [React Pro: How to correctly use useState &amp; useEffe...](https://www.youtube.com/watch?v=HLyv12Tg6jo)
 - [Passing arguments to event handlers in React with...](https://www.youtube.com/watch?v=t98qRt6QeDg)
 - [Master useState in React with TypeScript](https://www.youtube.com/watch?v=cx9DZhPDlHU)
 - [Critical Visualisation Dashboard Review](https://www.youtube.com/watch?v=b_Jw5r95xoQ)
