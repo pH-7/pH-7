@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Create a React App: What you should know](https://www.youtube.com/watch?v=wqJJP6FIsoc)
 - [Update states in React. The important part](https://www.youtube.com/watch?v=Qu2daP4qv0M)
 - [React Pro: How to correctly use useState &amp; useEffe...](https://www.youtube.com/watch?v=HLyv12Tg6jo)
+- [Dev Chit-chat: Tools &amp; Tips](https://www.youtube.com/watch?v=5DfCX5Q7wPY)
+- [Would you like to #hireme?](https://www.youtube.com/watch?v=wL_gnuKdflA)
 - [Passing arguments to event handlers in React with...](https://www.youtube.com/watch?v=t98qRt6QeDg)
 - [Master useState in React with TypeScript](https://www.youtube.com/watch?v=cx9DZhPDlHU)
-- [Critical Visualisation Dashboard Review](https://www.youtube.com/watch?v=b_Jw5r95xoQ)
-- [Pierre-Henry Soria Live Stream](https://www.youtube.com/watch?v=DpsuQT1q2Oo)
-- [Create NodeJS App from ZERO &lpar;with AI&rpar; 3-Hour Full...](https://www.youtube.com/watch?v=3xBPCwZAN7w)
 <!-- YOUTUBE:END -->
 
 
