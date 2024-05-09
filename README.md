@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Unarchived a repo on GitHub + Rename branch on Git...](https://www.youtube.com/watch?v=VHdVgVNwYEc)
 - [Create a React App: What you should know](https://www.youtube.com/watch?v=wqJJP6FIsoc)
 - [Update states in React. The important part](https://www.youtube.com/watch?v=Qu2daP4qv0M)
 - [React Pro: How to correctly use useState &amp; useEffe...](https://www.youtube.com/watch?v=HLyv12Tg6jo)
+- [The Software Engineer Mindset 🧠](https://www.youtube.com/watch?v=48PqrhJb1ls)
 - [Dev Chit-chat: Tools &amp; Tips](https://www.youtube.com/watch?v=5DfCX5Q7wPY)
 - [Would you like to #hireme?](https://www.youtube.com/watch?v=wL_gnuKdflA)
-- [Passing arguments to event handlers in React with...](https://www.youtube.com/watch?v=t98qRt6QeDg)
-- [Master useState in React with TypeScript](https://www.youtube.com/watch?v=cx9DZhPDlHU)
 <!-- YOUTUBE:END -->
 
 
