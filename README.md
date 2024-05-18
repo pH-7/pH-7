@@ -7,7 +7,7 @@
 #### 🏁 Happy Coding! 🤗
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-  Pierre-Henry, super passionate full-stack engineer, (with skills in Data Science), building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I’m always eager to learn and undertake new exciting things and thrilling challenges. For every project I commit myself, I push a lot of focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
+  Pierre-Henry, super passionate full-stack engineer (with skills in Data Science), building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I'm always eager to learn and undertake new exciting things and thrilling challenges. For every project to which I commit myself, I push a lot of focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
