@@ -88,10 +88,10 @@
 
 ### 👋 Let's Connect! 🤗
 
-[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin-url]
-[<img align="left" alt="Follow Me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter-url]
-[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/devdotto.svg" />][dev-url]
-[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />][youtube-url]
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin-url]
+[<img align="left" alt="Follow Me on X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" />][twitter-url]
+[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" />][dev-url]
+[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />][youtube-url]
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
 
 
