@@ -60,11 +60,11 @@
 
 ✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
 
-✔️ Writing interesting posts at <a href="https://pierrewriter.com">PierreWriter</a> 📝
+✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
 
-✔️ Drinking coffes/teas ☕️ and eating vegan healthy food 🥕
+✔️ Drinking coffes/teas ☕️ and eating vegetarian healthy food 🥕
 
-✔️ Listening to Audible and Podcasts 🎧 when walking 🐾
+✔️ Listening to information Podcasts and Audible 🎧 while walking/hiking 🐾
 
 ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 
@@ -97,7 +97,7 @@
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
-[twitter-url]: https://twitter.com/phenrysay
+[twitter-url]: https://x.com/phenrysay
 [dev-url]: https://dev.to/pierre/
 [youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
 [author-url]: https://pierrehenry.be
