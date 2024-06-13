@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [As a Freelance Software Developer, what to do when...](https://www.youtube.com/watch?v=yCANtxSYATI)
 - [use every/some in JavaScript](https://www.youtube.com/watch?v=5xE11QZXtAs)
 - [Study with me &lpar;30 minutes session&rpar;](https://www.youtube.com/watch?v=zEFFcHOvij4)
 - [Quick HelloWorld with TS Express API](https://www.youtube.com/watch?v=G_S98F-jDzY)
 - [Unarchived a repo on GitHub + Rename branch on Git...](https://www.youtube.com/watch?v=VHdVgVNwYEc)
 - [Create a React App: What you should know](https://www.youtube.com/watch?v=wqJJP6FIsoc)
 - [Update states in React. The important part](https://www.youtube.com/watch?v=Qu2daP4qv0M)
-- [React Pro: How to correctly use useState &amp; useEffe...](https://www.youtube.com/watch?v=HLyv12Tg6jo)
 <!-- YOUTUBE:END -->
 
 
