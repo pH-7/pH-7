@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [How to learn as a Software Engineer?](https://www.youtube.com/watch?v=BHli3Xo9NAs)
+- [Build In Public with CapacitorJS. Day One](https://www.youtube.com/watch?v=MFQX3UDKoQI)
 - [Building a small API &lpar;NodeJS + ExpressJS&rpar;](https://www.youtube.com/watch?v=b2Q4vB_ANYc)
 - [Walkthrough my React Native App &lpar;build in public&rpar;](https://www.youtube.com/watch?v=XG-Ntx-7p0U)
 - [What I wish I knew earlier to Become a BETTER Soft...](https://www.youtube.com/watch?v=6jwFHk5EN2Y)
 - [Friday Coding -  Coding Chit Chat](https://www.youtube.com/watch?v=WHwKyq_InQE)
 - [1-Hour Pomodoro. Focus &amp; Study With Me](https://www.youtube.com/watch?v=16pvT99kYh0)
-- [How to Plan and Manage Time BETTER as a Software E...](https://www.youtube.com/watch?v=8fowQn-Y_Oc)
-- [As a Freelance Software Developer, what to do when...](https://www.youtube.com/watch?v=yCANtxSYATI)
 <!-- YOUTUBE:END -->
 
 
