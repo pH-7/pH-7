@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [How to write clean and neat Git commits?](https://www.youtube.com/watch?v=MLAxY4Js0XA)
 - [25-minute Pomodoro &lpar;Focus &amp; Study with Me&rpar;](https://www.youtube.com/watch?v=5-W0Jdv8CSc)
 - [How to restore:undo a git push force?](https://www.youtube.com/watch?v=cpLIVpwMtvU)
 - [How to learn as a Software Engineer?](https://www.youtube.com/watch?v=BHli3Xo9NAs)
 - [Build In Public with CapacitorJS. Day One](https://www.youtube.com/watch?v=MFQX3UDKoQI)
 - [Building a small API &lpar;NodeJS + ExpressJS&rpar;](https://www.youtube.com/watch?v=b2Q4vB_ANYc)
 - [Walkthrough my React Native App &lpar;build in public&rpar;](https://www.youtube.com/watch?v=XG-Ntx-7p0U)
-- [What I wish I knew earlier to Become a BETTER Soft...](https://www.youtube.com/watch?v=6jwFHk5EN2Y)
 <!-- YOUTUBE:END -->
 
 
