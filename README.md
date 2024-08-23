@@ -76,7 +76,7 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
-- [A fair salary as a software engineer …](https://www.youtube.com/watch?v=cyXuLz0vYzk)
+- [Spread Operator in JavaScript](https://www.youtube.com/watch?v=4rMAZINmbjw)
 - [Study with Me 📚 &lpar;Deep Study in the Park 🌳&rpar;](https://www.youtube.com/watch?v=cx07RQyG_Lo)
 - [How to be in the Flow State as a Software Engineer...](https://www.youtube.com/watch?v=nT6dUgGU1rw)
 - [How to write clean and neat Git commits?](https://www.youtube.com/watch?v=MLAxY4Js0XA)
