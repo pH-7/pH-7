@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Day #4: Build In Public](https://www.youtube.com/watch?v=r5SEsdP5oJ8)
 - [Day #3: Build In Public](https://www.youtube.com/watch?v=osBmIkS1NNg)
 - [Day #2: Build In Public](https://www.youtube.com/watch?v=NjxID8Mw3qY)
 - [Day #1: Build In Public &lpar;First Day&rpar;](https://www.youtube.com/watch?v=rCC2hdutYeI)
 - [Spread Operator in JavaScript](https://www.youtube.com/watch?v=4rMAZINmbjw)
 - [Study with Me 📚 &lpar;Deep Study in the Park 🌳&rpar;](https://www.youtube.com/watch?v=cx07RQyG_Lo)
 - [How to be in the Flow State as a Software Engineer...](https://www.youtube.com/watch?v=nT6dUgGU1rw)
-- [How to write clean and neat Git commits?](https://www.youtube.com/watch?v=MLAxY4Js0XA)
 <!-- YOUTUBE:END -->
 
 
