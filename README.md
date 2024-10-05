@@ -70,10 +70,8 @@
 
 </details>
 
-![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
 
-
-### 🎉 My Latest Programmming Videos 📺
+### 🎉 [My Latest Programmming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
 
 <!-- YOUTUBE:START -->
 - [Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
@@ -84,6 +82,9 @@
 - [Day #2: Build In Public](https://www.youtube.com/watch?v=NjxID8Mw3qY)
 - [Day #1: Build In Public &lpar;First Day&rpar;](https://www.youtube.com/watch?v=rCC2hdutYeI)
 <!-- YOUTUBE:END -->
+
+
+![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
 
 
 ### 👋 Let's Connect! 🤗
