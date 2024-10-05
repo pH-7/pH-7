@@ -7,7 +7,7 @@
 #### 🏁 Happy Coding! 🤗
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-  Pierre-Henry, super passionate full-stack engineer (with skills in Data Science), building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I'm always eager to learn and undertake new exciting things and thrilling challenges. For every project, to which I commit myself, I push a lot of focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
+  Pierre-Henry, a super passionate full-stack engineer (with skills in Data Science), building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I'm always eager to learn and undertake new exciting things and thrilling challenges. For every project, to which I commit myself, I push a lot of focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
@@ -22,9 +22,9 @@
   
   ```mermaid
   journey
-    title 🌞 Daily Routine 🏆
+    title 🌞 My Daily Routine 🏆
     section Breakfast
-      JavaScript: 5
+      TypeScript: 5
     section Lunch
       React: 5
     section Dinner
@@ -38,9 +38,9 @@
 
 ✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
 
-✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, MVC, ADR, ...).
+✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, ADR, MVC, ...).
 
-✅ **Clean Code, DRY and SOLID principles** are a second nature to me.
+✅ **Clean Code, DRY and SOLID principles** are second nature to me.
 
 ✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
 
