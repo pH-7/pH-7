@@ -76,13 +76,13 @@
 ### 🎉 My Latest Programmming Videos 📺
 
 <!-- YOUTUBE:START -->
+- [Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 - [Write clean code as a software engineer. One Thing...](https://www.youtube.com/watch?v=2kOfQHz3JFs)
 - [Freelance &amp; Business owner: What should be aware o...](https://www.youtube.com/watch?v=rEbS8ET330k)
 - [Day #4: Build In Public](https://www.youtube.com/watch?v=r5SEsdP5oJ8)
 - [Day #3: Build In Public](https://www.youtube.com/watch?v=osBmIkS1NNg)
 - [Day #2: Build In Public](https://www.youtube.com/watch?v=NjxID8Mw3qY)
 - [Day #1: Build In Public &lpar;First Day&rpar;](https://www.youtube.com/watch?v=rCC2hdutYeI)
-- [Spread Operator in JavaScript](https://www.youtube.com/watch?v=4rMAZINmbjw)
 <!-- YOUTUBE:END -->
 
 
