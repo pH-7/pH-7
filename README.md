@@ -13,7 +13,7 @@
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
   <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
   <p>
-    <img alt="Pierre-Henry Soria" src="https://avatars0.githubusercontent.com/u/1325411?s=200" />
+    <img alt="Pierre-Henry Soria, GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=pH-7" />
   </p> 
 </details>
 
@@ -85,7 +85,7 @@
 <!-- YOUTUBE:END -->
 
 
-![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&include_all_commits=true)
+![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&show_icons=true&include_all_commits=true)
 
 
 ### 👋 Let's Connect! 🤗
