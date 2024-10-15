@@ -76,7 +76,7 @@
 
 <!-- YOUTUBE:START -->
 - [Day #5: Build In Public](https://www.youtube.com/watch?v=mXVyZCP0BIM)
-- **[Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
+- [Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 - [Write clean code as a software engineer. One Thing...](https://www.youtube.com/watch?v=2kOfQHz3JFs)
 - [Freelance &amp; Business owner: What should be aware o...](https://www.youtube.com/watch?v=rEbS8ET330k)
 - [Day #4: Build In Public](https://www.youtube.com/watch?v=r5SEsdP5oJ8)
