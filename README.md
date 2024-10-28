@@ -75,11 +75,11 @@
 ### 🎉 [My Latest Programmming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
 
 <!-- YOUTUBE:START -->
+- **[Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 - [Day #7: Build In Public](https://www.youtube.com/watch?v=pxIxjfEfo8E)
 - [Day #6: Build In Public](https://www.youtube.com/watch?v=mBLKTQ-hRZc)
 - [The AI that codes, installs packages, and deploys,...](https://www.youtube.com/watch?v=x0vk_WHHADw)
 - [Day #5: Build In Public](https://www.youtube.com/watch?v=mXVyZCP0BIM)
-- [Tejas Kumar: Learning, AI, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 - [Write clean code as a software engineer. One Thing...](https://www.youtube.com/watch?v=2kOfQHz3JFs)
 - [Freelance &amp; Business owner: What should be aware o...](https://www.youtube.com/watch?v=rEbS8ET330k)
 <!-- YOUTUBE:END -->
