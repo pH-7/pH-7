@@ -74,6 +74,7 @@
 
 ### 🎉 [My Latest Programmming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
 
+**[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
 - [Day #8: Build In Public](https://www.youtube.com/watch?v=MztdjJ_an1k)
 - [Day #7: Build In Public](https://www.youtube.com/watch?v=pxIxjfEfo8E)
