@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How to show correctly the Markdown box in Jupyter...](https://www.youtube.com/watch?v=4XDsltizO00)
 - [Day #9: Build In Public](https://www.youtube.com/watch?v=AkEbaCKtMUo)
 - [The zero-configuration tools YOU NEED to any Web P...](https://www.youtube.com/watch?v=qlRLONVhVfY)
 - [Day #8: Build In Public](https://www.youtube.com/watch?v=MztdjJ_an1k)
 - [Day #7: Build In Public](https://www.youtube.com/watch?v=pxIxjfEfo8E)
 - [Day #6: Build In Public](https://www.youtube.com/watch?v=mBLKTQ-hRZc)
 - [The AI that codes, installs packages, and deploys,...](https://www.youtube.com/watch?v=x0vk_WHHADw)
-- [Day #5: Build In Public](https://www.youtube.com/watch?v=mXVyZCP0BIM)
 <!-- YOUTUBE:END -->
 
 
