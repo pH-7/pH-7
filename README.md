@@ -76,7 +76,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Part 1](https://www.youtube.com/watch?v=5eNqCkXkEcg)
+- [301 Cloudflare Redirection [2024]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
 - [An AI codes and deploys, all by itself, WITHOUT ME...](https://www.youtube.com/watch?v=xJsT60_GfGE)
 - [How to show correctly the Markdown box in Jupyter...](https://www.youtube.com/watch?v=4XDsltizO00)
