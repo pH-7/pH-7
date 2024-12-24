@@ -79,10 +79,10 @@
 - [A little bit about AWS Web Application Firewall WA...](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
 - [301 Cloudflare Redirection [2024]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
+- [Let&#39;s Speak Tech &lpar;and dev secrets&rpar;](https://www.youtube.com/watch?v=hspNX2WlmZI)
 - [An AI codes and deploys, all by itself, WITHOUT ME...](https://www.youtube.com/watch?v=xJsT60_GfGE)
 - [How to show correctly the Markdown box in Jupyter...](https://www.youtube.com/watch?v=4XDsltizO00)
 - [Day #9: Build In Public](https://www.youtube.com/watch?v=AkEbaCKtMUo)
-- [The zero-configuration tools YOU NEED to any Web P...](https://www.youtube.com/watch?v=qlRLONVhVfY)
 <!-- YOUTUBE:END -->
 
 
