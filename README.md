@@ -76,8 +76,8 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [A little bit about AWS Web Application Firewall WA...](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
-- [301 Cloudflare Redirection [2024]](https://www.youtube.com/watch?v=RTxAajPmh50)
+- [A bit about AWS Web Application Firewall WAF](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
+- [301 Cloudflare Redirection [2025]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
 - [Let&#39;s Speak Tech &lpar;and dev secrets&rpar;](https://www.youtube.com/watch?v=hspNX2WlmZI)
 - [An AI codes and deploys, all by itself, WITHOUT ME...](https://www.youtube.com/watch?v=xJsT60_GfGE)
