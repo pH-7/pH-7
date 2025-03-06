@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [I&#39;ve built a script that automatically publishes m...](https://www.youtube.com/watch?v=5JA2rq6TFwM)
 - [My Magic Debugging Approach as a Software Engineer...](https://www.youtube.com/watch?v=b_aqjMwIYPs)
 - [A bit about AWS Web Application Firewall WAF](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
 - [301 Cloudflare Redirection [2025]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
 - [Let&#39;s Speak Tech &lpar;and dev secrets&rpar;](https://www.youtube.com/watch?v=hspNX2WlmZI)
 - [An AI codes and deploys, all by itself, WITHOUT ME...](https://www.youtube.com/watch?v=xJsT60_GfGE)
-- [How to show correctly the Markdown box in Jupyter...](https://www.youtube.com/watch?v=4XDsltizO00)
 <!-- YOUTUBE:END -->
 
 
