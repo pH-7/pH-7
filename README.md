@@ -77,7 +77,7 @@
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
 - [Why do I use Vite for all my frontend projects?](https://www.youtube.com/watch?v=_PEEkhX_0So)
-- [My Magic Debugging Approach as a Software Engineer...](https://www.youtube.com/watch?v=b_aqjMwIYPs)
+- [My SECRET Debugging Approach as a Software Enginee...](https://www.youtube.com/watch?v=b_aqjMwIYPs)
 - [A bit about AWS Web Application Firewall WAF](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
 - [301 Cloudflare Redirection [2025]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
