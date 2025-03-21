@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Building react native apps just with Cursor AI thi...](https://www.youtube.com/watch?v=GO8jek1kWZ8)
 - [Why do I use Vite for all my frontend projects?](https://www.youtube.com/watch?v=_PEEkhX_0So)
 - [My SECRET Debugging Approach as a Software Enginee...](https://www.youtube.com/watch?v=b_aqjMwIYPs)
 - [A bit about AWS Web Application Firewall WAF](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
 - [301 Cloudflare Redirection [2025]](https://www.youtube.com/watch?v=RTxAajPmh50)
 - [VERY SIMPLE: How to combine or merge multiple vide...](https://www.youtube.com/watch?v=rL_56iY6Dwg)
 - [Let&#39;s Speak Tech &lpar;and dev secrets&rpar;](https://www.youtube.com/watch?v=hspNX2WlmZI)
-- [An AI codes and deploys, all by itself, WITHOUT ME...](https://www.youtube.com/watch?v=xJsT60_GfGE)
 <!-- YOUTUBE:END -->
 
 
