@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Master AI Cursor: Essential Rules, Modes &amp; Prompt...](https://www.youtube.com/watch?v=HNVY1tECDOE)
 - [Build React Native Apps FAST with Cursor AI - No C...](https://www.youtube.com/watch?v=kPAjFKFn9_E)
 - [Get Started with MCP Commander Desktop](https://www.youtube.com/watch?v=zM1PzhGHSi4)
 - [Time Management as a Software Engineer](https://www.youtube.com/watch?v=T4wKR_PU5Wg)
 - [Simple Steps to Completely Hide Your YouTube Chann...](https://www.youtube.com/watch?v=qp2ptUdGQEQ)
 - [Why do I use Vite for all my frontend projects?](https://www.youtube.com/watch?v=_PEEkhX_0So)
 - [My SECRET Debugging Approach as a Software Enginee...](https://www.youtube.com/watch?v=b_aqjMwIYPs)
-- [A bit about AWS Web Application Firewall WAF](https://www.youtube.com/watch?v=u4_EkmXk6Ec)
 <!-- YOUTUBE:END -->
 
 
