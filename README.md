@@ -82,7 +82,7 @@
 - [Master AI Cursor: Essential Rules, Modes &amp; Prompt...](https://www.youtube.com/watch?v=HNVY1tECDOE)
 - [Build React Native Apps FAST with Cursor AI - No C...](https://www.youtube.com/watch?v=kPAjFKFn9_E)
 - [Get Started with MCP Commander Desktop](https://www.youtube.com/watch?v=zM1PzhGHSi4)
-- [Time Management as a Software Engineer](https://www.youtube.com/watch?v=T4wKR_PU5Wg)
+- [How I Manage My Time as a Software Engineer &lpar;Witho...](https://www.youtube.com/watch?v=T4wKR_PU5Wg)
 <!-- YOUTUBE:END -->
 
 
