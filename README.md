@@ -79,7 +79,7 @@
 - [This is Cursor AI – Why I Finally Made the Move to...](https://www.youtube.com/watch?v=Y1Ch_03Dw7g)
 - [Why I’m Giving Copilot Another Try for Creative Co...](https://www.youtube.com/watch?v=wXrQ5PxZW6g)
 - [My Cursor settings](https://www.youtube.com/watch?v=_FrD6e5QeZU)
-- [How to MINIFY files with AI? Yes, of course you ca...](https://www.youtube.com/watch?v=4mBFqpwngms)
+- [How to MINIFY files with AI? Minifier and Compress...](https://www.youtube.com/watch?v=4mBFqpwngms)
 - [How to Use Cursor AI: Rules, Modes &amp; Prompts](https://www.youtube.com/watch?v=0uWUelkYgKY)
 - [The Cursor Trick That Instantly Saves You Precious...](https://www.youtube.com/watch?v=j0mk9ie3Pp4)
 - [Master AI Cursor: Essential Rules, Modes &amp; Prompt...](https://www.youtube.com/watch?v=HNVY1tECDOE)
