@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [*UNFILTERED* Building a JS Electron app on AUTOPIL...](https://www.youtube.com/watch?v=8tUEdx2wrN4)
+- [REVOLUTIONIZE Your Coding: GitHub Copilot&#39;s Latest...](https://www.youtube.com/watch?v=IVLuOvdfD4c)
 - [Building a mobile app with AI driven Cursor as a s...](https://www.youtube.com/watch?v=Mu_S6dEcZqg)
 - [This is Cursor AI – Why I Finally Made the Move to...](https://www.youtube.com/watch?v=Y1Ch_03Dw7g)
 - [Why I’m Giving Copilot Another Try for Creative Co...](https://www.youtube.com/watch?v=wXrQ5PxZW6g)
 - [My Cursor settings](https://www.youtube.com/watch?v=_FrD6e5QeZU)
 - [How to MINIFY files with AI? Minifier and Compress...](https://www.youtube.com/watch?v=4mBFqpwngms)
-- [How to Use Cursor AI: Rules, Modes &amp; Prompts](https://www.youtube.com/watch?v=0uWUelkYgKY)
-- [The Cursor Trick That Instantly Saves You Precious...](https://www.youtube.com/watch?v=j0mk9ie3Pp4)
 <!-- YOUTUBE:END -->
 
 
