@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Let AI Tidy Your Code While You Sleep!](https://www.youtube.com/watch?v=qXkFA5HvKNs)
 - [Improving a React Native app with GitHub Copilot a...](https://www.youtube.com/watch?v=w0vvLz7gTbM)
 - [*UNFILTERED* Building a JS Electron app on AUTOPIL...](https://www.youtube.com/watch?v=8tUEdx2wrN4)
 - [REVOLUTIONIZE Your Coding: GitHub Copilot&#39;s Latest...](https://www.youtube.com/watch?v=IVLuOvdfD4c)
 - [Building a mobile app with AI driven Cursor as a s...](https://www.youtube.com/watch?v=Mu_S6dEcZqg)
 - [This is Cursor AI – Why I Finally Made the Move to...](https://www.youtube.com/watch?v=Y1Ch_03Dw7g)
 - [Why I’m Giving Copilot Another Try for Creative Co...](https://www.youtube.com/watch?v=wXrQ5PxZW6g)
-- [My Cursor settings](https://www.youtube.com/watch?v=_FrD6e5QeZU)
 <!-- YOUTUBE:END -->
 
 
