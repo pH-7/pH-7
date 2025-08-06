@@ -76,13 +76,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Improve Your Code on Autopilot with Copilot React...](https://www.youtube.com/watch?v=swTfw4tP0nY)
+- [Refactoring Code with Copilot Agent in VS Code – M...](https://www.youtube.com/watch?v=UPcF-uGer3Y)
 - [I Updated My React Native App’s UX Using GitHub Co...](https://www.youtube.com/watch?v=10LxN1033uU)
 - [How I Actually Use Cursor AI to Code Faster &lpar;Real...](https://www.youtube.com/watch?v=rgKH8vCzpyI)
 - [Build Your Own MCP Server. Walkthrough, Step-by-St...](https://www.youtube.com/watch?v=DEaSz8kVPH8)
 - [*UNFILTERED* Building a Sleeping Detector React Na...](https://www.youtube.com/watch?v=xvVn5nb1ow0)
 - [*UNFILTERED* Coding in Python with Copilot – Real...](https://www.youtube.com/watch?v=tDTaOAQ2X3c)
-- [Let AI Tidy Your Code While You Sleep!](https://www.youtube.com/watch?v=qXkFA5HvKNs)
-- [Improving a React Native app with GitHub Copilot a...](https://www.youtube.com/watch?v=w0vvLz7gTbM)
 <!-- YOUTUBE:END -->
 
 
