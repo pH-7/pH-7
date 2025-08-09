@@ -9,7 +9,7 @@
 #### 🧩 Happy Problem-Solving! 🤗
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-  Pierre-Henry, a super passionate full-stack engineer (with skills in Data Science), building things that matter with a real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. Open to fast-paced changes with rapidly evolving business and technologies. I'm always eager to learn and undertake new exciting things and thrilling challenges. For every project, to which I commit myself, I push a lot of focus, determination, energy, and knowledge to accomplish a new project or mission from scratch 😊
+  Pierre-Henry, a super passionate full-stack engineer with skills in Data Science, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
@@ -44,9 +44,9 @@
 
 ✅ **Clean Code, DRY and SOLID principles** are second nature to me.
 
-✅ **Give lots of focus, perseverance, and knowledge** to accomplish as best I can a new project from scratch.
+✅ **Give lots of focus, perseverance, and knowledge** to accomplish new projects as best I can from scratch.
 
-✅ **Passion for writing secure, testable and scalable applications**, following the best coding practices.
+✅ **Passion for writing secure, testable, and scalable applications**, following the best coding practices.
 
 ✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
 
