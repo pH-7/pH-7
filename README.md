@@ -64,9 +64,9 @@
 
 ✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
 
-✔️ Drinking coffes/teas ☕️ and eating vegetarian healthy food 🥕
+✔️ Drinking coffees/teas ☕️ and eating vegetarian healthy food 🥕
 
-✔️ Listening to information Podcasts and Audible 🎧 while walking/hiking 🐾
+✔️ Listening to informational Podcasts and Audible 🎧 while walking/hiking 🐾
 
 ✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 
@@ -74,14 +74,14 @@
 
 ---
 
-### 🎉 [My Latest Programmming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
+### 🎉 [My Latest Programming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
 - [I Built an MCP Server From Scratch   Here&#39;s What I...](https://www.youtube.com/watch?v=VL3lYdHmW2Y)
 - [Improve Your Code on Autopilot with Copilot React...](https://www.youtube.com/watch?v=swTfw4tP0nY)
 - [Refactoring Code with Copilot Agent in VS Code – M...](https://www.youtube.com/watch?v=UPcF-uGer3Y)
-- [I Updated This React Native App’s UX Using GitHub...](https://www.youtube.com/watch?v=10LxN1033uU)
+- [I Updated This React Native App's UX Using GitHub...](https://www.youtube.com/watch?v=10LxN1033uU)
 - [How I Actually Use Cursor AI to Code Faster &lpar;Real...](https://www.youtube.com/watch?v=rgKH8vCzpyI)
 - [Build Your Own MCP Server. Walkthrough, Step-by-St...](https://www.youtube.com/watch?v=DEaSz8kVPH8)
 - [*UNFILTERED* Building a Sleeping Detector React Na...](https://www.youtube.com/watch?v=xvVn5nb1ow0)
