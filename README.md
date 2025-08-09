@@ -250,7 +250,7 @@
 - [I Built an MCP Server From Scratch   Here&#39;s What I...](https://www.youtube.com/watch?v=VL3lYdHmW2Y)
 - [Improve Your Code on Autopilot with Copilot React...](https://www.youtube.com/watch?v=swTfw4tP0nY)
 - [Refactoring Code with Copilot Agent in VS Code – M...](https://www.youtube.com/watch?v=UPcF-uGer3Y)
-- [I Updated My React Native App’s UX Using GitHub Co...](https://www.youtube.com/watch?v=10LxN1033uU)
+- [I Updated This React Native App’s UX Using GitHub...](https://www.youtube.com/watch?v=10LxN1033uU)
 - [How I Actually Use Cursor AI to Code Faster &lpar;Real...](https://www.youtube.com/watch?v=rgKH8vCzpyI)
 - [Build Your Own MCP Server. Walkthrough, Step-by-St...](https://www.youtube.com/watch?v=DEaSz8kVPH8)
 - [*UNFILTERED* Building a Sleeping Detector React Na...](https://www.youtube.com/watch?v=xvVn5nb1ow0)
