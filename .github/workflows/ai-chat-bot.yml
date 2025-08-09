@@ -2,7 +2,7 @@
 # @copyright   (c) Pierre-Henry Soria <https://ph7.me>
 # @license     MIT <https://opensource.org/license/mit>
 
-name: 🤖 Dynamic AI Chat Bot
+name: 🤖 Dynamic AI Chat SVG
 
 on:
   schedule:
@@ -17,8 +17,8 @@ on:
       - '.github/workflows/ai-chat-bot.yml'
 
 jobs:
-  update-ai-chat:
-    name: 🚀 Update AI Chat Bot Message
+  update-ai-chat-svg:
+    name: 🚀 Update AI Chat SVG Message
     runs-on: ubuntu-latest
     
     steps:
@@ -45,10 +45,6 @@ jobs:
           python3 scripts/generate_chat.py
         env:
           TZ: 'UTC'
-      
-      - name: 📝 Update README with New Chat
-        run: |
-          python3 scripts/update_readme.py
       
       - name: 🔍 Check for Changes
         id: verify-changed-files
@@ -86,10 +82,10 @@ jobs:
                   data = json.load(f)
                   print(data['message'][:50] + '...' if len(data['message']) > 50 else data['message'])
           except:
-              print('Updated AI chat bot message')
+              print('Updated AI chat SVG')
           ")
           
-          git commit -m "🤖 Update AI chat bot: $MESSAGE" \
+          git commit -m "🤖 Update AI chat SVG: $MESSAGE" \
                      -m "Generated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
                      -m "Automated update from GitHub Actions" || exit 0
           
@@ -98,11 +94,11 @@ jobs:
       - name: 📈 Workflow Summary
         if: always()
         run: |
-          echo "## 🤖 AI Chat Bot Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## 🤖 AI Chat SVG Update Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
           if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-            echo "✅ **Status:** Successfully updated with new chat message" >> $GITHUB_STEP_SUMMARY
+            echo "✅ **Status:** Successfully updated dynamic SVG with new message" >> $GITHUB_STEP_SUMMARY
             
             if [ -f "data/chat_data.json" ]; then
               MESSAGE=$(python3 -c "

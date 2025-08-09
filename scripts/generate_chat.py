@@ -9,8 +9,10 @@ Generates creative programming-related chat messages
 
 import random
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import calendar
+
 
 class ChatBotGenerator:
     def __init__(self):
@@ -195,56 +197,397 @@ class ChatBotGenerator:
 
         return messages
 
-    def get_contextual_message(self):
-        """Get a message based on current context (day, time, etc.) if enabled"""
-        contextual_config = self.config["chat_bot"]["contextual_messages"]
+    def get_dynamic_context(self):
+        """Get dynamic real-time context information"""
         now = datetime.now()
-        day_of_week = now.weekday()  # 0 = Monday, 6 = Sunday
-        hour = now.hour
+        context = {
+            'date': now,
+            'year': now.year,
+            'month': now.month,
+            'day': now.day,
+            'weekday': now.weekday(),
+            'hour': now.hour,
+            'season': self.get_season(now),
+            'is_holiday': self.check_holidays(now),
+            'milestone': self.check_coding_milestones(now),
+            'tech_anniversary': self.check_tech_anniversaries(now),
+            'moon_phase': self.get_moon_phase(now),
+            'developer_day': self.check_developer_special_days(now)
+        }
+        return context
 
-        # Weekend vibes
-        # Saturday or Sunday
-        if day_of_week >= 5 and contextual_config.get("weekend_mode", True):
+    def get_season(self, date):
+        """Determine current season"""
+        month = date.month
+        day = date.day
+        
+        if (month == 12 and day >= 21) or month in [1, 2] or (month == 3 and day < 20):
+            return "winter"
+        elif (month == 3 and day >= 20) or month in [4, 5] or (month == 6 and day < 21):
+            return "spring"
+        elif (month == 6 and day >= 21) or month in [7, 8] or (month == 9 and day < 22):
+            return "summer"
+        else:
+            return "autumn"
+
+    def check_holidays(self, date):
+        """Check for major holidays and special occasions"""
+        month, day = date.month, date.day
+        
+        holidays = {
+            (1, 1): "New Year's Day 🎆",
+            (2, 14): "Valentine's Day 💝",
+            (3, 17): "St. Patrick's Day 🍀",
+            (4, 1): "April Fools' Day 😄",
+            (5, 1): "May Day 🌸",
+            (7, 4): "Independence Day 🇺🇸",
+            (10, 31): "Halloween 🎃",
+            (12, 24): "Christmas Eve 🎄",
+            (12, 25): "Christmas Day 🎅",
+            (12, 31): "New Year's Eve 🎊"
+        }
+        
+        # Dynamic holidays (Easter, Thanksgiving, etc.)
+        year = date.year
+        
+        # Thanksgiving (4th Thursday of November in US)
+        if month == 11:
+            first_day = datetime(year, 11, 1)
+            first_thursday = 1 + (3 - first_day.weekday()) % 7
+            thanksgiving = first_thursday + 21  # 4th Thursday
+            if day == thanksgiving:
+                return "Thanksgiving 🦃"
+        
+        # Check basic holidays
+        return holidays.get((month, day))
+
+    def check_coding_milestones(self, date):
+        """Check for coding and tech milestones"""
+        year, month, day = date.year, date.month, date.day
+        
+        milestones = {
+            (1, 3): f"🎂 Happy Birthday to JavaScript! Born in 1995 - {year - 1995} years of powering the web!",
+            (2, 19): f"💎 Ruby's birthday! Created by Yukihiro Matsumoto in 1993 - {year - 1993} years of elegance!",
+            (3, 15): f"📱 Happy Birthday to the World Wide Web! Created in 1989 - {year - 1989} years of connectivity!",
+            (4, 1): f"🏢 April Fools' Day - Perfect time to deploy that 'harmless' feature! 😉",
+            (5, 23): f"☕ Java's birthday! Released in 1995 - {year - 1995} years of 'write once, run anywhere'!",
+            (6, 23): f"🎮 Happy Birthday to Pac-Man! Released in 1980 - {year - 1980} years of gaming history!",
+            (9, 17): f"🐍 Python's birthday! First released in 1991 - {year - 1991} years of readable code!",
+            (10, 5): f"📱 Steve Jobs' birthday! The man who revolutionized computing - remembered forever!",
+            (12, 9): f"🎉 Happy Birthday to Ada Lovelace! Born 1815 - the world's first programmer!"
+        }
+        
+        return milestones.get((month, day))
+
+    def check_tech_anniversaries(self, date):
+        """Check for significant tech company and product anniversaries"""
+        year, month, day = date.year, date.month, date.day
+        
+        anniversaries = {
+            (1, 9): f"📱 iPhone announcement anniversary! Steve Jobs unveiled it in 2007 - {year - 2007} years ago!",
+            (2, 4): f"👥 Facebook founded! Mark Zuckerberg started it in 2004 - {year - 2004} years of social networking!",
+            (4, 4): f"🌐 Microsoft founded! Bill Gates & Paul Allen started it in 1975 - {year - 1975} years of software!",
+            (4, 28): f"🖥️ Windows 95 development milestone! The OS that changed everything!",
+            (6, 15): f"💿 DVD format announced! In 1995 - {year - 1995} years of digital media evolution!",
+            (7, 15): f"🛒 Amazon founded! Jeff Bezos started it in 1994 - {year - 1994} years of e-commerce!",
+            (9, 4): f"🔍 Google founded! Larry Page & Sergey Brin started it in 1998 - {year - 1998} years of search!",
+            (10, 5): f"🖥️ MacOS birthday! First Mac OS released in 1984 - {year - 1984} years of innovation!"
+        }
+        
+        return anniversaries.get((month, day))
+
+    def get_moon_phase(self, date):
+        """Get approximate moon phase for extra creativity"""
+        # Simplified moon phase calculation
+        days_since_new_moon = (date - datetime(2000, 1, 6)).days % 29.53
+        
+        if days_since_new_moon < 7.38:
+            return "🌑 New Moon - Perfect time for new coding projects!"
+        elif days_since_new_moon < 14.77:
+            return "🌓 First Quarter - Build momentum on your code!"
+        elif days_since_new_moon < 22.15:
+            return "🌕 Full Moon - Full stack energy tonight!"
+        else:
+            return "🌗 Last Quarter - Time to refactor and optimize!"
+
+    def check_developer_special_days(self, date):
+        """Check for developer-specific special days"""
+        month, day = date.month, date.day
+        weekday = date.weekday()
+        
+        special_days = {
+            (1, 31): "👨‍💻 Happy System Administrator Appreciation Day!",
+            (5, 25): "🌍 Geek Pride Day! Embrace your inner geek!",
+            (9, 13): "👨‍💻 International Programmers' Day! (256th day of the year)",
+            (10, 24): "🌐 World Development Information Day!",
+            (11, 30): "💻 Computer Security Day - Keep your code secure!"
+        }
+        
+        # Specific day calculations
+        if month == 9 and day == 13:  # 256th day (or 12th in leap years)
+            return "👨‍💻 International Programmers' Day! Day 256 = 2^8 🎉"
+        
+        # First Friday of October - World Smile Day
+        if month == 10 and weekday == 4:
+            first_friday = 1 + (4 - datetime(date.year, 10, 1).weekday()) % 7
+            if day == first_friday:
+                return "😊 World Smile Day - Your code makes people smile!"
+        
+        return special_days.get((month, day))
+
+    def get_holiday_message(self, holiday, context):
+        """Generate special holiday messages with Pierre-Henry's personality"""
+        holiday_messages = {
+            "New Year's Day 🎆": [
+                f"🎆 Happy New Year {context['year']}! Time to commit to even more amazing code!",
+                f"🥳 New Year, New Commits! Ready to build revolutionary software in {context['year']}?",
+                "🍾 Cheers to another year of turning caffeine into code and dreams into applications!"
+            ],
+            "Valentine's Day 💝": [
+                "💝 Happy Valentine's Day! Today we love our code as much as our ristretto!",
+                "💖 Roses are red, violets are blue, clean code is beautiful, and so are you!",
+                "💕 Love is in the air... and in every elegant function we write!"
+            ],
+            "St. Patrick's Day 🍀": [
+                "🍀 Happy St. Patrick's Day! May your code be bug-free and your commits be green!",
+                "☘️ Feeling lucky? Today's the perfect day to tackle that challenging algorithm!",
+                "🌈 Looking for gold? Found it in our perfectly optimized codebase!"
+            ],
+            "April Fools' Day 😄": [
+                "😄 April Fools' Day! Time to add some 'harmless' easter eggs to the code... 😉",
+                "🃏 Today's prank: Making legacy code work flawlessly on the first try!",
+                "😂 April Fools! Your code actually compiled without any warnings!"
+            ],
+            "Independence Day 🇺🇸": [
+                "🇺🇸 Happy 4th of July! Celebrating freedom... from spaghetti code!",
+                "🎆 Fireworks and code reviews - both light up the night!",
+                "🗽 Independence Day: When your app finally runs independent of external dependencies!"
+            ],
+            "Halloween 🎃": [
+                "🎃 Happy Halloween! Debugging scary code all night - trick or treat?",
+                "👻 Boo! Hope your code isn't haunted by memory leaks!",
+                "🕷️ Spider webs in the basement, spider diagrams in the documentation!"
+            ],
+            "Thanksgiving 🦃": [
+                "🦃 Happy Thanksgiving! Grateful for: Fast CPUs, reliable frameworks, and unlimited ristretto!",
+                "🙏 Thankful for the dev community, Stack Overflow, and Pierre-Henry's determination!",
+                "🍂 Giving thanks for every successful deployment and every lesson learned from bugs!"
+            ],
+            "Christmas Eve 🎄": [
+                "🎄 Christmas Eve magic! Santa's checking his list... of GitHub commits!",
+                "🎅 Ho ho ho! Even Santa needs version control for his nice/naughty database!",
+                "✨ Christmas Eve peace: No production deployments, just family and ristretto!"
+            ],
+            "Christmas Day 🎅": [
+                "🎅 Merry Christmas! Best gift ever: Code that works perfectly on Christmas morning!",
+                "🎁 Christmas miracle: All tests passing, all users happy, all systems green!",
+                "🌟 Christmas joy: Sharing the gift of knowledge and elegant code!"
+            ],
+            "New Year's Eve 🎊": [
+                "🎊 New Year's Eve! Counting down to midnight... and to our next major release!",
+                "🥂 Toast to another year of innovation, learning, and Pierre-Henry's unstoppable energy!",
+                f"⏰ Final commits of {context['year']} - let's end with style!"
+            ]
+        }
+        
+        messages = holiday_messages.get(holiday, [f"🎉 Happy {holiday}! Perfect day for some inspired coding!"])
+        return random.choice(messages)
+    def get_contextual_message(self):
+        """Get a message based on dynamic real-time context"""
+        contextual_config = self.config["chat_bot"]["contextual_messages"]
+        context = self.get_dynamic_context()
+        now = context['date']
+        day_of_week = context['weekday']
+        hour = context['hour']
+        
+        # Priority 1: Special holidays and occasions
+        if context['is_holiday']:
+            return self.get_holiday_message(context['is_holiday'], context)
+        
+        # Priority 2: Tech anniversaries and milestones
+        if context['milestone']:
+            return context['milestone']
+        
+        if context['tech_anniversary']:
+            return context['tech_anniversary']
+        
+        # Priority 3: Developer special days
+        if context['developer_day']:
+            return context['developer_day']
+        
+        # Priority 4: Seasonal and time-based messages
+        if context['season'] == "winter":
+            winter_messages = [
+                "❄️ Winter coding sessions with hot ristretto - pure productivity!",
+                "🔥 Let's warm up this cold day with some blazing fast algorithms!",
+                "⛄ Building snowmen? Nah, building software architectures instead!",
+                "🧣 Cozy winter vibes: Fireplace + laptop + Pierre-Henry's determination = magic!",
+                f"🌙 {context['moon_phase']}"
+            ]
+            if random.random() < 0.7:  # 70% chance for seasonal message
+                return random.choice(winter_messages)
+        
+        elif context['season'] == "spring":
+            spring_messages = [
+                "🌸 Spring cleaning your codebase? Time to refactor those legacy functions!",
+                "� New season, new features! What's growing in your repository?",
+                "🐝 Busy as a bee coding - spring energy is unstoppable!",
+                "🌈 After every debugging storm comes a rainbow of working code!",
+                f"🌙 {context['moon_phase']}"
+            ]
+            if random.random() < 0.7:
+                return random.choice(spring_messages)
+        
+        elif context['season'] == "summer":
+            summer_messages = [
+                "☀️ Summer vibes: Outdoor hiking + indoor coding = perfect balance!",
+                "🏖️ Beach day? Maybe later - these algorithms won't optimize themselves!",
+                "🌻 Bright summer day, bright coding ideas! Let the creativity flow!",
+                "� Tropical coding session: refreshing ideas under the warm sun!",
+                f"🌙 {context['moon_phase']}"
+            ]
+            if random.random() < 0.7:
+                return random.choice(summer_messages)
+        
+        elif context['season'] == "autumn":
+            autumn_messages = [
+                "🍂 Autumn leaves falling, code commits rising! Season of productivity!",
+                "🍁 Harvest season for developers - reaping the benefits of good architecture!",
+                "🎃 Pumpkin spice and everything nice... including clean, readable code!",
+                "🌰 Nuts about coding! Autumn inspiration hits different!",
+                f"🌙 {context['moon_phase']}"
+            ]
+            if random.random() < 0.7:
+                return random.choice(autumn_messages)
+        
+        # Priority 5: Time-based dynamic messages
+        if 5 <= hour < 12:  # Morning
+            morning_messages = [
+                f"🌅 Good morning! Day {now.timetuple().tm_yday} of {now.year} - let's make it count!",
+                "☕ Morning ristretto + fresh ideas = unstoppable combination!",
+                "🐓 Early bird catches the bug... and fixes it before anyone notices!",
+                f"🌤️ Beautiful {calendar.day_name[day_of_week]} morning for some quality coding!",
+                "🥐 French breakfast vibes: croissant, ristretto, and elegant algorithms!"
+            ]
+            if random.random() < 0.6:
+                return random.choice(morning_messages)
+        
+        elif 12 <= hour < 17:  # Afternoon
+            afternoon_messages = [
+                "🍽️ Lunch break coding thoughts: How can we make this more efficient?",
+                "⚡ Afternoon energy spike! Perfect time for complex problem-solving!",
+                "🧀 Midday fuel check: Roquefort ✓ Determination ✓ Clean code ✓",
+                f"📊 Productive {calendar.day_name[day_of_week]} afternoon - commits are flowing!",
+                "🎯 Post-lunch focus: When your brain runs at maximum optimization!"
+            ]
+            if random.random() < 0.6:
+                return random.choice(afternoon_messages)
+        
+        elif 17 <= hour < 21:  # Evening
+            evening_messages = [
+                "� Golden hour for golden code! Evening productivity hits different!",
+                "🥾 Evening hike planned? Perfect time to think through architecture!",
+                "🍷 End of day reflection: What elegant solution did we build today?",
+                f"🌟 {calendar.day_name[day_of_week]} evening vibes - code, reflect, improve!",
+                "🔥 Night owl mode activating... time for deep focus sessions!"
+            ]
+            if random.random() < 0.6:
+                return random.choice(evening_messages)
+        
+        elif hour >= 21 or hour < 5:  # Night/Late night
+            night_messages = [
+                "🌙 Late night coding session? Pierre-Henry's dedication never sleeps!",
+                "⭐ When the world sleeps, developers dream in code!",
+                "🦉 Night owl productivity: Quiet hours, loud keyboard clicks!",
+                "💤 Remember: Even the best developers need sleep for optimal brain.compile()!",
+                f"🌌 {context['moon_phase']} - Perfect coding atmosphere!"
+            ]
+            if random.random() < 0.6:
+                return random.choice(night_messages)
+        
+        # Priority 6: Day-specific messages (enhanced)
+        if day_of_week == 0 and contextual_config.get("monday_motivation", True):  # Monday
+            monday_messages = [
+                "💪 Motivational Monday! This week: Pierre-Henry builds something extraordinary!",
+                f"🚀 Monday Mission {now.strftime('%B %d')}: Turn weekend ideas into production code!",
+                "⚡ Monday Energy: 12+ years of experience + fresh week = unlimited potential!",
+                "🎯 Week Goal: Learn something new, build something amazing, share knowledge!",
+                "🌟 Monday Mantra: From prototype to production, we make it happen!",
+                "☕ Monday ristretto ritual: Fuel up for a week of innovative solutions!"
+            ]
+            return random.choice(monday_messages)
+        
+        elif day_of_week == 1:  # Tuesday
+            tuesday_messages = [
+                "🔧 Tool Tuesday! What new framework are we exploring today?",
+                "⚙️ Tuesday Technique: Clean Code + SOLID principles = maintainable magic!",
+                "🧩 Problem-solving Tuesday: Every bug is just a puzzle waiting for Pierre-Henry!",
+                f"📈 Tuesday Progress Report: Day {now.timetuple().tm_yday} of building the future!"
+            ]
+            if random.random() < 0.4:
+                return random.choice(tuesday_messages)
+        
+        elif day_of_week == 2:  # Wednesday
+            wednesday_messages = [
+                "📚 Wisdom Wednesday! Sharing knowledge makes the whole dev community stronger!",
+                "🔄 Mid-week momentum: Agile methodologies keeping us on track!",
+                "🎨 Wednesday Wonder: Code is poetry that computers can understand!",
+                f"⚖️ Work-Life Wednesday: Coding + Hiking + Cheese = Perfect balance!"
+            ]
+            if random.random() < 0.4:
+                return random.choice(wednesday_messages)
+        
+        elif day_of_week == 3:  # Thursday
+            thursday_messages = [
+                "🎲 Throwback Thursday: Remember when Pierre-Henry built pH7CMS at 17? Still innovating!",
+                "⚡ Thursday Thoughts: Fast-paced changes, faster adaptations!",
+                "🏗️ Thursday Build: From concept to deployment in record time!",
+                "🧀 Thursday Tradition: Roquefort + coding = proven productivity formula!"
+            ]
+            if random.random() < 0.4:
+                return random.choice(thursday_messages)
+        
+        # Weekend vibes (enhanced)
+        elif day_of_week >= 5 and contextual_config.get("weekend_mode", True):
             weekend_messages = [
-                "🏖️ Weekend coding sessions hit different - what are you building?",
+                f"🏖️ {calendar.day_name[day_of_week]} coding sessions hit different - what are you building?",
                 "☕ Perfect weekend for a side project and some good ristretto!",
                 "🎮 Weekend hack: Try building something fun, not just functional!",
-                "🌟 Weekends are for experimenting with that new framework!",
+                "🌟 Weekends are for experimenting with that new framework you bookmarked!",
                 "📚 Great time to dive deep into that tech book you've been meaning to read!",
                 "🧀 Weekend fuel: Roquefort, ristretto, and some quality coding time!",
                 "🥾 Perfect day for a hike followed by some AI/ML exploration!",
-                "🍇 Weekend energy: Learning + coding + fruit + fresh air = happiness! 😊"
+                "🍇 Weekend energy: Learning + coding + fruit + fresh air = happiness! 😊",
+                f"🛠️ Saturday Side Project: What innovative solution are we prototyping today?",
+                f"🌈 {calendar.day_name[day_of_week]} vibes: Where creativity meets technical excellence!"
             ]
             return random.choice(weekend_messages)
-
-        # Monday motivation
-        # Monday
-        elif day_of_week == 0 and contextual_config.get("monday_motivation", True):
-            monday_messages = [
-                "💪 Monday Motivation: This week, let's ship something amazing!",
-                "🚀 New week, new features to build! What's on your roadmap?",
-                "⚡ Monday Energy: Time to turn those weekend ideas into code!",
-                "🎯 Week Goals: Learn something new, build something cool!",
-                "🌟 Fresh start, fresh commits! Let's make this week count!",
-                "☕ Monday ristretto + passionate problem-solving = perfect combo!",
-                "🧀 New week fuel: Enthusiasm, curiosity, and maybe some good cheese! 😋"
-            ]
-            return random.choice(monday_messages)
-
-        # Friday celebration
-        # Friday
+        
+        # Friday celebration (enhanced)
         elif day_of_week == 4 and contextual_config.get("friday_celebration", True):
             friday_messages = [
-                "🎉 Friday Deploy: Hope your code is as solid as your weekend plans!",
-                "🍻 TGIF - Time to Git Integrate Friday's features!",
-                "🎊 Friday feeling: Your commits this week were fantastic!",
-                "🌈 End the week strong - one last push before the weekend!",
-                "🎈 Friday vibes: Celebrate every bug you squashed this week!"
+                "� TGIF! Time to Git Integrate Friday's features and celebrate the wins!",
+                "🍻 Friday Deploy: Hope your code is as solid as your weekend plans!",
+                "🎊 Friday feeling: Your commits this week were absolutely fantastic!",
+                "🌈 End the week strong - one last push before the weekend adventures!",
+                "🎈 Friday vibes: Celebrate every bug you've conquered this week!",
+                "🏆 Week Review: From Monday's goals to Friday's achievements - well done!",
+                f"🚀 Friday {now.strftime('%B %d')}: Another week of Pierre-Henry excellence!"
             ]
             return random.choice(friday_messages)
-
-        # Default to weighted random message
-        return self.get_random_message()
+        
+        # Default to enhanced weighted random message with context
+        base_message = self.get_random_message()
+        
+        # Add contextual flair to regular messages
+        context_additions = [
+            f" (Day {now.timetuple().tm_yday}/{365 + calendar.isleap(now.year)} of {now.year})",
+            f" - {calendar.day_name[day_of_week]} energy!",
+            f" Perfect for this {context['season']} day!",
+            ""  # Sometimes no addition for variety
+        ]
+        
+        return base_message + random.choice(context_additions)
 
     def generate_svg_chat(self, messages):
         """Generate an animated SVG with multiple chat messages using configured theme"""

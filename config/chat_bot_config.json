@@ -49,7 +49,13 @@
       "weekend_mode": true,
       "monday_motivation": true,
       "friday_celebration": true,
-      "time_based_greeting": false
+      "time_based_greeting": true,
+      "seasonal_messages": true,
+      "holiday_detection": true,
+      "tech_anniversaries": true,
+      "developer_special_days": true,
+      "moon_phase_info": true,
+      "dynamic_context": true
     }
   },
   "readme": {
