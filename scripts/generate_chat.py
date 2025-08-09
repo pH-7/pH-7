@@ -63,7 +63,7 @@ class ChatBotGenerator:
             "🔐 'Password' was the most common password for years!",
             "🚀 GitHub processes over 100 million repositories!"
         ]
-        
+
         self.tech_trends = [
             "🔮 AI is reshaping how we code - embrace the future!",
             "🌊 WebAssembly is making the web faster than ever!",
@@ -79,7 +79,7 @@ class ChatBotGenerator:
             "📊 Data science is revealing patterns we never knew existed!",
             "🧠 Emerging technologies are opening infinite possibilities!"
         ]
-        
+
     def load_config(self):
         """Load configuration from JSON file"""
         try:
@@ -91,7 +91,7 @@ class ChatBotGenerator:
         except json.JSONDecodeError:
             print("⚠️ Invalid JSON in config file, using defaults")
             return self.get_default_config()
-    
+
     def get_default_config(self):
         """Return default configuration if config file is missing"""
         return {
@@ -100,7 +100,7 @@ class ChatBotGenerator:
                 "avatar": "🤖",
                 "theme": {
                     "primary_color": "#10a37f",
-                    "secondary_color": "#0f7a5c", 
+                    "secondary_color": "#0f7a5c",
                     "accent_color": "#1a9f6e",
                     "text_color": "white",
                     "sparkle_colors": ["#ffd700", "#64748b", "#6366f1", "#8b5cf6"]
@@ -128,26 +128,27 @@ class ChatBotGenerator:
                 }
             }
         }
-        
+
     def get_weighted_message_type(self):
         """Select message type based on configured weights"""
         message_types = self.config["chat_bot"]["message_types"]
-        enabled_types = [(name, data) for name, data in message_types.items() if data["enabled"]]
-        
+        enabled_types = [(name, data)
+                         for name, data in message_types.items() if data["enabled"]]
+
         if not enabled_types:
             return "programming_tips"  # fallback
-        
+
         # Create weighted list
         weighted_choices = []
         for name, data in enabled_types:
             weighted_choices.extend([name] * data["weight"])
-        
+
         return random.choice(weighted_choices)
-    
+
     def get_random_message(self):
         """Get a random message from all categories using configured weights"""
         message_type = self.get_weighted_message_type()
-        
+
         if message_type == "programming_tips":
             return random.choice(self.programming_tips)
         elif message_type == "motivational_quotes":
@@ -160,16 +161,17 @@ class ChatBotGenerator:
             return random.choice(self.tech_trends)
         else:
             return random.choice(self.programming_tips)  # fallback
-    
+
     def get_contextual_message(self):
         """Get a message based on current context (day, time, etc.) if enabled"""
         contextual_config = self.config["chat_bot"]["contextual_messages"]
         now = datetime.now()
         day_of_week = now.weekday()  # 0 = Monday, 6 = Sunday
         hour = now.hour
-        
+
         # Weekend vibes
-        if day_of_week >= 5 and contextual_config.get("weekend_mode", True):  # Saturday or Sunday
+        # Saturday or Sunday
+        if day_of_week >= 5 and contextual_config.get("weekend_mode", True):
             weekend_messages = [
                 "🏖️ Weekend coding sessions hit different - what are you building?",
                 "☕ Perfect weekend for a side project and some good ristretto!",
@@ -181,9 +183,10 @@ class ChatBotGenerator:
                 "🍇 Weekend energy: Learning + coding + fruit + fresh air = happiness! 😊"
             ]
             return random.choice(weekend_messages)
-        
+
         # Monday motivation
-        elif day_of_week == 0 and contextual_config.get("monday_motivation", True):  # Monday
+        # Monday
+        elif day_of_week == 0 and contextual_config.get("monday_motivation", True):
             monday_messages = [
                 "💪 Monday Motivation: This week, let's ship something amazing!",
                 "🚀 New week, new features to build! What's on your roadmap?",
@@ -194,9 +197,10 @@ class ChatBotGenerator:
                 "🧀 New week fuel: Enthusiasm, curiosity, and maybe some good cheese! 😋"
             ]
             return random.choice(monday_messages)
-        
+
         # Friday celebration
-        elif day_of_week == 4 and contextual_config.get("friday_celebration", True):  # Friday
+        # Friday
+        elif day_of_week == 4 and contextual_config.get("friday_celebration", True):
             friday_messages = [
                 "🎉 Friday Deploy: Hope your code is as solid as your weekend plans!",
                 "🍻 TGIF - Time to Git Integrate Friday's features!",
@@ -205,27 +209,27 @@ class ChatBotGenerator:
                 "🎈 Friday vibes: Celebrate every bug you squashed this week!"
             ]
             return random.choice(friday_messages)
-        
+
         # Default to weighted random message
         return self.get_random_message()
-    
+
     def generate_svg_chat(self, message):
         """Generate an animated SVG with the chat message using configured theme"""
         theme = self.config["chat_bot"]["theme"]
         animation = self.config["chat_bot"]["animation"]
         avatar = self.config["chat_bot"]["avatar"]
-        
+
         # Calculate text length for dynamic sizing
         text_length = len(message)
         bubble_width = min(max(text_length * 8, 300), 500)
         svg_width = bubble_width + 100
-        
+
         # Split long messages into multiple lines
         words = message.split()
         lines = []
         current_line = ""
         max_chars_per_line = 50
-        
+
         for word in words:
             if len(current_line + " " + word) <= max_chars_per_line:
                 current_line += (" " + word) if current_line else word
@@ -233,32 +237,33 @@ class ChatBotGenerator:
                 if current_line:
                     lines.append(current_line)
                 current_line = word
-        
+
         if current_line:
             lines.append(current_line)
-        
+
         # Adjust bubble height based on number of lines
         bubble_height = 40 + (len(lines) * 16)
         svg_height = max(bubble_height + 40, 120)
-        
+
         # Generate sparkle colors
-        sparkle_colors = theme.get("sparkle_colors", ["#ffd700", "#64748b", "#6366f1", "#8b5cf6"])
+        sparkle_colors = theme.get(
+            "sparkle_colors", ["#ffd700", "#64748b", "#6366f1", "#8b5cf6"])
         sparkle_color = random.choice(sparkle_colors)
-        
-        svg_content = f'''<div align="center">
-  <svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">
+
+        # Generate standalone SVG content (without <div> wrapper)
+        svg_content = f'''<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">
     <!-- Enhanced ChatGPT-style bubble animation -->
     <defs>
       <style>
         .ai-bubble {{
           fill: url(#bubbleGradient);
           filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));'''
-        
+
         # Add pulse animation if enabled
         if animation.get("enable_pulse", True):
             svg_content += f'''
           animation: ai-pulse {animation.get("pulse_duration", "3s")} ease-in-out infinite alternate;'''
-        
+
         svg_content += f'''
         }}
         .ai-text {{
@@ -267,7 +272,7 @@ class ChatBotGenerator:
           font-size: 13px;
           font-weight: 500;
         }}'''
-        
+
         # Add typing dots animation if enabled
         if animation.get("enable_typing_dots", True):
             svg_content += f'''
@@ -278,13 +283,13 @@ class ChatBotGenerator:
         .dot1 {{ animation-delay: 0s; }}
         .dot2 {{ animation-delay: 0.3s; }}
         .dot3 {{ animation-delay: 0.6s; }}'''
-        
+
         svg_content += f'''
         .ai-avatar {{
           fill: {theme.get("primary_color", "#10a37f")};
           animation: avatar-glow 4s ease-in-out infinite;
         }}'''
-        
+
         # Add sparkle animation if enabled
         if animation.get("enable_sparkles", True):
             svg_content += f'''
@@ -292,7 +297,7 @@ class ChatBotGenerator:
           fill: {sparkle_color};
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }}'''
-        
+
         # Add floating symbols animation if enabled
         if animation.get("enable_floating_symbols", True):
             svg_content += f'''
@@ -351,12 +356,12 @@ class ChatBotGenerator:
     <path class="ai-bubble" d="M65 20 Q70 15 80 15 L{bubble_width-10} 15 Q{bubble_width} 15 {bubble_width} 25 L{bubble_width} {bubble_height-10} Q{bubble_width} {bubble_height} {bubble_width-10} {bubble_height} L85 {bubble_height} L70 {bubble_height+10} L70 {bubble_height} Q65 {bubble_height} 65 {bubble_height-10} Z"/>
     
     <!-- Chat text lines -->'''
-        
+
         # Add text lines
         for i, line in enumerate(lines):
             y_pos = 35 + (i * 16)
             svg_content += f'\n    <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
-        
+
         # Add typing indicator
         indicator_y = 35 + (len(lines) * 16) + 10
         svg_content += f'''
@@ -375,40 +380,53 @@ class ChatBotGenerator:
     <text x="20" y="{svg_height-20}" class="code-symbols" style="fill: #64748b; font-size: 14px; animation-delay: 0.5s;">&lt;/&gt;</text>
     <text x="{svg_width-40}" y="{svg_height-25}" class="code-symbols" style="fill: #6366f1; font-size: 12px; animation-delay: 1.2s;">{{ }}</text>
     <text x="{svg_width//2}" y="{svg_height-15}" class="code-symbols" style="fill: #8b5cf6; font-size: 10px; animation-delay: 2s;">=&gt;</text>
-  </svg>
-</div>'''
-        
+</svg>'''
+
         return svg_content
+
+    def generate_readme_svg_reference(self, message):
+        """Generate a simple SVG reference for README (without embedded styles)"""
+        return f'<div align="center">\n  <img src="chat_bubble.svg" alt="AI Chat Bubble" />\n</div>'
+
 
 def main():
     """Main function to generate and save the chat content"""
     generator = ChatBotGenerator()
-    
+
     # Get a contextual message
     message = generator.get_contextual_message()
-    
-    # Generate SVG
+
+    # Generate SVG for standalone file
     svg_content = generator.generate_svg_chat(message)
-    
+
+    # Generate simple reference for README
+    readme_svg = generator.generate_readme_svg_reference(message)
+
     # Save the message and timestamp
     data = {
         "message": message,
-        "svg": svg_content,
+        "svg": readme_svg,  # Use simple reference for README
         "timestamp": datetime.now().isoformat(),
         "last_updated": datetime.now().strftime("%B %d, %Y at %H:%M UTC")
     }
-    
+
     # Ensure the data directory exists
     os.makedirs("data", exist_ok=True)
-    
+
     # Save to JSON file
     with open("data/chat_data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    
+
+    # Save standalone SVG file
+    with open("chat_bubble.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
+
     print(f"✅ Generated new chat message: {message[:50]}...")
     print(f"📅 Timestamp: {data['last_updated']}")
-    
+    print(f"🎨 Created standalone SVG: chat_bubble.svg")
+
     return data
+
 
 if __name__ == "__main__":
     main()
