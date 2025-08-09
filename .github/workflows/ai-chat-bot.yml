@@ -1,0 +1,139 @@
+name: 🤖 Dynamic AI Chat Bot
+
+on:
+  schedule:
+    # Runs every 6 hours (4 times a day)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allows manual triggering
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/ai-chat-bot.yml'
+
+jobs:
+  update-ai-chat:
+    name: 🚀 Update AI Chat Bot Message
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install setuptools wheel
+          # No external dependencies needed for our script
+      
+      - name: 🎲 Generate New Chat Message
+        run: |
+          python3 scripts/generate_chat.py
+        env:
+          TZ: 'UTC'
+      
+      - name: 📝 Update README with New Chat
+        run: |
+          python3 scripts/update_readme.py
+      
+      - name: 🔍 Check for Changes
+        id: verify-changed-files
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected:"
+            git diff --name-only
+          fi
+      
+      - name: 📊 Show Generated Content
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          echo "🤖 New AI Chat Message Generated!"
+          if [ -f "data/chat_data.json" ]; then
+            echo "📄 Chat Data:"
+            cat data/chat_data.json | python -m json.tool
+          fi
+      
+      - name: 💾 Commit and Push Changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "AI Chat Bot 🤖"
+          git add -A
+          
+          # Get the message from the generated data
+          MESSAGE=$(python3 -c "
+          import json
+          try:
+              with open('data/chat_data.json', 'r') as f:
+                  data = json.load(f)
+                  print(data['message'][:50] + '...' if len(data['message']) > 50 else data['message'])
+          except:
+              print('Updated AI chat bot message')
+          ")
+          
+          git commit -m "🤖 Update AI chat bot: $MESSAGE" \
+                     -m "Generated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
+                     -m "Automated update from GitHub Actions" || exit 0
+          
+          git push
+      
+      - name: 📈 Workflow Summary
+        if: always()
+        run: |
+          echo "## 🤖 AI Chat Bot Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+            echo "✅ **Status:** Successfully updated with new chat message" >> $GITHUB_STEP_SUMMARY
+            
+            if [ -f "data/chat_data.json" ]; then
+              MESSAGE=$(python3 -c "
+              import json
+              try:
+                  with open('data/chat_data.json', 'r') as f:
+                      data = json.load(f)
+                      print(data['message'])
+              except:
+                  print('Unable to read message')
+              ")
+              echo "💬 **New Message:** $MESSAGE" >> $GITHUB_STEP_SUMMARY
+              
+              TIMESTAMP=$(python3 -c "
+              import json
+              try:
+                  with open('data/chat_data.json', 'r') as f:
+                      data = json.load(f)
+                      print(data['last_updated'])
+              except:
+                  print('Unknown')
+              ")
+              echo "🕒 **Updated:** $TIMESTAMP" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "ℹ️ **Status:** No changes needed (same message as previous run)" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🔄 **Next Update:** In 6 hours (automatic)" >> $GITHUB_STEP_SUMMARY
+          echo "⚡ **Manual Trigger:** Available via workflow_dispatch" >> $GITHUB_STEP_SUMMARY
+
+      - name: 🎯 Performance Check
+        if: always()
+        run: |
+          echo "⚡ Workflow completed in $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "📊 Repository size: $(du -sh . | cut -f1)"
+          echo "🗂️ Files modified: $(git diff --name-only HEAD~1 HEAD 2>/dev/null | wc -l || echo '0')"

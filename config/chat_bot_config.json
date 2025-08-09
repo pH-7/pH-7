@@ -1,0 +1,64 @@
+{
+  "chat_bot": {
+    "name": "Pierre-Henry's AI Assistant",
+    "avatar": "🤖",
+    "update_frequency": "every 6 hours",
+    "theme": {
+      "primary_color": "#10a37f",
+      "secondary_color": "#0f7a5c",
+      "accent_color": "#1a9f6e",
+      "text_color": "white",
+      "sparkle_colors": ["#ffd700", "#64748b", "#6366f1", "#8b5cf6"]
+    },
+    "animation": {
+      "enable_pulse": true,
+      "enable_typing_dots": true,
+      "enable_sparkles": true,
+      "enable_floating_symbols": true,
+      "pulse_duration": "3s",
+      "typing_duration": "1.8s"
+    },
+    "message_types": {
+      "programming_tips": {
+        "weight": 25,
+        "enabled": true
+      },
+      "motivational_quotes": {
+        "weight": 20,
+        "enabled": true
+      },
+      "personal_insights": {
+        "weight": 25,
+        "enabled": true
+      },
+      "fun_facts": {
+        "weight": 15,
+        "enabled": true
+      },
+      "tech_trends": {
+        "weight": 15,
+        "enabled": true
+      }
+    },
+    "contextual_messages": {
+      "weekend_mode": true,
+      "monday_motivation": true,
+      "friday_celebration": true,
+      "time_based_greeting": false
+    }
+  },
+  "readme": {
+    "insert_position": "after_subtitle",
+    "include_timestamp": true,
+    "include_message_preview": true,
+    "section_markers": {
+      "start": "<!-- DYNAMIC_CHAT:START -->",
+      "end": "<!-- DYNAMIC_CHAT:END -->"
+    }
+  },
+  "data": {
+    "storage_directory": "data",
+    "backup_previous_messages": true,
+    "max_backup_count": 10
+  }
+}
