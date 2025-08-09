@@ -405,10 +405,6 @@ def main():
     with open("data/chat_data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
-    # Also save just the SVG for easy inclusion
-    with open("data/chat_bubble.svg", "w", encoding="utf-8") as f:
-        f.write(svg_content)
-    
     print(f"✅ Generated new chat message: {message[:50]}...")
     print(f"📅 Timestamp: {data['last_updated']}")
     
