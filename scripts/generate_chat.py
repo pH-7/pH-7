@@ -504,7 +504,7 @@ class ChatBotGenerator:
             ]
             if random.random() < 0.6:
                 return random.choice(night_messages)
-        
+
         # Priority 6: Day-specific messages (enhanced)
         if day_of_week == 0 and contextual_config.get("monday_motivation", True):  # Monday
             monday_messages = [
