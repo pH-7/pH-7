@@ -7,11 +7,6 @@
 <div align="center">
   <img src="chat_bubble.svg" alt="AI Chat Bubble" />
 </div>
-
-<div align="center">
-  <em>🤖 AI Bot says: "☕ Perfect weekend for a side project and some good ristretto!"</em><br>
-  <small>Last updated: August 09, 2025 at 13:41 UTC</small>
-</div>
 <!-- DYNAMIC_CHAT:END -->
 
 #### 🏁 Happy Coding! 🤗

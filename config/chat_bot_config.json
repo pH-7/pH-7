@@ -1,4 +1,6 @@
 {
+  "_copyright": "(c) Pierre-Henry Soria <https://ph7.me>",
+  "_license": "MIT <https://opensource.org/license/mit>",
   "chat_bot": {
     "name": "Pierre-Henry's AI Assistant",
     "avatar": "🤖",
@@ -16,7 +18,10 @@
       "enable_sparkles": true,
       "enable_floating_symbols": true,
       "pulse_duration": "3s",
-      "typing_duration": "1.8s"
+      "typing_duration": "1.8s",
+      "multiple_messages": true,
+      "message_count": 3,
+      "message_delay": "4s"
     },
     "message_types": {
       "programming_tips": {
@@ -49,8 +54,8 @@
   },
   "readme": {
     "insert_position": "after_subtitle",
-    "include_timestamp": true,
-    "include_message_preview": true,
+    "include_timestamp": false,
+    "include_message_preview": false,
     "section_markers": {
       "start": "<!-- DYNAMIC_CHAT:START -->",
       "end": "<!-- DYNAMIC_CHAT:END -->"

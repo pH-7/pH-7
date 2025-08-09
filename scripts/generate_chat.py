@@ -2,6 +2,9 @@
 """
 Dynamic Chat Bot Generator for GitHub README
 Generates creative programming-related chat messages
+
+@copyright   (c) Pierre-Henry Soria <https://ph7.me>
+@license     MIT <https://opensource.org/license/mit>
 """
 
 import random
@@ -162,6 +165,36 @@ class ChatBotGenerator:
         else:
             return random.choice(self.programming_tips)  # fallback
 
+    def get_multiple_messages(self, count=3):
+        """Get multiple diverse messages for animated sequence"""
+        messages = []
+        used_types = []
+
+        for i in range(count):
+            # Try to get different message types for variety
+            attempts = 0
+            while attempts < 10:  # Prevent infinite loop
+                message_type = self.get_weighted_message_type()
+                if message_type not in used_types or len(used_types) >= 5:
+                    used_types.append(message_type)
+                    break
+                attempts += 1
+
+            if message_type == "programming_tips":
+                messages.append(random.choice(self.programming_tips))
+            elif message_type == "motivational_quotes":
+                messages.append(random.choice(self.motivational_quotes))
+            elif message_type == "personal_insights":
+                messages.append(random.choice(self.personal_insights))
+            elif message_type == "fun_facts":
+                messages.append(random.choice(self.fun_facts))
+            elif message_type == "tech_trends":
+                messages.append(random.choice(self.tech_trends))
+            else:
+                messages.append(random.choice(self.programming_tips))
+
+        return messages
+
     def get_contextual_message(self):
         """Get a message based on current context (day, time, etc.) if enabled"""
         contextual_config = self.config["chat_bot"]["contextual_messages"]
@@ -213,45 +246,63 @@ class ChatBotGenerator:
         # Default to weighted random message
         return self.get_random_message()
 
-    def generate_svg_chat(self, message):
-        """Generate an animated SVG with the chat message using configured theme"""
+    def generate_svg_chat(self, messages):
+        """Generate an animated SVG with multiple chat messages using configured theme"""
         theme = self.config["chat_bot"]["theme"]
         animation = self.config["chat_bot"]["animation"]
         avatar = self.config["chat_bot"]["avatar"]
 
-        # Calculate text length for dynamic sizing
-        text_length = len(message)
-        bubble_width = min(max(text_length * 8, 300), 500)
+        # Handle both single message and multiple messages
+        if isinstance(messages, str):
+            messages = [messages]
+
+        # Calculate dimensions based on longest message
+        max_length = max(len(msg) for msg in messages)
+        bubble_width = min(max(max_length * 8, 300), 550)
         svg_width = bubble_width + 100
 
-        # Split long messages into multiple lines
-        words = message.split()
-        lines = []
-        current_line = ""
-        max_chars_per_line = 50
+        # Split messages into lines
+        all_lines = []
+        for message in messages:
+            words = message.split()
+            lines = []
+            current_line = ""
+            max_chars_per_line = 50
 
-        for word in words:
-            if len(current_line + " " + word) <= max_chars_per_line:
-                current_line += (" " + word) if current_line else word
-            else:
-                if current_line:
-                    lines.append(current_line)
-                current_line = word
+            for word in words:
+                if len(current_line + " " + word) <= max_chars_per_line:
+                    current_line += (" " + word) if current_line else word
+                else:
+                    if current_line:
+                        lines.append(current_line)
+                    current_line = word
 
-        if current_line:
-            lines.append(current_line)
+            if current_line:
+                lines.append(current_line)
+            all_lines.append(lines)
 
-        # Adjust bubble height based on number of lines
-        bubble_height = 40 + (len(lines) * 16)
-        svg_height = max(bubble_height + 40, 120)
+        # Calculate height for the largest message
+        max_lines = max(len(lines) for lines in all_lines)
+        bubble_height = 40 + (max_lines * 16)
+        svg_height = max(bubble_height + 40, 140)
 
         # Generate sparkle colors
         sparkle_colors = theme.get(
             "sparkle_colors", ["#ffd700", "#64748b", "#6366f1", "#8b5cf6"])
         sparkle_color = random.choice(sparkle_colors)
 
-        # Generate standalone SVG content (without <div> wrapper)
-        svg_content = f'''<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">
+        # Check if multiple messages are enabled
+        multiple_enabled = animation.get("multiple_messages", False)
+        message_delay = animation.get("message_delay", "4s")
+
+        # Generate standalone SVG content
+        svg_content = f'''<!--
+/**
+ * @copyright   (c) Pierre-Henry Soria <https://ph7.me>
+ * @license     MIT <https://opensource.org/license/mit>
+ */
+-->
+<svg width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" xmlns="http://www.w3.org/2000/svg">
     <!-- Enhanced ChatGPT-style bubble animation -->
     <defs>
       <style>
@@ -306,6 +357,18 @@ class ChatBotGenerator:
           font-weight: bold;
           animation: float-rotate 6s ease-in-out infinite;
         }}'''
+
+        # Add message cycling animation if multiple messages
+        if multiple_enabled and len(messages) > 1:
+            svg_content += f'''
+        .message-group {{
+          animation: message-cycle {len(messages) * 4}s infinite;
+          opacity: 0;
+        }}
+        .message-group-1 {{ animation-delay: 0s; }}
+        .message-group-2 {{ animation-delay: {message_delay}; }}
+        .message-group-3 {{ animation-delay: {float(message_delay.replace('s', '')) * 2}s; }}'''
+
         # Add keyframes animations
         svg_content += f'''
         
@@ -333,7 +396,21 @@ class ChatBotGenerator:
           0%, 100% {{ transform: translateY(0px) rotate(0deg); opacity: 0.6; }}
           33% {{ transform: translateY(-8px) rotate(120deg); opacity: 0.8; }}
           66% {{ transform: translateY(-4px) rotate(240deg); opacity: 0.7; }}
-        }}
+        }}'''
+
+        if multiple_enabled and len(messages) > 1:
+            # Calculate timing for smooth transitions
+            display_duration = 25  # % of cycle time each message is visible
+            transition_duration = 5  # % for fade transitions
+            svg_content += f'''
+
+        @keyframes message-cycle {{
+          0%, {display_duration}% {{ opacity: 1; }}
+          {display_duration + transition_duration}%, {100 - transition_duration}% {{ opacity: 0; }}
+          100% {{ opacity: 0; }}
+        }}'''
+
+        svg_content += f'''
       </style>
       
       <!-- Gradient definitions -->
@@ -357,13 +434,24 @@ class ChatBotGenerator:
     
     <!-- Chat text lines -->'''
 
-        # Add text lines
-        for i, line in enumerate(lines):
-            y_pos = 35 + (i * 16)
-            svg_content += f'\n    <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
+        # Add text content - support multiple messages or single message
+        if multiple_enabled and len(messages) > 1:
+            # Multiple messages with cycling animation
+            for msg_idx, lines in enumerate(all_lines, 1):
+                svg_content += f'\n    <g class="message-group message-group-{msg_idx}">'
+                for i, line in enumerate(lines):
+                    y_pos = 35 + (i * 16)
+                    svg_content += f'\n      <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
+                svg_content += '\n    </g>'
+        else:
+            # Single message (use first message if multiple provided)
+            lines = all_lines[0]
+            for i, line in enumerate(lines):
+                y_pos = 35 + (i * 16)
+                svg_content += f'\n    <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
 
-        # Add typing indicator
-        indicator_y = 35 + (len(lines) * 16) + 10
+        # Add typing indicator (use longest message for positioning)
+        indicator_y = 35 + (max_lines * 16) + 10
         svg_content += f'''
     
     <!-- Typing indicator -->
@@ -393,22 +481,36 @@ def main():
     """Main function to generate and save the chat content"""
     generator = ChatBotGenerator()
 
-    # Get a contextual message
-    message = generator.get_contextual_message()
+    # Check if multiple messages are enabled
+    animation_config = generator.config["chat_bot"]["animation"]
+    multiple_enabled = animation_config.get("multiple_messages", False)
+
+    if multiple_enabled:
+        # Get multiple messages for cycling animation
+        message_count = animation_config.get("message_count", 3)
+        messages = generator.get_multiple_messages(message_count)
+        primary_message = messages[0]  # First message for JSON storage
+    else:
+        # Get a single contextual message
+        messages = generator.get_contextual_message()
+        primary_message = messages
 
     # Generate SVG for standalone file
-    svg_content = generator.generate_svg_chat(message)
+    svg_content = generator.generate_svg_chat(messages)
 
     # Generate simple reference for README
-    readme_svg = generator.generate_readme_svg_reference(message)
+    readme_svg = generator.generate_readme_svg_reference(primary_message)
 
     # Save the message and timestamp
     data = {
-        "message": message,
+        "message": primary_message,
         "svg": readme_svg,  # Use simple reference for README
         "timestamp": datetime.now().isoformat(),
         "last_updated": datetime.now().strftime("%B %d, %Y at %H:%M UTC")
     }
+
+    if multiple_enabled:
+        data["all_messages"] = messages
 
     # Ensure the data directory exists
     os.makedirs("data", exist_ok=True)
@@ -421,9 +523,12 @@ def main():
     with open("chat_bubble.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"✅ Generated new chat message: {message[:50]}...")
+    print(f"✅ Generated new chat message: {primary_message[:50]}...")
     print(f"📅 Timestamp: {data['last_updated']}")
     print(f"🎨 Created standalone SVG: chat_bubble.svg")
+
+    if multiple_enabled:
+        print(f"🔄 Multiple messages mode: {len(messages)} messages cycling")
 
     return data
 

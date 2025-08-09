@@ -1,3 +1,7 @@
+# Dynamic AI Chat Bot Workflow
+# @copyright   (c) Pierre-Henry Soria <https://ph7.me>
+# @license     MIT <https://opensource.org/license/mit>
+
 name: 🤖 Dynamic AI Chat Bot
 
 on:

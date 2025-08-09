@@ -1,4 +1,10 @@
-<svg width="588" height="120" viewBox="0 0 588 120" xmlns="http://www.w3.org/2000/svg">
+<!--
+/**
+ * @copyright   (c) Pierre-Henry Soria <https://ph7.me>
+ * @license     MIT <https://opensource.org/license/mit>
+ */
+-->
+<svg width="650" height="140" viewBox="0 0 650 140" xmlns="http://www.w3.org/2000/svg">
     <!-- Enhanced ChatGPT-style bubble animation -->
     <defs>
       <style>
@@ -33,31 +39,44 @@
           font-weight: bold;
           animation: float-rotate 6s ease-in-out infinite;
         }
-        
+        .message-group {
+          animation: message-cycle 12s infinite;
+          opacity: 0;
+        }
+        .message-group-1 { animation-delay: 0s; }
+        .message-group-2 { animation-delay: 4s; }
+        .message-group-3 { animation-delay: 8.0s; }
+
         @keyframes ai-pulse {
           0% { transform: scale(1) translateY(0px); opacity: 0.9; }
           100% { transform: scale(1.02) translateY(-2px); opacity: 1; }
         }
-        
+
         @keyframes typing-bounce {
           0%, 60%, 100% { opacity: 0.3; transform: translateY(0px); }
           30% { opacity: 1; transform: translateY(-4px); }
         }
-        
+
         @keyframes avatar-glow {
           0%, 100% { filter: drop-shadow(0 0 8px rgba(16,163,127,0.3)); }
           50% { filter: drop-shadow(0 0 16px rgba(16,163,127,0.6)); }
         }
-        
+
         @keyframes sparkle-twinkle {
           0%, 100% { opacity: 0.4; transform: scale(1) rotate(0deg); }
           50% { opacity: 1; transform: scale(1.2) rotate(180deg); }
         }
-        
+
         @keyframes float-rotate {
           0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.6; }
           33% { transform: translateY(-8px) rotate(120deg); opacity: 0.8; }
           66% { transform: translateY(-4px) rotate(240deg); opacity: 0.7; }
+        }
+
+        @keyframes message-cycle {
+          0%, 25% { opacity: 1; }
+          30%, 95% { opacity: 0; }
+          100% { opacity: 0; }
         }
       </style>
       
@@ -78,24 +97,33 @@
     <text x="35" y="42" text-anchor="middle" style="fill: white; font-size: 16px; font-weight: bold;">🤖</text>
     
     <!-- Main chat bubble with dynamic sizing -->
-    <path class="ai-bubble" d="M65 20 Q70 15 80 15 L478 15 Q488 15 488 25 L488 62 Q488 72 478 72 L85 72 L70 82 L70 72 Q65 72 65 62 Z"/>
+    <path class="ai-bubble" d="M65 20 Q70 15 80 15 L540 15 Q550 15 550 25 L550 62 Q550 72 540 72 L85 72 L70 82 L70 72 Q65 72 65 62 Z"/>
     
     <!-- Chat text lines -->
-    <text x="80" y="35" class="ai-text">☕ Perfect weekend for a side project and some good</text>
-    <text x="80" y="51" class="ai-text">ristretto!</text>
+    <g class="message-group message-group-1">
+      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
+      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+    </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
+    </g>
+    <g class="message-group message-group-3">
+      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+    </g>
     
     <!-- Typing indicator -->
-    <circle class="typing-dots dot1" cx="448" cy="77" r="2.5"/>
-    <circle class="typing-dots dot2" cx="460" cy="77" r="2.5"/>
-    <circle class="typing-dots dot3" cx="472" cy="77" r="2.5"/>
+    <circle class="typing-dots dot1" cx="510" cy="77" r="2.5"/>
+    <circle class="typing-dots dot2" cx="522" cy="77" r="2.5"/>
+    <circle class="typing-dots dot3" cx="534" cy="77" r="2.5"/>
     
     <!-- Floating sparkles -->
     <text x="15" y="25" class="sparkle" style="font-size: 12px;">✨</text>
-    <text x="563" y="30" class="sparkle" style="font-size: 10px; animation-delay: 1s;">⭐</text>
-    <text x="558" y="70" class="sparkle" style="font-size: 8px; animation-delay: 1.5s;">💫</text>
+    <text x="625" y="30" class="sparkle" style="font-size: 10px; animation-delay: 1s;">⭐</text>
+    <text x="620" y="70" class="sparkle" style="font-size: 8px; animation-delay: 1.5s;">💫</text>
     
     <!-- Floating code symbols -->
-    <text x="20" y="100" class="code-symbols" style="fill: #64748b; font-size: 14px; animation-delay: 0.5s;">&lt;/&gt;</text>
-    <text x="548" y="95" class="code-symbols" style="fill: #6366f1; font-size: 12px; animation-delay: 1.2s;">{ }</text>
-    <text x="294" y="105" class="code-symbols" style="fill: #8b5cf6; font-size: 10px; animation-delay: 2s;">=&gt;</text>
+    <text x="20" y="120" class="code-symbols" style="fill: #64748b; font-size: 14px; animation-delay: 0.5s;">&lt;/&gt;</text>
+    <text x="610" y="115" class="code-symbols" style="fill: #6366f1; font-size: 12px; animation-delay: 1.2s;">{ }</text>
+    <text x="325" y="125" class="code-symbols" style="fill: #8b5cf6; font-size: 10px; animation-delay: 2s;">=&gt;</text>
 </svg>
