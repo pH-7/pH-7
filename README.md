@@ -3,11 +3,8 @@
 
 ### 🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
-<!-- DYNAMIC_CHAT:START -->
-<div align="center">
-  <img src="chat_bubble.svg" alt="AI Chat Bubble" />
-</div>
-<!-- DYNAMIC_CHAT:END -->
+[![AI Chat Bubble](chat_bubble.svg)][x-url]
+
 
 #### 🏁 Happy Coding! 🤗
 
@@ -97,7 +94,7 @@
 ### 👋 Let's Connect! 🤗
 
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin-url]
-[<img align="left" alt="Follow Me on X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" />][twitter-url]
+[<img align="left" alt="Follow Me on X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" />][x-url]
 [<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" />][dev-url]
 [<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />][youtube-url]
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
@@ -105,7 +102,7 @@
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
-[twitter-url]: https://x.com/phenrysay
+[x-url]: https://x.com/phenrysay
 [dev-url]: https://dev.to/pierre/
 [youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
 [author-url]: https://pierrehenry.be
