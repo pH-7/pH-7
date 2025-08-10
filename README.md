@@ -9,6 +9,8 @@
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
   Pierre-Henry, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
+
+  [![Pierre-Henry Soria](https://avatars0.githubusercontent.com/u/1325411?s=200)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
