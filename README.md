@@ -8,11 +8,11 @@
 #### 🧩 Happy Problem-Solving! 🤗
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-  Pierre-Henry, a super passionate full-stack engineer with skills in Data Science, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
+  Pierre-Henry, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
-  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong> 🏁</p>
+  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong></p>
   <p>
     <img alt="Pierre-Henry Soria, GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=pH-7" />
   </p> 
