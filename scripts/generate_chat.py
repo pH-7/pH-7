@@ -863,7 +863,7 @@ def main():
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     # Save standalone SVG file
-    with open("chat_bubble.svg", "w", encoding="utf-8") as f:
+    with open("chat_conversation.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
     print(f"✅ Generated new chat message: {primary_message[:50]}...")
