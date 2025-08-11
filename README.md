@@ -10,7 +10,7 @@
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
   Pierre-Henry, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
 
-  [![Pierre-Henry Soria](https://avatars0.githubusercontent.com/u/1325411?s=200)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
+  [![Pierre-Henry Soria](https://private-user-images.githubusercontent.com/1325411/476325224-5d82ee36-78a2-41bd-8c14-9b80929105d5.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3OTIxODUsIm5iZiI6MTc1NDc5MTg4NSwicGF0aCI6Ii8xMzI1NDExLzQ3NjMyNTIyNC01ZDgyZWUzNi03OGEyLTQxYmQtOGMxNC05YjgwOTI5MTA1ZDUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MTBUMDIxMTI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzM4NDMyNDA2NDlhNjIxNjM3MjMxNmZiYmJhZTkwMTZlMWRhNjg0OGIzMjM3OWRhYmIzNWE0ZTA4YjRmNTk1YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.oHdA5OBmvEVbLMaSgOs11YeOeTH6x1gPPzfZq81z96Q)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
