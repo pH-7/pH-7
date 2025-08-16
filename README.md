@@ -2,7 +2,7 @@
 
 ### 🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
-[![AI Chat Bubble](chat_bubble.svg)][x-url]
+[![AI Chat Conversation](chat_conversation.svg)][x-url]
 
 
 #### 🧩 Happy Problem-Solving! 🤗
@@ -10,7 +10,7 @@
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
   Pierre-Henry, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
 
-  [![Pierre-Henry Soria](https://private-user-images.githubusercontent.com/1325411/476325224-5d82ee36-78a2-41bd-8c14-9b80929105d5.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3OTIxODUsIm5iZiI6MTc1NDc5MTg4NSwicGF0aCI6Ii8xMzI1NDExLzQ3NjMyNTIyNC01ZDgyZWUzNi03OGEyLTQxYmQtOGMxNC05YjgwOTI5MTA1ZDUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MTBUMDIxMTI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzM4NDMyNDA2NDlhNjIxNjM3MjMxNmZiYmJhZTkwMTZlMWRhNjg0OGIzMjM3OWRhYmIzNWE0ZTA4YjRmNTk1YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.oHdA5OBmvEVbLMaSgOs11YeOeTH6x1gPPzfZq81z96Q)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
+  [![Pierre-Henry Soria](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
 </details>
 
 <details><summary><ins><em>Further about me? 🤔</em></ins></summary>
@@ -79,13 +79,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [My Experience as a Sr Software Engineer with Cusrs...](https://www.youtube.com/watch?v=my9NTFUIIPc)
-- [Build a React Native Form Save Button with AI: Add...](https://www.youtube.com/watch?v=7jKb-0CWhTQ)
 - [I Built an MCP Server From Scratch   Here&#39;s What I...](https://www.youtube.com/watch?v=VL3lYdHmW2Y)
 - [Improve Your Code on Autopilot with Copilot React...](https://www.youtube.com/watch?v=swTfw4tP0nY)
 - [Refactoring Code with Copilot Agent in VS Code – M...](https://www.youtube.com/watch?v=UPcF-uGer3Y)
 - [I Updated This React Native App's UX Using GitHub...](https://www.youtube.com/watch?v=10LxN1033uU)
 - [How I Actually Use Cursor AI to Code Faster &lpar;Real...](https://www.youtube.com/watch?v=rgKH8vCzpyI)
+- [Build Your Own MCP Server. Walkthrough, Step-by-St...](https://www.youtube.com/watch?v=DEaSz8kVPH8)
+- [*UNFILTERED* Building a Sleeping Detector React Na...](https://www.youtube.com/watch?v=xvVn5nb1ow0)
 <!-- YOUTUBE:END -->
 
 
