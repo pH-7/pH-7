@@ -817,7 +817,7 @@ class ChatBotGenerator:
 
     def generate_readme_svg_reference(self, message):
         """Generate a simple SVG reference for README (without embedded styles)"""
-        return f'<div align="center">\n  <img src="chat_bubble.svg" alt="AI Chat Bubble" />\n</div>'
+        return f'<div align="center">\n  <img src="chat_conversation.svg" alt="AI Chat Bubble" />\n</div>'
 
 
 def main():
@@ -868,7 +868,7 @@ def main():
 
     print(f"✅ Generated new chat message: {primary_message[:50]}...")
     print(f"📅 Timestamp: {data['last_updated']}")
-    print(f"🎨 Created standalone SVG: chat_bubble.svg")
+    print(f"🎨 Created standalone SVG: chat_conversation.svg")
 
     if multiple_enabled:
         print(f"🔄 Multiple messages mode: {len(messages)} messages cycling")
