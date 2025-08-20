@@ -46,7 +46,7 @@ class ChatBotGenerator:
         self.personal_insights = [
             "🧀 Fun fact: Nothing beats a good Roquefort while coding - it's my secret fuel! ☕️",
             "☕️ Ristretto + coding = perfect combination for problem-solving sessions!",
-            "🍇 Daily fuel check: Learning ✓ Coding ✓ Researching ✓ Fruit ✓ Hiking ✓ Energized! 😊",
+            "🍇 Daily fuel check: Learning ✅ Coding ✅ Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊",
             "🤩 Could talk about programming and IT all night - who's up for it?",
             "🧀 True cheese lover here! Roquefort makes every debugging session better!",
             "🍫 Dark chocolate + ristretto = ultimate coding productivity boost!",
@@ -430,7 +430,7 @@ class ChatBotGenerator:
         elif context['season'] == "spring":
             spring_messages = [
                 "🌸 Spring cleaning your codebase? Time to refactor those legacy functions!",
-                "� New season, new features! What's growing in your repository?",
+                "🌱 New season, new features! What's growing in your repository?",
                 "🐝 Busy as a bee coding - spring energy is unstoppable!",
                 "🌈 After every debugging storm comes a rainbow of working code!",
                 f"🌙 {context['moon_phase']}"
@@ -443,7 +443,7 @@ class ChatBotGenerator:
                 "☀️ Summer vibes: Outdoor hiking + indoor coding = perfect balance!",
                 "🏖️ Beach day? Maybe later - these algorithms won't optimize themselves!",
                 "🌻 Bright summer day, bright coding ideas! Let the creativity flow!",
-                "� Tropical coding session: refreshing ideas under the warm sun!",
+                "🌴 Tropical coding session: refreshing ideas under the warm sun!",
                 f"🌙 {context['moon_phase']}"
             ]
             if random.random() < 0.7:
@@ -485,7 +485,7 @@ class ChatBotGenerator:
         
         elif 17 <= hour < 21:  # Evening
             evening_messages = [
-                "� Golden hour for golden code! Evening productivity hits different!",
+                "🌅 Golden hour for golden code! Evening productivity hits different!",
                 "🥾 Evening hike planned? Perfect time to think through architecture!",
                 "🍷 End of day reflection: What elegant solution did we build today?",
                 f"🌟 {calendar.day_name[day_of_week]} evening vibes - code, reflect, improve!",
@@ -566,7 +566,7 @@ class ChatBotGenerator:
         # Friday celebration (enhanced)
         elif day_of_week == 4 and contextual_config.get("friday_celebration", True):
             friday_messages = [
-                "� TGIF! Time to Git Integrate Friday's features and celebrate the wins!",
+                "🎉 TGIF! Time to Git Integrate Friday's features and celebrate the wins!",
                 "🍻 Friday Deploy: Hope your code is as solid as your weekend plans!",
                 "🎊 Friday feeling: Your commits this week were absolutely fantastic!",
                 "🌈 End the week strong - one last push before the weekend adventures!",
