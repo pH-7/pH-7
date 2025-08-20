@@ -1,3 +1,8 @@
+# YouTube Feed Workflow
+# This workflow updates the README with the latest YouTube videos from a specified channel.
+# @copyright   (c) Pierre-Henry Soria <https://ph7.me>
+# @license     MIT <https://opensource.org/license/mit>
+
 name: Latest Programming Videos
 on:
   schedule:
