@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
-      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌊 WebAssembly is making the web faster than ever!</text>
+      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
+      <text x="80" y="51" class="ai-text">persistence!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
-      <text x="80" y="51" class="ai-text">this!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     
     <!-- Typing indicator -->
