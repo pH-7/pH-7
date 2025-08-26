@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Coding in Caffeine Heaven: How I Use AI Cursor at...](https://www.youtube.com/watch?v=VXBL49wmQew)
 - [How to Use MCP Servers &lpar;Full Workflow&rpar;](https://www.youtube.com/watch?v=cS5sMBjaQVU)
 - [The BEST AI Copilot Prompt in VS Code It Works If...](https://www.youtube.com/watch?v=t64VuiijO4w)
 - [Revolutionize Your Coding: AI Engineering with Cur...](https://www.youtube.com/watch?v=Vc5okLkR2P8)
 - [My Experience as a Sr Software Engineer with Curso...](https://www.youtube.com/watch?v=my9NTFUIIPc)
 - [Build a React Native Form Save Button with AI: Add...](https://www.youtube.com/watch?v=7jKb-0CWhTQ)
 - [I Built an MCP Server From Scratch   Here&#39;s What I...](https://www.youtube.com/watch?v=VL3lYdHmW2Y)
-- [Improve Your Code on Autopilot with Copilot React...](https://www.youtube.com/watch?v=swTfw4tP0nY)
 <!-- YOUTUBE:END -->
 
 
