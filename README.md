@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How to be THE AI THINKER as a Software Engineer?](https://www.youtube.com/watch?v=iCA1Sqy4mCw)
+- [I Let GitHub Copilot Take Over My Coding — Life of...](https://www.youtube.com/watch?v=mUSQt0LA4SI)
+- [Building an App Live with Cursor AI – Watch the Ma...](https://www.youtube.com/watch?v=4a1IHkssrEc)
 - [AI Code Editors: Trust but Verify - A Guide for So...](https://www.youtube.com/watch?v=8IrsgzobOLo)
 - [Watch This: Code Cleverly with AI Cursor](https://www.youtube.com/watch?v=4fWNA1OiT_o)
 - [I Built a Full React Native App Using Only Cursor...](https://www.youtube.com/watch?v=iPyzbBFkbOY)
 - [Coding in Caffeine Heaven: How I Use AI Cursor at...](https://www.youtube.com/watch?v=VXBL49wmQew)
-- [How to Use MCP Servers &lpar;Full Workflow&rpar;](https://www.youtube.com/watch?v=cS5sMBjaQVU)
-- [The BEST AI Copilot Prompt in VS Code It Works If...](https://www.youtube.com/watch?v=t64VuiijO4w)
-- [Revolutionize Your Coding: AI Engineering with Cur...](https://www.youtube.com/watch?v=Vc5okLkR2P8)
 <!-- YOUTUBE:END -->
 
 
