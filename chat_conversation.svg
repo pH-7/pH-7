@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
-      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
+      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
+      <text x="80" y="51" class="ai-text">complex algorithms!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
-      <text x="80" y="51" class="ai-text">was rarely used!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🔄 GitOps is automating deployment workflows!</text>
+      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
+      <text x="80" y="51" class="ai-text">times ahead!</text>
     </g>
     
     <!-- Typing indicator -->
