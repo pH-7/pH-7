@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
+      <text x="80" y="51" class="ai-text">existed!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
-      <text x="80" y="51" class="ai-text">impact!</text>
+      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
+      <text x="80" y="51" class="ai-text">feels great afterward!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     
     <!-- Typing indicator -->
