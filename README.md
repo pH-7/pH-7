@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Why you shouldn&#39;t use the AI generated git commit...](https://www.youtube.com/watch?v=-KPnbRAgMt0)
 - [What Is an MCP Server? Explained Simply with Examp...](https://www.youtube.com/watch?v=sVkjGU_wuwI)
 - [How I Made iOS &amp; Android App Icons Directly with A...](https://www.youtube.com/watch?v=D66muWpLdVA)
 - [AI code editor iterates by learning from received...](https://www.youtube.com/watch?v=eQyK9o_jy8Q)
 - [I Let GitHub Copilot Take Over My Coding — Life of...](https://www.youtube.com/watch?v=mUSQt0LA4SI)
 - [Building an App Live with Cursor AI – Watch the Ma...](https://www.youtube.com/watch?v=4a1IHkssrEc)
 - [AI Code Editors: Trust but Verify - A Guide for So...](https://www.youtube.com/watch?v=8IrsgzobOLo)
-- [WATCH This: Code Cleverly with AI Cursor](https://www.youtube.com/watch?v=4fWNA1OiT_o)
 <!-- YOUTUBE:END -->
 
 
