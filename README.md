@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [MCP Servers are changing EVERYTHING - here&#39;s my RE...](https://www.youtube.com/watch?v=ZvS7XGoDbtA)
 - [Can AI Reassess Its Own Code? Exploring Self Evalu...](https://www.youtube.com/watch?v=K9eq1McJDTg)
 - [What Is an MCP Server? Explained Simply with Examp...](https://www.youtube.com/watch?v=sVkjGU_wuwI)
 - [How I Made iOS &amp; Android App Icons Directly with A...](https://www.youtube.com/watch?v=D66muWpLdVA)
 - [AI code editor iterates by learning from received...](https://www.youtube.com/watch?v=eQyK9o_jy8Q)
 - [I Let GitHub Copilot Take Over My Coding — Life of...](https://www.youtube.com/watch?v=mUSQt0LA4SI)
 - [Building an App Live with Cursor AI – Watch the Ma...](https://www.youtube.com/watch?v=4a1IHkssrEc)
-- [AI Code Editors: Trust but Verify - A Guide for So...](https://www.youtube.com/watch?v=8IrsgzobOLo)
 <!-- YOUTUBE:END -->
 
 
