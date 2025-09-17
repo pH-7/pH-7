@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #8b5cf6;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -105,11 +105,11 @@
       <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
-      <text x="80" y="51" class="ai-text">times ahead!</text>
+      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
+      <text x="80" y="51" class="ai-text">users!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     
     <!-- Typing indicator -->
