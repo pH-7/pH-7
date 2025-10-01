@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
-      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
+      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
     </g>
     
     <!-- Typing indicator -->
