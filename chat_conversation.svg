@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
-      <text x="80" y="51" class="ai-text">years!</text>
+      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
+      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
-      <text x="80" y="51" class="ai-text">persistence!</text>
+      <text x="80" y="35" class="ai-text">📱 Progressive Web Apps blur the line between web</text>
+      <text x="80" y="51" class="ai-text">and native!</text>
     </g>
     
     <!-- Typing indicator -->
