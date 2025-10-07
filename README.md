@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Building React Native Apps Just With Cursor AI - T...](https://www.youtube.com/watch?v=k-VqvNKFn4A)
+- [The Hidden Power of Cursor AI: Why This Code Edito...](https://www.youtube.com/watch?v=kNJAZe2-zxU)
 - [YOU SHOULDN’T AUTO-GENERATE COMMITS WITH AI! HOW T...](https://www.youtube.com/watch?v=V-QH6St6Ki8)
 - [How Cursor Makes the Software Engineer’s Job More...](https://www.youtube.com/watch?v=l-TWPiS2F4c)
 - [I Built an Entire React Native App Using Only Curs...](https://www.youtube.com/watch?v=r50OELw_TCI)
 - [Building a Sleep Detecting AI App That Actually Wo...](https://www.youtube.com/watch?v=Ouz4OsP_i5I)
 - [Mastering Cursor AI for MAX Efficiency 🔥](https://www.youtube.com/watch?v=uj1hkp9Bo9E)
-- [I’m a Software Engineer — Here’s What Meditation D...](https://www.youtube.com/watch?v=sUJBihxHi2k)
-- [How to Correctly Challenge AI to Avoid Bugs and Re...](https://www.youtube.com/watch?v=JvDpDaHz3Ig)
 <!-- YOUTUBE:END -->
 
 
