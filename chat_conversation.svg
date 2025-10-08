@@ -101,12 +101,12 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
+      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
     </g>
     <g class="message-group message-group-3">
       <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
