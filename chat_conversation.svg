@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
-      <text x="80" y="51" class="ai-text">keep growing!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📊 Fun fact: JavaScript was created in just 10</text>
-      <text x="80" y="51" class="ai-text">days!</text>
+      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
+      <text x="80" y="51" class="ai-text">users!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
-      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     
     <!-- Typing indicator -->
