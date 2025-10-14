@@ -81,13 +81,13 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How I Saved My Crashing React Native App - Cursor...](https://www.youtube.com/watch?v=gnF_fejfn8o)
 - [From Zero to Hero: Successfully Master GitHub Copi...](https://www.youtube.com/watch?v=_TtXWiVXD9g)
 - [FROM SCRATCH! Build a Desktop App with Electron JS...](https://www.youtube.com/watch?v=PeF0LBMKgvs)
 - [Building React Native Apps Just With Cursor AI - T...](https://www.youtube.com/watch?v=k-VqvNKFn4A)
 - [The Hidden Power of Cursor AI: Why This Code Edito...](https://www.youtube.com/watch?v=kNJAZe2-zxU)
 - [YOU SHOULDN’T AUTO-GENERATE COMMITS WITH AI! HOW T...](https://www.youtube.com/watch?v=V-QH6St6Ki8)
 - [How Cursor Makes the Software Engineer’s Job More...](https://www.youtube.com/watch?v=l-TWPiS2F4c)
-- [I Built an Entire React Native App Using Only Curs...](https://www.youtube.com/watch?v=r50OELw_TCI)
 <!-- YOUTUBE:END -->
 
 
