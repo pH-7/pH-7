@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
+      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
-      <text x="80" y="51" class="ai-text">deletion > addition.</text>
+      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
+      <text x="80" y="51" class="ai-text">users!</text>
     </g>
     
     <!-- Typing indicator -->
