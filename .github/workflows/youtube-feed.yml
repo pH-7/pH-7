@@ -22,7 +22,7 @@ jobs:
         with:
           comment_tag_name: 'YOUTUBE'
           max_post_count: 8
-          title_max_length: 50
+          title_max_length: 75
           commit_message: 'Update README with 7 latest YouTube videos'
           feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCGqLuT0upPiocwYSnnmqt2g'
           gh_token: ${{ secrets.GITHUB_TOKEN }}
