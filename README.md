@@ -63,7 +63,7 @@
 
 <details><summary><ins><em>What I'm doing? 💪</em></ins></summary>
 
-✔️ Coding <a href="https://pierrehenry.be/realtime-github-activity.html" target="_blank" rel="noopener">exciting projects</a> 🥳
+✔️ Building <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">exciting projects</a> 🥳
 
 ✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
 
@@ -108,4 +108,4 @@
 [x-url]: https://x.com/phenrysay
 [dev-url]: https://dev.to/pierre/
 [youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
-[author-url]: https://pierrehenry.be
+[author-url]: https://pierrehenry.dev
