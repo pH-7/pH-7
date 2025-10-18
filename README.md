@@ -81,13 +81,14 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Essential Tips for Software Engineers Using Cursor...](https://www.youtube.com/watch?v=5mvWLQtWfmU)
-- [This is what you should know as a software enginee...](https://www.youtube.com/watch?v=VwkV4JqgG9E)
-- [Online or Offline, this is how MCP Servers can BOO...](https://www.youtube.com/watch?v=au3jjF_ggVs)
-- [How I Saved My Crashing React Native App - Cursor...](https://www.youtube.com/watch?v=gnF_fejfn8o)
-- [From Zero to Hero: Successfully Master GitHub Copi...](https://www.youtube.com/watch?v=_TtXWiVXD9g)
-- [FROM SCRATCH! Build a Desktop App with Electron JS...](https://www.youtube.com/watch?v=PeF0LBMKgvs)
-- [Building React Native Apps Just With Cursor AI - T...](https://www.youtube.com/watch?v=k-VqvNKFn4A)
+- [Essential Tips for Software Engineers Using Cursor AI to Code Smarter](https://www.youtube.com/watch?v=5mvWLQtWfmU)
+- [This is what you should know as a software engineer? &lpar;MONEY TALKS&rpar;](https://www.youtube.com/watch?v=VwkV4JqgG9E)
+- [Online or Offline, this is how MCP Servers can BOOST any Data. And You Won&#39;...](https://www.youtube.com/watch?v=au3jjF_ggVs)
+- [How I Saved My Crashing React Native App - Cursor AI Debugging Journey](https://www.youtube.com/watch?v=gnF_fejfn8o)
+- [From Zero to Hero: Successfully Master GitHub Copilot in Your Organization...](https://www.youtube.com/watch?v=_TtXWiVXD9g)
+- [FROM SCRATCH! Build a Desktop App with Electron JS &amp; GitHub Copilot – Full...](https://www.youtube.com/watch?v=PeF0LBMKgvs)
+- [Building React Native Apps Just With Cursor AI - This Is What I Do As A Sof...](https://www.youtube.com/watch?v=k-VqvNKFn4A)
+- [The Hidden Power of Cursor AI: Why This Code Editor Changes Everything](https://www.youtube.com/watch?v=kNJAZe2-zxU)
 <!-- YOUTUBE:END -->
 
 
