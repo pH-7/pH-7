@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,14 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
-      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
+      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
+      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
-      <text x="80" y="51" class="ai-text">who's up for it?</text>
+      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
+      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
     </g>
     
     <!-- Typing indicator -->
