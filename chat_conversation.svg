@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,14 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
-      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
+      <text x="80" y="35" class="ai-text">🛡️ Zero-trust security is becoming the new</text>
+      <text x="80" y="51" class="ai-text">standard!</text>
     </g>
     
     <!-- Typing indicator -->
