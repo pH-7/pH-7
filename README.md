@@ -81,6 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How to Master GitHub Copilot AI and Become a Better Curious Engineer,Debugg...](https://www.youtube.com/watch?v=StQsBL3RGYw)
 - [Behind the Scenes of My MCP Servers. This is everything you have wanted to...](https://www.youtube.com/watch?v=VXWZ9wJa-hs)
 - [The Smart Way to Use Copilot to Your Advantage](https://www.youtube.com/watch?v=hcOTa7ZxOZM)
 - [Building an app with Cursor: Reasons I use Cursor AI over VS Code](https://www.youtube.com/watch?v=H1M_ooTOrTw)
@@ -88,7 +89,6 @@
 - [How to hide/pause your YouTube channel as a Youtuber?](https://www.youtube.com/watch?v=HgEl3og7uYs)
 - [This Is Why Software Engineers Are Now Using Cursor And Other AI-Driven Too...](https://www.youtube.com/watch?v=2p4p038B3WY)
 - [Essential Tips for Software Engineers Using Cursor AI to Code Smarter](https://www.youtube.com/watch?v=5mvWLQtWfmU)
-- [This is what you should know as a software engineer? &lpar;MONEY TALKS&rpar;](https://www.youtube.com/watch?v=VwkV4JqgG9E)
 <!-- YOUTUBE:END -->
 
 
