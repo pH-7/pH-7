@@ -81,6 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Use GPT MCP to connect your terminal/Code Editor to resume what you were co...](https://www.youtube.com/watch?v=aHq4fAK3w_4)
 - [MCP &amp; OpenAI ChatGPT Connectors](https://www.youtube.com/watch?v=7-q1RBJcIfY)
 - [How to Master GitHub Copilot AI and Become a Better Curious Engineer,Debugg...](https://www.youtube.com/watch?v=StQsBL3RGYw)
 - [Behind the Scenes of My MCP Servers. This is everything you have wanted to...](https://www.youtube.com/watch?v=VXWZ9wJa-hs)
@@ -88,7 +89,6 @@
 - [Building an app with Cursor: Reasons I use Cursor AI over VS Code](https://www.youtube.com/watch?v=H1M_ooTOrTw)
 - [Use efficiently ChatGPT Connectors to Build &amp; Ship FASTER as a Software Eng...](https://www.youtube.com/watch?v=yE94dn7zZI8)
 - [How to hide/pause your YouTube channel as a Youtuber?](https://www.youtube.com/watch?v=HgEl3og7uYs)
-- [This Is Why Software Engineers Are Now Using Cursor And Other AI-Driven Too...](https://www.youtube.com/watch?v=2p4p038B3WY)
 <!-- YOUTUBE:END -->
 
 
