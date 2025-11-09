@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
+      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
-      <text x="80" y="51" class="ai-text">a breeze!</text>
+      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
+      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
     </g>
     
     <!-- Typing indicator -->
