@@ -81,6 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [I ACCIDENTALLY BUILT AN MCP SERVER!](https://www.youtube.com/watch?v=Uds-tEzs1j0)
 - [Use ChatGPT Connectors with MCP to work on a codebase directly through your...](https://www.youtube.com/watch?v=os2CfhR_A8o)
 - [Design App Icons in Seconds with ChatGPT. iOS &amp; Android Icons Made Super Ea...](https://www.youtube.com/watch?v=ravX3FJN-xA)
 - [Stop Solving Problems You Don’t Understand](https://www.youtube.com/watch?v=nTxFpBzIVIg)
@@ -88,7 +89,6 @@
 - [MCP &amp; OpenAI ChatGPT Connectors](https://www.youtube.com/watch?v=7-q1RBJcIfY)
 - [How to Master GitHub Copilot AI and Become a Better Curious Engineer,Debugg...](https://www.youtube.com/watch?v=StQsBL3RGYw)
 - [Behind the Scenes of My MCP Servers. This is everything you have wanted to...](https://www.youtube.com/watch?v=VXWZ9wJa-hs)
-- [The Smart Way to Use Copilot to Your Advantage](https://www.youtube.com/watch?v=hcOTa7ZxOZM)
 <!-- YOUTUBE:END -->
 
 
