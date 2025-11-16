@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
-      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
+      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
+      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">🚀 Dream in code, build in reality, ship with</text>
+      <text x="80" y="51" class="ai-text">confidence!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
+      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
     </g>
     
     <!-- Typing indicator -->
