@@ -81,6 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Cursor Al. Let&#39;s be SMARTER!](https://www.youtube.com/watch?v=-r5Pc3TN0QM)
 - [Practical Tips to Use AI Copilot More Effectively in AI Driven Code Editors](https://www.youtube.com/watch?v=M1kt7fqTZUE)
 - [Cursor AI: Custom Modes for Each Specific Workflow](https://www.youtube.com/watch?v=-QvhO-cl44c)
 - [I ACCIDENTALLY BUILT AN MCP SERVER!](https://www.youtube.com/watch?v=Uds-tEzs1j0)
@@ -88,7 +89,6 @@
 - [Design App Icons in Seconds with ChatGPT. iOS &amp; Android Icons Made Super Ea...](https://www.youtube.com/watch?v=ravX3FJN-xA)
 - [Stop Solving Problems You Don’t Understand](https://www.youtube.com/watch?v=nTxFpBzIVIg)
 - [Use GPT MCP to connect your terminal/Code Editor to resume what you were co...](https://www.youtube.com/watch?v=aHq4fAK3w_4)
-- [MCP &amp; OpenAI ChatGPT Connectors](https://www.youtube.com/watch?v=7-q1RBJcIfY)
 <!-- YOUTUBE:END -->
 
 
