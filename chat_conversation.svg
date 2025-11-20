@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
-      <text x="80" y="51" class="ai-text">times ahead!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
-      <text x="80" y="51" class="ai-text">was rarely used!</text>
+      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
+      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
     </g>
     
     <!-- Typing indicator -->
