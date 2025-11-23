@@ -4,7 +4,7 @@
  * @license     MIT <https://opensource.org/license/mit>
  */
 -->
-<svg width="572" height="140" viewBox="0 0 572 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="508" height="140" viewBox="0 0 508 140" xmlns="http://www.w3.org/2000/svg">
     <!-- Enhanced ChatGPT-style bubble animation -->
     <defs>
       <style>
@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -97,33 +97,32 @@
     <text x="35" y="42" text-anchor="middle" style="fill: white; font-size: 16px; font-weight: bold;">🤖</text>
     
     <!-- Main chat bubble with dynamic sizing -->
-    <path class="ai-bubble" d="M65 20 Q70 15 80 15 L462 15 Q472 15 472 25 L472 62 Q472 72 462 72 L85 72 L70 82 L70 72 Q65 72 65 62 Z"/>
+    <path class="ai-bubble" d="M65 20 Q70 15 80 15 L398 15 Q408 15 408 25 L408 62 Q408 72 398 72 L85 72 L70 82 L70 72 Q65 72 65 62 Z"/>
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
-      <text x="80" y="51" class="ai-text">persistence!</text>
+      <text x="80" y="35" class="ai-text">🌊 WebAssembly is making the web faster than ever!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🧠 Emerging technologies are opening infinite</text>
-      <text x="80" y="51" class="ai-text">possibilities!</text>
+      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
+      <text x="80" y="35" class="ai-text">📊 Fun fact: JavaScript was created in just 10</text>
+      <text x="80" y="51" class="ai-text">days!</text>
     </g>
     
     <!-- Typing indicator -->
-    <circle class="typing-dots dot1" cx="432" cy="77" r="2.5"/>
-    <circle class="typing-dots dot2" cx="444" cy="77" r="2.5"/>
-    <circle class="typing-dots dot3" cx="456" cy="77" r="2.5"/>
+    <circle class="typing-dots dot1" cx="368" cy="77" r="2.5"/>
+    <circle class="typing-dots dot2" cx="380" cy="77" r="2.5"/>
+    <circle class="typing-dots dot3" cx="392" cy="77" r="2.5"/>
     
     <!-- Floating sparkles -->
     <text x="15" y="25" class="sparkle" style="font-size: 12px;">✨</text>
-    <text x="547" y="30" class="sparkle" style="font-size: 10px; animation-delay: 1s;">⭐</text>
-    <text x="542" y="70" class="sparkle" style="font-size: 8px; animation-delay: 1.5s;">💫</text>
+    <text x="483" y="30" class="sparkle" style="font-size: 10px; animation-delay: 1s;">⭐</text>
+    <text x="478" y="70" class="sparkle" style="font-size: 8px; animation-delay: 1.5s;">💫</text>
     
     <!-- Floating code symbols -->
     <text x="20" y="120" class="code-symbols" style="fill: #64748b; font-size: 14px; animation-delay: 0.5s;">&lt;/&gt;</text>
-    <text x="532" y="115" class="code-symbols" style="fill: #6366f1; font-size: 12px; animation-delay: 1.2s;">{ }</text>
-    <text x="286" y="125" class="code-symbols" style="fill: #8b5cf6; font-size: 10px; animation-delay: 2s;">=&gt;</text>
+    <text x="468" y="115" class="code-symbols" style="fill: #6366f1; font-size: 12px; animation-delay: 1.2s;">{ }</text>
+    <text x="254" y="125" class="code-symbols" style="fill: #8b5cf6; font-size: 10px; animation-delay: 2s;">=&gt;</text>
 </svg>
