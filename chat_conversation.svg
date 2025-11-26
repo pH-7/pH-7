@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
-      <text x="80" y="51" class="ai-text">in 1947!</text>
-    </g>
-    <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
-      <text x="80" y="51" class="ai-text">deletion > addition.</text>
-    </g>
-    <g class="message-group message-group-3">
       <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
       <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+    </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+    </g>
+    <g class="message-group message-group-3">
+      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
     </g>
     
     <!-- Typing indicator -->
