@@ -97,11 +97,12 @@
 
 ### 👋 Let's Connect! 🤗
 
-[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin-url]
-[<img align="left" alt="Follow Me on X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" />][x-url]
-[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" />][dev-url]
-[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />][youtube-url]
-[<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][author-url]
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12/icons/linkedin.svg">][linkedin-url]
+[<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url]
+[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/devdotto.svg">][dev-url]
+[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg">][youtube-url]
+[<img align="left" alt="Subscribe to my Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/substack.svg">][substack-url]
+[<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][author-url]
 
 
 <!-- GitHub's Markdown reference links -->
@@ -109,4 +110,5 @@
 [x-url]: https://x.com/phenrysay
 [dev-url]: https://dev.to/pierre/
 [youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
+[substack-url]: https://substack.com/@pierrehenry
 [author-url]: https://pierrehenry.dev
