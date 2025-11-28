@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
+      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
+      <text x="80" y="51" class="ai-text">was rarely used!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
-      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     
     <!-- Typing indicator -->
