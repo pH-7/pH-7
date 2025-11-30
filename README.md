@@ -81,7 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Why More Options Make UX Worse, Not Better #substack #shorts](https://www.youtube.com/shorts/unLNNUOHdiU)
+- [Why More Options Make UX Worse, Not Better #UX #Dev](https://www.youtube.com/shorts/unLNNUOHdiU)
 - [Hide Options, Let the App Learn from Users #substack #shorts](https://www.youtube.com/shorts/7fZROcTD00E)
 - [Start Your Data Science Journey: Build a GLM in Python](https://www.youtube.com/watch?v=Qw3yt8XLEsQ)
 - [Cursor Al. Let&#39;s be SMARTER!](https://www.youtube.com/watch?v=-r5Pc3TN0QM)
