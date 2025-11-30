@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #8b5cf6;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💡 Pro tip: Use meaningful variable names - your</text>
-      <text x="80" y="51" class="ai-text">future self will thank you!</text>
+      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
+      <text x="80" y="51" class="ai-text">keep growing!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
+      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
+      <text x="80" y="51" class="ai-text">experiences!</text>
     </g>
     
     <!-- Typing indicator -->
