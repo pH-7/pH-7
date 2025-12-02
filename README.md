@@ -81,14 +81,14 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [The SIMPLER ALWAYS WIN The Occam&#39;s Razor Principle   Power of Simplicity](https://www.youtube.com/watch?v=60LGAIHmZOc)
+- [Claude Code Agents Are Changing Everything for Developers](https://www.youtube.com/shorts/EwUv9cZyI_s)
+- [The power of Claude Code Agents](https://www.youtube.com/shorts/O4tX5CvgvJI)
+- [unknown](https://www.youtube.com/watch?v=eQ3t6LMmhRI)
+- [unknown](https://www.youtube.com/watch?v=lFaW6_-NMLc)
 - [Why More Options Make UX Worse, Not Better #UX #Dev](https://www.youtube.com/shorts/unLNNUOHdiU)
 - [Hide Options, Let the App Learn from Users #substack #shorts](https://www.youtube.com/shorts/7fZROcTD00E)
 - [Start Your Data Science Journey: Build a GLM in Python](https://www.youtube.com/watch?v=Qw3yt8XLEsQ)
-- [Cursor Al. Let&#39;s be SMARTER!](https://www.youtube.com/watch?v=-r5Pc3TN0QM)
-- [Practical Tips to Use AI Copilot More Effectively in AI Driven Code Editors](https://www.youtube.com/watch?v=M1kt7fqTZUE)
-- [Cursor AI: Custom Modes for Each Specific Workflow](https://www.youtube.com/watch?v=-QvhO-cl44c)
-- [I ACCIDENTALLY BUILT AN MCP SERVER!](https://www.youtube.com/watch?v=Uds-tEzs1j0)
-- [Use ChatGPT Connectors with MCP to work on a codebase directly through your...](https://www.youtube.com/watch?v=os2CfhR_A8o)
 <!-- YOUTUBE:END -->
 
 
