@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
-      <text x="80" y="51" class="ai-text">experiences!</text>
+      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
+      <text x="80" y="51" class="ai-text">times ahead!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
-      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
+      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
+      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
-      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
+      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
+      <text x="80" y="51" class="ai-text">was rarely used!</text>
     </g>
     
     <!-- Typing indicator -->
