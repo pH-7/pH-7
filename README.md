@@ -81,6 +81,7 @@
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How I Manage Large Codebases at Work &lpar;As a Senior Software Engineer&rpar;](https://www.youtube.com/watch?v=HdlvqdfFSTw)
 - [The SIMPLER ALWAYS WIN The Occam&#39;s Razor Principle   Power of Simplicity](https://www.youtube.com/watch?v=60LGAIHmZOc)
 - [Claude Code Agents Are Changing Everything for Developers](https://www.youtube.com/shorts/EwUv9cZyI_s)
 - [The power of Claude Code Agents](https://www.youtube.com/shorts/O4tX5CvgvJI)
@@ -88,7 +89,6 @@
 - [Hide Options, Let the App Learn from Users #substack #shorts](https://www.youtube.com/shorts/7fZROcTD00E)
 - [Start Your Data Science Journey: Build a GLM in Python](https://www.youtube.com/watch?v=Qw3yt8XLEsQ)
 - [Cursor Al. Let&#39;s be SMARTER!](https://www.youtube.com/watch?v=-r5Pc3TN0QM)
-- [Practical Tips to Use AI Copilot More Effectively in AI Driven Code Editors](https://www.youtube.com/watch?v=M1kt7fqTZUE)
 <!-- YOUTUBE:END -->
 
 
