@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
-      <text x="80" y="51" class="ai-text">experiences!</text>
+      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
+      <text x="80" y="51" class="ai-text">years!</text>
     </g>
     
     <!-- Typing indicator -->
