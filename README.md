@@ -8,7 +8,7 @@
 #### 🧩 Happy Problem-Solving! 🤗
 
 <details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-  Pierre-Henry, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledg to accomplish new projects or missions from scratch 😊
+**Pierre-Henry**, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML** and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
 
 <!--
   [![Pierre-Henry Soria](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
@@ -27,13 +27,13 @@
   
   ```mermaid
   journey
-    title 🌞 My Daily Routine 🏆
-    section Breakfast
-      TypeScript: 5
-    section Lunch
-      React: 5
-    section Dinner
-      IntegrationTests: 5
+    title "🌞 My Daily Routine 🏆"
+    section "Breakfast"
+      "TypeScript": 5
+    section "Lunch"
+      "React": 5
+    section "Dinner"
+      "IntegrationTests": 5
   ```
 </details>
 
@@ -92,7 +92,7 @@
 <!-- YOUTUBE:END -->
 
 
-![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/?username=pH-7&show_icons=true&include_all_commits=true)
+![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&show_icons=true&include_all_commits=true)
 
 
 ### 👋 Let's Connect! 🤗
