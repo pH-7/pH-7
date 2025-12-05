@@ -92,7 +92,7 @@
 <!-- YOUTUBE:END -->
 
 
-![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&show_icons=true&include_all_commits=true)
+![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/?username=pH-7&show_icons=true&include_all_commits=true)
 
 
 ### 👋 Let's Connect! 🤗
