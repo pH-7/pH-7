@@ -6,23 +6,30 @@
 
 #### 🧩 Happy Problem-Solving! 🤗
 
-<details open><summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
-**Pierre-Henry**, a super passionate **senior full-stack engineer** with skills in **Data Science**, **ML**, and **AI**, building things that matter with real impact on the world! 🌏 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes with rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I push a lot of focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
+<details open>
+  <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
-<!--
-  [![Pierre-Henry Soria](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
--->
+**[Pierre-Henry](https://pierrehenry.dev)**, a super passionate **Senior Full-Stack Engineer** with skills in **Data Science**, **ML**, and **AI**, building things that matter with real impact on the world! 🌏  
+
+I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes in rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I bring focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
+  
+  <!--
+    [![Pierre-Henry Soria](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry Soria, Senior Software Engineer")
+  -->
+
 </details>
 
-<details><summary><ins><em>Further about me? 🤔</em></ins></summary>
-<p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong></p>
-<p>
-  <img alt="Pierre-Henry Soria, GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=pH-7" />
-</p> 
+<details>
+  <summary><ins><em>Further about me? 🤔</em></ins></summary>
+  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong></p>
+  <p>
+    <img alt="Pierre-Henry Soria, GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=pH-7" />
+  </p> 
 </details>
 
-<details><summary><ins><em>My Principle 🎂</em></ins></summary>
-<em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
+<details>
+  <summary><ins><em>My Principle 🎂</em></ins></summary>
+  <em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
 
 ```mermaid
 journey
@@ -36,7 +43,8 @@ journey
   ```
 </details>
 
-<details><summary><ins><em>My Core Values 💥</em></ins></summary>
+<details>
+  <summary><ins><em>My Core Values 💥</em></ins></summary>
 
 ✅ **Enthusiastic and Highly Passionate** engineer.
 
@@ -60,7 +68,8 @@ journey
 
 </details>
 
-<details><summary><ins><em>What I'm doing? 💪</em></ins></summary>
+<details>
+  <summary><ins><em>What I'm doing? 💪</em></ins></summary>
 
 ✔️ Building <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">exciting projects</a> 🥳
 
