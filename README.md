@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Stop Being Average #softwareengineerjob](https://www.youtube.com/shorts/HdtbmN7dfq8)
+- [Don&#39;t Jump Straight Into Code #problemsolving](https://www.youtube.com/shorts/FaW3o96Eegg)
 - [How I Manage Large Codebases at Work &lpar;As a Senior Software Engineer&rpar;](https://www.youtube.com/watch?v=HdlvqdfFSTw)
-- [The SIMPLER ALWAYS WIN The Occam&#39;s Razor Principle   Power of Simplicity](https://www.youtube.com/watch?v=60LGAIHmZOc)
-- [Claude Code Agents Are Changing Everything for Developers](https://www.youtube.com/shorts/EwUv9cZyI_s)
+- [The SIMPLER ALWAYS WIN The Occam&#39;s Razor Principle](https://www.youtube.com/watch?v=60LGAIHmZOc)
+- [Claude Code Agents Are Changing Everything for Developers #AI](https://www.youtube.com/shorts/EwUv9cZyI_s)
 - [The power of Claude Code Agents](https://www.youtube.com/shorts/O4tX5CvgvJI)
 - [Why More Options Make UX Worse, Not Better #UX #Dev](https://www.youtube.com/shorts/unLNNUOHdiU)
 - [Hide Options, Let the App Learn from Users #substack #shorts](https://www.youtube.com/shorts/7fZROcTD00E)
-- [Start Your Data Science Journey: Build a GLM in Python](https://www.youtube.com/watch?v=Qw3yt8XLEsQ)
-- [Cursor Al. Let&#39;s be SMARTER!](https://www.youtube.com/watch?v=-r5Pc3TN0QM)
 <!-- YOUTUBE:END -->
 
 
