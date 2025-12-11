@@ -89,6 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [How Top Software Engineers Keep Getting Better Every Single Day](https://www.youtube.com/watch?v=nS3M9phDg1s)
 - [Stop Being Average #softwareengineerjob](https://www.youtube.com/shorts/HdtbmN7dfq8)
 - [Don&#39;t Jump Straight Into Code #problemsolving](https://www.youtube.com/shorts/FaW3o96Eegg)
 - [How I Manage Large Codebases at Work &lpar;As a Senior Software Engineer&rpar;](https://www.youtube.com/watch?v=HdlvqdfFSTw)
@@ -96,7 +97,6 @@ journey
 - [Claude Code Agents Are Changing Everything for Developers #AI](https://www.youtube.com/shorts/EwUv9cZyI_s)
 - [The power of Claude Code Agents](https://www.youtube.com/shorts/O4tX5CvgvJI)
 - [Why More Options Make UX Worse, Not Better #UX #Dev](https://www.youtube.com/shorts/unLNNUOHdiU)
-- [Hide Options, Let the App Learn from Users #substack #shorts](https://www.youtube.com/shorts/7fZROcTD00E)
 <!-- YOUTUBE:END -->
 
 
