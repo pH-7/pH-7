@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
-      <text x="80" y="51" class="ai-text">in 1947!</text>
+      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
+      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
+      <text x="80" y="51" class="ai-text">existed!</text>
     </g>
     
     <!-- Typing indicator -->
