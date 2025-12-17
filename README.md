@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [This GLM Learning Project Will Change How You Code AI](https://www.youtube.com/watch?v=5750CKy3KnQ)
+- [The Skills You Need to Become an AI Engineer Today](https://www.youtube.com/watch?v=no33q831OWA)
+- [12 Years in, Here’s How I Finally Enjoy My Work](https://www.youtube.com/watch?v=oavA-caBUCk)
+- [Automate Your PRs, Save Hours #substack #shorts](https://www.youtube.com/shorts/N6uNy4erMHI)
 - [Stop Managing, Start Leading: What Makes a Great Lead Enginee](https://www.youtube.com/watch?v=mH7-s69SGmE)
 - [How Top Software Engineers Keep Getting Better Every Single Day](https://www.youtube.com/watch?v=nS3M9phDg1s)
 - [Stop Being Average #softwareengineerjob](https://www.youtube.com/shorts/HdtbmN7dfq8)
-- [Don&#39;t Jump Straight Into Code #problemsolving](https://www.youtube.com/shorts/FaW3o96Eegg)
-- [How I Manage Large Codebases at Work &lpar;As a Senior Software Engineer&rpar;](https://www.youtube.com/watch?v=HdlvqdfFSTw)
-- [The SIMPLER ALWAYS WIN The Occam&#39;s Razor Principle](https://www.youtube.com/watch?v=60LGAIHmZOc)
-- [Claude Code Agents Are Changing Everything for Developers #AI](https://www.youtube.com/shorts/EwUv9cZyI_s)
-- [The power of Claude Code Agents](https://www.youtube.com/shorts/O4tX5CvgvJI)
+- [Don&#39;t Jump Straight Into Code #ProblemSolving](https://www.youtube.com/shorts/FaW3o96Eegg)
 <!-- YOUTUBE:END -->
 
 
