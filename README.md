@@ -89,6 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [What Makes a Software Engineer. Data Scientist Truly OUTSTANDING  The Path...](https://www.youtube.com/watch?v=woQ-1Gw5gEI)
 - [This GLM Learning Project Will Change How You Code AI](https://www.youtube.com/watch?v=5750CKy3KnQ)
 - [The Skills You Need to Become an AI Engineer Today](https://www.youtube.com/watch?v=no33q831OWA)
 - [12 Years in, Here’s How I Finally Enjoy My Work](https://www.youtube.com/watch?v=oavA-caBUCk)
@@ -96,7 +97,6 @@ journey
 - [Stop Managing, Start Leading: What Makes a Great Lead Enginee](https://www.youtube.com/watch?v=mH7-s69SGmE)
 - [How Top Software Engineers Keep Getting Better Every Single Day](https://www.youtube.com/watch?v=nS3M9phDg1s)
 - [Stop Being Average #softwareengineerjob](https://www.youtube.com/shorts/HdtbmN7dfq8)
-- [Don&#39;t Jump Straight Into Code #ProblemSolving](https://www.youtube.com/shorts/FaW3o96Eegg)
 <!-- YOUTUBE:END -->
 
 
