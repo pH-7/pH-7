@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Ship perfect product, not complete one](https://www.youtube.com/shorts/C6Q_Qp0SOko)
+- [Hidden AI Risks Every Software Engineer Should Know](https://www.youtube.com/watch?v=vyqFMDNVVzs)
 - [What Makes a Software Engineer. Data Scientist Truly OUTSTANDING  The Path...](https://www.youtube.com/watch?v=woQ-1Gw5gEI)
 - [This GLM Learning Project Will Change How You Code AI](https://www.youtube.com/watch?v=5750CKy3KnQ)
 - [The Skills You Need to Become an AI Engineer Today](https://www.youtube.com/watch?v=no33q831OWA)
 - [12 Years in, Here’s How I Finally Enjoy My Work](https://www.youtube.com/watch?v=oavA-caBUCk)
 - [Automate Your PRs, Save Hours #substack #shorts](https://www.youtube.com/shorts/N6uNy4erMHI)
 - [Stop Managing, Start Leading: What Makes a Great Lead Enginee](https://www.youtube.com/watch?v=mH7-s69SGmE)
-- [How Top Software Engineers Keep Getting Better Every Single Day](https://www.youtube.com/watch?v=nS3M9phDg1s)
-- [Stop Being Average #softwareengineerjob](https://www.youtube.com/shorts/HdtbmN7dfq8)
 <!-- YOUTUBE:END -->
 
 
