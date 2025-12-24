@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #8b5cf6;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,14 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
-      <text x="80" y="51" class="ai-text">years!</text>
+      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
-      <text x="80" y="51" class="ai-text">this!</text>
+      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
+      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
     </g>
     
     <!-- Typing indicator -->
