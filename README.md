@@ -89,7 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Ship perfect product, not complete one](https://www.youtube.com/shorts/C6Q_Qp0SOko)
+- [Ship PERFECT PRODUCT, not COMPLETE one](https://www.youtube.com/shorts/C6Q_Qp0SOko)
 - [Hidden AI Risks Every Software Engineer Should Know](https://www.youtube.com/watch?v=vyqFMDNVVzs)
 - [What Makes a Software Engineer. Data Scientist Truly OUTSTANDING  The Path...](https://www.youtube.com/watch?v=woQ-1Gw5gEI)
 - [This GLM Learning Project Will Change How You Code AI](https://www.youtube.com/watch?v=5750CKy3KnQ)
