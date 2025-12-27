@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [unknown](https://www.youtube.com/watch?v=buLC0RJJGxg)
+- [Learn Only What You Need, When You Need It #substack #shorts](https://www.youtube.com/shorts/JKAy37wZom4)
+- [Stop Learning &#39;Just In Case&#39;: Embrace Just-in-Time Learning #substack #shor...](https://www.youtube.com/shorts/MVY5xot0xtc)
+- [Stop Learning Just in Case—Embrace Just-in-Time Learning #substack #shorts](https://www.youtube.com/shorts/Wc0tc4aXvo0)
+- [How Just-in-Time Learning Makes You a Better Engineer #substack #shorts](https://www.youtube.com/shorts/RqAxLuYZIaE)
+- [unknown](https://www.youtube.com/watch?v=dL4FsSiy8yM)
 - [How I Use AI in EVERYTHING I Do &lpar;and Why You Should Too&rpar;](https://www.youtube.com/watch?v=PKb9ewvUHFE)
 - [Starting from Scratch: Create an Entire App Using Claude Code](https://www.youtube.com/watch?v=WIaE4JB1vcg)
-- [Ship PERFECT PRODUCT, not COMPLETE one](https://www.youtube.com/shorts/C6Q_Qp0SOko)
-- [Hidden AI Risks Every Software Engineer Should Know](https://www.youtube.com/watch?v=vyqFMDNVVzs)
-- [What Makes a Software Engineer. Data Scientist Truly OUTSTANDING  The Path...](https://www.youtube.com/watch?v=woQ-1Gw5gEI)
-- [This GLM Learning Project Will Change How You Code AI](https://www.youtube.com/watch?v=5750CKy3KnQ)
-- [The Skills You Need to Become an AI Engineer Today](https://www.youtube.com/watch?v=no33q831OWA)
-- [12 Years in, Here’s How I Finally Enjoy My Work](https://www.youtube.com/watch?v=oavA-caBUCk)
 <!-- YOUTUBE:END -->
 
 
