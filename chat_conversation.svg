@@ -101,16 +101,14 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
-      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
+      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
+      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
     </g>
     
     <!-- Typing indicator -->
