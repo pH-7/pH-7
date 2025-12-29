@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Be in the FLOW as a Software Engineer   Everything I learned after years wo...](https://www.youtube.com/watch?v=JsiQMZE2W_k)
+- [Infra, credits, and deployment pipelines #substack #shorts](https://www.youtube.com/shorts/jBYAKfhwKdc)
 - [unknown](https://www.youtube.com/watch?v=buLC0RJJGxg)
 - [Learn Only What You Need, When You Need It #substack #shorts](https://www.youtube.com/shorts/JKAy37wZom4)
 - [Stop Learning &#39;Just In Case&#39;: Embrace Just-in-Time Learning #substack #shor...](https://www.youtube.com/shorts/MVY5xot0xtc)
 - [Stop Learning Just in Case—Embrace Just-in-Time Learning #substack #shorts](https://www.youtube.com/shorts/Wc0tc4aXvo0)
 - [How Just-in-Time Learning Makes You a Better Engineer #substack #shorts](https://www.youtube.com/shorts/RqAxLuYZIaE)
 - [unknown](https://www.youtube.com/watch?v=dL4FsSiy8yM)
-- [How I Use AI in EVERYTHING I Do &lpar;and Why You Should Too&rpar;](https://www.youtube.com/watch?v=PKb9ewvUHFE)
-- [Starting from Scratch: Create an Entire App Using Claude Code](https://www.youtube.com/watch?v=WIaE4JB1vcg)
 <!-- YOUTUBE:END -->
 
 
