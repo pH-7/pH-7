@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Turn Data Into Predictions: Build a GLM Pipeline in Python](https://www.youtube.com/watch?v=K5_O-kSyiyg)
+- [I Built a GLM Data Science Pipeline in Python &lpar;Step by Step&rpar;](https://www.youtube.com/watch?v=yiOpyAUdLDs)
+- [How to Build Something Every Day: Creating a Coffee Snap App](https://www.youtube.com/watch?v=fU6s-o_Ei9I)
 - [Connect ChatGPT to Your Terminal &amp; VSCode in 5 Minutes!](https://www.youtube.com/watch?v=64jIvhqJJwM)
 - [Be in the FLOW as a Software Engineer   Everything I learned after years wo...](https://www.youtube.com/watch?v=JsiQMZE2W_k)
 - [Infra, credits, and Deployment Pipelines](https://www.youtube.com/shorts/jBYAKfhwKdc)
 - [Learn Only What You Need, When You Need It #substack #shorts](https://www.youtube.com/shorts/JKAy37wZom4)
-- [Stop Learning &#39;Just In Case&#39;: Embrace Just-in-Time Learning #substack #shor...](https://www.youtube.com/shorts/MVY5xot0xtc)
-- [Stop Learning Just in Case—Embrace Just-in-Time Learning #substack #shorts](https://www.youtube.com/shorts/Wc0tc4aXvo0)
-- [How Just-in-Time Learning Makes You a Better Engineer #substack #shorts](https://www.youtube.com/shorts/RqAxLuYZIaE)
-- [How I Use AI in EVERYTHING I Do &lpar;and Why You Should Too&rpar;](https://www.youtube.com/watch?v=PKb9ewvUHFE)
+- [Stop Learning &#39;Just In Case&#39;: Use the Just-in-Time Learning #learning](https://www.youtube.com/shorts/MVY5xot0xtc)
 <!-- YOUTUBE:END -->
 
 
