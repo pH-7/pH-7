@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💡 Pro tip: Use meaningful variable names - your</text>
-      <text x="80" y="51" class="ai-text">future self will thank you!</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
+      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧠 Emerging technologies are opening infinite</text>
-      <text x="80" y="51" class="ai-text">possibilities!</text>
+      <text x="80" y="35" class="ai-text">💡 Pro tip: Use meaningful variable names - your</text>
+      <text x="80" y="51" class="ai-text">future self will thank you!</text>
     </g>
     
     <!-- Typing indicator -->
