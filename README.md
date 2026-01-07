@@ -89,6 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [System Design and Problem Solving: Why Delivering Value Will Define Which E...](https://www.youtube.com/watch?v=9sgsEmL32o8)
 - [Software Engineers: If you do the following, AI won’t replace you](https://www.youtube.com/watch?v=F941qJFdUy8)
 - [The Secret Hack Every Developer Needs: Build a Prototype Before Anything](https://www.youtube.com/watch?v=OrHsa3hC6bk)
 - [DAY 1: Build an audience attention measurement system](https://www.youtube.com/watch?v=M9KC4n-gIh4)
@@ -96,7 +97,6 @@ journey
 - [I Built a GLM Data Science Pipeline in Python &lpar;Step by Step&rpar;](https://www.youtube.com/watch?v=yiOpyAUdLDs)
 - [How to Build Something Every Day: Creating a Coffee Snap App](https://www.youtube.com/watch?v=fU6s-o_Ei9I)
 - [Connect ChatGPT to Your Terminal &amp; VSCode in 5 Minutes!](https://www.youtube.com/watch?v=64jIvhqJJwM)
-- [Be in the FLOW as a Software Engineer   Everything I learned after years wo...](https://www.youtube.com/watch?v=JsiQMZE2W_k)
 <!-- YOUTUBE:END -->
 
 
