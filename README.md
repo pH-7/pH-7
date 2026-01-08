@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [DAY 2: Build an audience attention measurement system from SCRATCH &lpar;AI Engi...](https://www.youtube.com/watch?v=fpW4muqg76Y)
+- [How to Organize Code Repository Folders on Your Development Machine](https://www.youtube.com/watch?v=gxVAvm1YdBg)
+- [Continuously Learning Loop for Software Engineers {High-Paid Engineers}](https://www.youtube.com/watch?v=-bvO0meQuUE)
+- [Rapid prototyping demands continuous learning and research #substack #short...](https://www.youtube.com/shorts/pDu7-Gm3uTE)
+- [AI lets you build in languages you don&#39;t know #substack #shorts](https://www.youtube.com/shorts/u8sKO-EiZlg)
+- [I learned Rust with AI and switched to Torii #substack #shorts](https://www.youtube.com/shorts/v1exJwll40A)
+- [Productivity: How Building Systems in Your Life Can Make a Real Difference](https://www.youtube.com/watch?v=BJq4hwptDvo)
 - [System Design and Problem Solving: Why Delivering Value Will Define Which E...](https://www.youtube.com/watch?v=9sgsEmL32o8)
-- [Software Engineers: If you do the following, AI won’t replace you](https://www.youtube.com/watch?v=F941qJFdUy8)
-- [The Secret Hack Every Developer Needs: Build a Prototype Before Anything](https://www.youtube.com/watch?v=OrHsa3hC6bk)
-- [DAY 1: Build an audience attention measurement system](https://www.youtube.com/watch?v=M9KC4n-gIh4)
-- [Turn Data Into Predictions: Build a GLM Pipeline in Python](https://www.youtube.com/watch?v=K5_O-kSyiyg)
-- [I Built a GLM Data Science Pipeline in Python &lpar;Step by Step&rpar;](https://www.youtube.com/watch?v=yiOpyAUdLDs)
-- [How to Build Something Every Day: Creating a Coffee Snap App](https://www.youtube.com/watch?v=fU6s-o_Ei9I)
-- [Connect ChatGPT to Your Terminal &amp; VSCode in 5 Minutes!](https://www.youtube.com/watch?v=64jIvhqJJwM)
 <!-- YOUTUBE:END -->
 
 
