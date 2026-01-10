@@ -89,7 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [How MCP Servers Can Make Your Web Apps Faster, Smarter, and More Reliable](https://www.youtube.com/watch?v=B1WAjh4C-XA)
+- [unknown](https://www.youtube.com/watch?v=cw6Mi89gOgg)
 - [DAY 2: Build an audience attention measurement system from SCRATCH &lpar;AI Engi...](https://www.youtube.com/watch?v=fpW4muqg76Y)
 - [How to Organize Code Repository Folders on Your Development Machine](https://www.youtube.com/watch?v=gxVAvm1YdBg)
 - [Continuously Learning Loop for Software Engineers {High-Paid Engineers}](https://www.youtube.com/watch?v=-bvO0meQuUE)
