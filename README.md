@@ -89,6 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Stop Guessing Requirements: Build Software That Matches Specs Every Time](https://www.youtube.com/watch?v=GI0qyzId1CA)
 - [DAY 2: Build an audience attention measurement system from SCRATCH &lpar;AI Engi...](https://www.youtube.com/watch?v=fpW4muqg76Y)
 - [How to Organize Code Repository Folders on Your Development Machine](https://www.youtube.com/watch?v=gxVAvm1YdBg)
 - [Continuously Learning Loop for Software Engineers {High-Paid Engineers}](https://www.youtube.com/watch?v=-bvO0meQuUE)
@@ -96,7 +97,6 @@ journey
 - [AI lets you build in languages you don&#39;t know #substack #shorts](https://www.youtube.com/shorts/u8sKO-EiZlg)
 - [I learned Rust with AI and switched to Torii #substack #shorts](https://www.youtube.com/shorts/v1exJwll40A)
 - [Productivity: How Building Systems in Your Life Can Make a Real Difference](https://www.youtube.com/watch?v=BJq4hwptDvo)
-- [System Design and Problem Solving: Why Delivering Value Will Define Which E...](https://www.youtube.com/watch?v=9sgsEmL32o8)
 <!-- YOUTUBE:END -->
 
 
