@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [DAY 4: Build an audience attention measurement system](https://www.youtube.com/watch?v=2l3J-_MlOf8)
+- [Build From SCRATCH with CLAUDE CODE - AUTONOMOUS AGENT Code](https://www.youtube.com/watch?v=OpRtdn991ek)
+- [The Truth About Being a Software Engineer these days…](https://www.youtube.com/watch?v=N2pUOZCm77w)
+- [How GREAT ENGINEERS Ship FEATURES That NEVER BREAK for USERS](https://www.youtube.com/watch?v=NavhuGClSkw)
+- [DAY 3: Build an audience attention measurement system](https://www.youtube.com/watch?v=-vtoW4WApas)
 - [Stop Guessing Requirements: Build Software That Matches Specs Every Time](https://www.youtube.com/watch?v=GI0qyzId1CA)
 - [DAY 2: Build an audience attention measurement system from SCRATCH &lpar;AI Engi...](https://www.youtube.com/watch?v=fpW4muqg76Y)
 - [How to Organize Code Repository Folders on Your Development Machine](https://www.youtube.com/watch?v=gxVAvm1YdBg)
-- [Continuously Learning Loop for Software Engineers {High-Paid Engineers}](https://www.youtube.com/watch?v=-bvO0meQuUE)
-- [Rapid prototyping demands continuous learning and research #substack #short...](https://www.youtube.com/shorts/pDu7-Gm3uTE)
-- [AI lets you build in languages you don&#39;t know #substack #shorts](https://www.youtube.com/shorts/u8sKO-EiZlg)
-- [I learned Rust with AI and switched to Torii #substack #shorts](https://www.youtube.com/shorts/v1exJwll40A)
-- [Productivity: How Building Systems in Your Life Can Make a Real Difference](https://www.youtube.com/watch?v=BJq4hwptDvo)
 <!-- YOUTUBE:END -->
 
 
