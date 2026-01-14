@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [DAY 4: Build an audience attention measurement system](https://www.youtube.com/watch?v=2l3J-_MlOf8)
-- [Build From SCRATCH with CLAUDE CODE - AUTONOMOUS AGENT Code](https://www.youtube.com/watch?v=OpRtdn991ek)
-- [The Truth About Being a Software Engineer these days…](https://www.youtube.com/watch?v=N2pUOZCm77w)
-- [How GREAT ENGINEERS Ship FEATURES That NEVER BREAK for USERS](https://www.youtube.com/watch?v=NavhuGClSkw)
-- [DAY 3: Build an audience attention measurement system](https://www.youtube.com/watch?v=-vtoW4WApas)
-- [Stop Guessing Requirements: Build Software That Matches Specs Every Time](https://www.youtube.com/watch?v=GI0qyzId1CA)
-- [DAY 2: Build an audience attention measurement system from SCRATCH &lpar;AI Engi...](https://www.youtube.com/watch?v=fpW4muqg76Y)
-- [How to Organize Code Repository Folders on Your Development Machine](https://www.youtube.com/watch?v=gxVAvm1YdBg)
+- [The LITTLE THINGS I Do to LEARN FASTER as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=qvdUPtUZe8I)
+- [This is why SOLID PRINCIPLES can become your BEST FRIEND](https://www.youtube.com/watch?v=PD9hh2X8OhE)
+- [This is what matters the MOST as a SOFTWARE ENGINEER in 2026](https://www.youtube.com/watch?v=TkmpKNzlp2w)
+- [Be The Software Engineer Everybody Needs &lpar;How To Be Irreplaceable&rpar;](https://www.youtube.com/watch?v=SD7OTzdVYrA)
+- [Engineering Templates: Accelerate Your Development Workflow](https://www.youtube.com/watch?v=TIjOIeI3Yuc)
+- [Why Taking Breaks Makes You a 10x Better Engineer](https://www.youtube.com/watch?v=O2f3MFu8Uv4)
+- [THE QUESTIONS THAT DEFINE NEXT-GEN SOFTWARE](https://www.youtube.com/watch?v=L3SG6aJRlrE)
+- [The SECRET to Leveling Up FAST: JUST-IN-TIME LEARNING Explained](https://www.youtube.com/watch?v=7z-4mOMDhvI)
 <!-- YOUTUBE:END -->
 
 
