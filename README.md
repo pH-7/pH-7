@@ -89,7 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Complexity and Hours Spent as a Software Engineer](https://www.youtube.com/watch?v=rahUdK8A0mg)
+- [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
 - [Why you AREN’T AS GOOD as you SHOULD BE? How to be a BETTER Software Engine...](https://www.youtube.com/watch?v=s85zrC5sskY)
 - [Journey of a Software Engineer Using Claude Code. THIS IS JUST AI PROMPT EN...](https://www.youtube.com/watch?v=nzUGFEQ9o4s)
 - [What Engineers Miss When Using AI: The Context Problem](https://www.youtube.com/watch?v=pAr_RIlGQzI)
