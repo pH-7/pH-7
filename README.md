@@ -91,7 +91,7 @@ journey
 <!-- YOUTUBE:START -->
 - [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
 - [Why you AREN’T AS GOOD as you SHOULD BE? How to be a BETTER Software Engine...](https://www.youtube.com/watch?v=s85zrC5sskY)
-- [Journey of a Software Engineer Using Claude Code. THIS IS JUST AI PROMPT EN...](https://www.youtube.com/watch?v=nzUGFEQ9o4s)
+- [Journey of a SOFTWARE ENGINEER Using CLAUDE CODE &lpar;This is Just AI PROMPT EN...](https://www.youtube.com/watch?v=nzUGFEQ9o4s)
 - [What Engineers Miss When Using AI: The Context Problem](https://www.youtube.com/watch?v=pAr_RIlGQzI)
 - [Why DB design is a make-or-break choice #substack #shorts](https://www.youtube.com/shorts/BRiUOGK4VSc)
 - [DAY 6: Build an audience attention measurement smart tool for better market...](https://www.youtube.com/watch?v=ZgvjcaCnP4Q)
