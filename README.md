@@ -89,6 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Taking a Break to Focus on What&#39;s Next](https://www.youtube.com/watch?v=EOUCz0lh4sU)
 - [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
 - [Why you AREN’T AS GOOD as you SHOULD BE? How to be a BETTER Software Engine...](https://www.youtube.com/watch?v=s85zrC5sskY)
 - [Journey of a SOFTWARE ENGINEER Using CLAUDE CODE &lpar;This is Just AI PROMPT EN...](https://www.youtube.com/watch?v=nzUGFEQ9o4s)
@@ -96,7 +97,6 @@ journey
 - [Why DATABASE DESIGN is a MAKE-or-BREAK Choice &lpar;Don’t Mess This Up&rpar;](https://www.youtube.com/shorts/BRiUOGK4VSc)
 - [DAY 6: Build an audience attention measurement smart tool for better market...](https://www.youtube.com/watch?v=ZgvjcaCnP4Q)
 - [Know design to prompt AI better #substack #shorts](https://www.youtube.com/shorts/Zln0wJdKOCk)
-- [Stop building unneeded features #substack #shorts](https://www.youtube.com/shorts/Q4bqPU3_CZA)
 <!-- YOUTUBE:END -->
 
 
