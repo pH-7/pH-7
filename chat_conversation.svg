@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #8b5cf6;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
-      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
-      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
+      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
+      <text x="80" y="51" class="ai-text">keep growing!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">🌱 Green coding practices help save our planet!</text>
     </g>
     
     <!-- Typing indicator -->
