@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
-    </g>
-    <g class="message-group message-group-2">
       <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
       <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
+    </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌱 Green coding practices help save our planet!</text>
+      <text x="80" y="35" class="ai-text">📱 Progressive Web Apps blur the line between web</text>
+      <text x="80" y="51" class="ai-text">and native!</text>
     </g>
     
     <!-- Typing indicator -->
