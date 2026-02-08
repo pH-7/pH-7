@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #8b5cf6;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -105,12 +105,11 @@
       <text x="80" y="51" class="ai-text">productivity boost!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
-      <text x="80" y="51" class="ai-text">existed!</text>
+      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
-      <text x="80" y="51" class="ai-text">a breeze!</text>
+      <text x="80" y="35" class="ai-text">🧠 Emerging technologies are opening infinite</text>
+      <text x="80" y="51" class="ai-text">possibilities!</text>
     </g>
     
     <!-- Typing indicator -->
