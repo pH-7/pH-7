@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
-      <text x="80" y="51" class="ai-text">was rarely used!</text>
+      <text x="80" y="35" class="ai-text">🧠 Emerging technologies are opening infinite</text>
+      <text x="80" y="51" class="ai-text">possibilities!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
-      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     
     <!-- Typing indicator -->
