@@ -105,12 +105,11 @@
       <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
-      <text x="80" y="51" class="ai-text">in 1947!</text>
+      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
+      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
-      <text x="80" y="51" class="ai-text">keep growing!</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     
     <!-- Typing indicator -->
