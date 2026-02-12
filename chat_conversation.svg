@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
-      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
+      <text x="80" y="35" class="ai-text">🔮 AI is reshaping how we code - embrace the</text>
+      <text x="80" y="51" class="ai-text">future!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
-      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
+      <text x="80" y="35" class="ai-text">📊 Fun fact: JavaScript was created in just 10</text>
+      <text x="80" y="51" class="ai-text">days!</text>
     </g>
     
     <!-- Typing indicator -->
