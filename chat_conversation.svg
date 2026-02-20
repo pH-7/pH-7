@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🐍 Python was named after Monty Python's Flying</text>
-      <text x="80" y="51" class="ai-text">Circus!</text>
+      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
+      <text x="80" y="51" class="ai-text">keep growing!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
-      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     
     <!-- Typing indicator -->
