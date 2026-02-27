@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💡 Pro tip: Use meaningful variable names - your</text>
-      <text x="80" y="51" class="ai-text">future self will thank you!</text>
+      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
+      <text x="80" y="51" class="ai-text">existed!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
-      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
+      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
+      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎨 Code is poetry that computers can understand!</text>
+      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
+      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
     </g>
     
     <!-- Typing indicator -->
