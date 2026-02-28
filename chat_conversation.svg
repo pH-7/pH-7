@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
-      <text x="80" y="51" class="ai-text">existed!</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
-      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
-      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
+      <text x="80" y="35" class="ai-text">🎭 Micro-frontends are revolutionizing large</text>
+      <text x="80" y="51" class="ai-text">applications!</text>
     </g>
     
     <!-- Typing indicator -->
