@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
-      <text x="80" y="51" class="ai-text">a breeze!</text>
+      <text x="80" y="35" class="ai-text">🔮 AI is reshaping how we code - embrace the</text>
+      <text x="80" y="51" class="ai-text">future!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
-      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     
     <!-- Typing indicator -->
