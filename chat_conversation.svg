@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
+      <text x="80" y="51" class="ai-text">a breeze!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📊 Fun fact: JavaScript was created in just 10</text>
-      <text x="80" y="51" class="ai-text">days!</text>
+      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
-      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     
     <!-- Typing indicator -->
