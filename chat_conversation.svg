@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
-    </g>
-    <g class="message-group message-group-2">
       <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
       <text x="80" y="51" class="ai-text">persistence!</text>
     </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
+      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
+    </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
-      <text x="80" y="51" class="ai-text">existed!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     
     <!-- Typing indicator -->
