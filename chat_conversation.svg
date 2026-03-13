@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
-      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
-    </g>
-    <g class="message-group message-group-2">
       <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
       <text x="80" y="51" class="ai-text">this!</text>
     </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
+      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+    </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
-      <text x="80" y="51" class="ai-text">deletion > addition.</text>
+      <text x="80" y="35" class="ai-text">🔗 Blockchain isn't just crypto - it's trust in</text>
+      <text x="80" y="51" class="ai-text">code!</text>
     </g>
     
     <!-- Typing indicator -->
