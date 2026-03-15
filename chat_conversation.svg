@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
-      <text x="80" y="51" class="ai-text">deletion > addition.</text>
+      <text x="80" y="35" class="ai-text">🍫 Dark chocolate + ristretto = ultimate coding</text>
+      <text x="80" y="51" class="ai-text">productivity boost!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
-      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
+      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌱 Green coding practices help save our planet!</text>
+      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
+      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
     </g>
     
     <!-- Typing indicator -->
