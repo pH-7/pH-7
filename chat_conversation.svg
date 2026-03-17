@@ -101,14 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
+      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
+      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
-      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
+      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
+      <text x="80" y="51" class="ai-text">feels great afterward!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
+      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
+      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
     </g>
     
     <!-- Typing indicator -->
