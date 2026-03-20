@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
-      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+      <text x="80" y="35" class="ai-text">🎭 Micro-frontends are revolutionizing large</text>
+      <text x="80" y="51" class="ai-text">applications!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
-      <text x="80" y="51" class="ai-text">this!</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     
     <!-- Typing indicator -->
