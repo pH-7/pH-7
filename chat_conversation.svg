@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
-      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
+      <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
+      <text x="80" y="51" class="ai-text">in 1947!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💡 Pro tip: Use meaningful variable names - your</text>
-      <text x="80" y="51" class="ai-text">future self will thank you!</text>
+      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
+      <text x="80" y="51" class="ai-text">persistence!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
-      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
+      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
+      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
     </g>
     
     <!-- Typing indicator -->
