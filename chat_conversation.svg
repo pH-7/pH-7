@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #8b5cf6;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧠 Emerging technologies are opening infinite</text>
-      <text x="80" y="51" class="ai-text">possibilities!</text>
+      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
+      <text x="80" y="51" class="ai-text">experiences!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
-      <text x="80" y="51" class="ai-text">impact!</text>
+      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
+      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
     </g>
     
     <!-- Typing indicator -->
