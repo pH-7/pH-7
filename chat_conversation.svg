@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
-      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
+      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
+      <text x="80" y="51" class="ai-text">users!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
-      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">📱 Progressive Web Apps blur the line between web</text>
-      <text x="80" y="51" class="ai-text">and native!</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     
     <!-- Typing indicator -->
