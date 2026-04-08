@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
-      <text x="80" y="51" class="ai-text">this!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
-      <text x="80" y="51" class="ai-text">a breeze!</text>
+      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
+      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
     </g>
     
     <!-- Typing indicator -->
