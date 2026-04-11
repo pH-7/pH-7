@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
-      <text x="80" y="51" class="ai-text">years!</text>
+      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
+      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📱 Progressive Web Apps blur the line between web</text>
-      <text x="80" y="51" class="ai-text">and native!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
-      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
+      <text x="80" y="51" class="ai-text">impact!</text>
     </g>
     
     <!-- Typing indicator -->
