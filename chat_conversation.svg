@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
+      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
-      <text x="80" y="51" class="ai-text">users!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     
     <!-- Typing indicator -->
