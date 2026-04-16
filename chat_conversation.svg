@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
+      <text x="80" y="51" class="ai-text">complex algorithms!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌊 WebAssembly is making the web faster than ever!</text>
+      <text x="80" y="35" class="ai-text">🔗 Blockchain isn't just crypto - it's trust in</text>
+      <text x="80" y="51" class="ai-text">code!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
+      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
+      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
     </g>
     
     <!-- Typing indicator -->
