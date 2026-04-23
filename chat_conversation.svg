@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
-      <text x="80" y="51" class="ai-text">times ahead!</text>
+      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
+      <text x="80" y="51" class="ai-text">existed!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
+      <text x="80" y="51" class="ai-text">who's up for it?</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
-      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
+      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
     </g>
     
     <!-- Typing indicator -->
