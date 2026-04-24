@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #64748b;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
-      <text x="80" y="51" class="ai-text">existed!</text>
-    </g>
-    <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
-      <text x="80" y="51" class="ai-text">who's up for it?</text>
-    </g>
-    <g class="message-group message-group-3">
       <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
       <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+    </g>
+    <g class="message-group message-group-2">
+      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
+      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+    </g>
+    <g class="message-group message-group-3">
+      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
     </g>
     
     <!-- Typing indicator -->
