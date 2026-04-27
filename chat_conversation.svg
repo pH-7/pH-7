@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎭 Micro-frontends are revolutionizing large</text>
-      <text x="80" y="51" class="ai-text">applications!</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">☕️ Ristretto + coding = perfect combination for</text>
-      <text x="80" y="51" class="ai-text">problem-solving sessions!</text>
+      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
+      <text x="80" y="51" class="ai-text">persistence!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">⚡ Edge computing is bringing processing closer to</text>
+      <text x="80" y="51" class="ai-text">users!</text>
     </g>
     
     <!-- Typing indicator -->
