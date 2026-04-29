@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
-      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+      <text x="80" y="35" class="ai-text">🐍 Python was named after Monty Python's Flying</text>
+      <text x="80" y="51" class="ai-text">Circus!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
+      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
+      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
+      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
     </g>
     
     <!-- Typing indicator -->
