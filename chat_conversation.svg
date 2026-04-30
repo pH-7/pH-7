@@ -101,15 +101,14 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
-      <text x="80" y="51" class="ai-text">times ahead!</text>
+      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
+      <text x="80" y="35" class="ai-text">🌈 Every bug fixed makes you a stronger developer!</text>
     </g>
     
     <!-- Typing indicator -->
