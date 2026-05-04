@@ -75,7 +75,7 @@ journey
 
 ✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
 
-✔️ Drinking coffees/teas ☕️ and eating vegetarian healthy food 🥕
+✔️ Drinking oat flat whites ☕️ and eating healthy vegetarian food 🥕
 
 ✔️ Listening to informational Podcasts and Audible 🎧 while walking/hiking 🐾
 
@@ -106,12 +106,11 @@ journey
 ### 👋 Let's Connect! 🤗
 
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12/icons/linkedin.svg">][linkedin-url]
-[<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url]
 [<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg">][youtube-url]
 [<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/devdotto.svg">][dev-url]
 [<img align="left" alt="Subscribe to my Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/substack.svg">][substack-url]
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][author-url]
-
+<!-- [<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url] -->
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
