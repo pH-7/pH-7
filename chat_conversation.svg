@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
+      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
+      <text x="80" y="51" class="ai-text">impact!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
-      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
+      <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
+      <text x="80" y="51" class="ai-text">in 1947!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
-      <text x="80" y="51" class="ai-text">experiences!</text>
+      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
+      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
     </g>
     
     <!-- Typing indicator -->
