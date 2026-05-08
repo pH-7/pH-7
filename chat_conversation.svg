@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
-      <text x="80" y="51" class="ai-text">impact!</text>
+      <text x="80" y="35" class="ai-text">🔮 AI is reshaping how we code - embrace the</text>
+      <text x="80" y="51" class="ai-text">future!</text>
     </g>
     <g class="message-group message-group-2">
       <text x="80" y="35" class="ai-text">🔍 The term 'bug' was popularized by Grace Hopper</text>
       <text x="80" y="51" class="ai-text">in 1947!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
+      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
+      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
     </g>
     
     <!-- Typing indicator -->
