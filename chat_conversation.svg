@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
-      <text x="80" y="51" class="ai-text">years!</text>
+      <text x="80" y="35" class="ai-text">🍫 Dark chocolate + ristretto = ultimate coding</text>
+      <text x="80" y="51" class="ai-text">productivity boost!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
-      <text x="80" y="51" class="ai-text">impact!</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🤖 Machine Learning is democratizing AI - exciting</text>
+      <text x="80" y="51" class="ai-text">times ahead!</text>
     </g>
     
     <!-- Typing indicator -->
