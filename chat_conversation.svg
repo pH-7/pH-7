@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
-      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+      <text x="80" y="35" class="ai-text">🔐 'Password' was the most common password for</text>
+      <text x="80" y="51" class="ai-text">years!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤖 Did you know? The first computer bug was an</text>
-      <text x="80" y="51" class="ai-text">actual bug - a moth stuck in a relay!</text>
+      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
+      <text x="80" y="51" class="ai-text">impact!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
-      <text x="80" y="51" class="ai-text">persistence!</text>
+      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
+      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     
     <!-- Typing indicator -->
