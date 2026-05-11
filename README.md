@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [SOLID: Single Responsibility #substack #shorts](https://www.youtube.com/shorts/4qdS63QuC2s)
+- [Use AI, Own the Feature #substack #shorts](https://www.youtube.com/shorts/5LbxULpQ-f8)
 - [Stop settling — choose better tools #substack #shorts](https://www.youtube.com/shorts/ZhoN7Ytneg8)
 - [Tiny Changes That Make You WAY Better Than Everyone Else](https://www.youtube.com/watch?v=4VaZNi1YYVU)
 - [Taking a Break to Focus on What&#39;s Next](https://www.youtube.com/watch?v=EOUCz0lh4sU)
 - [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
 - [Why you AREN’T AS GOOD as you SHOULD BE? How to be a BETTER Software Engine...](https://www.youtube.com/watch?v=s85zrC5sskY)
 - [Journey of a SOFTWARE ENGINEER Using CLAUDE CODE &lpar;This is Just AI PROMPT EN...](https://www.youtube.com/watch?v=nzUGFEQ9o4s)
-- [What Engineers Miss When Using AI: The Context Problem](https://www.youtube.com/watch?v=pAr_RIlGQzI)
-- [Why DATABASE DESIGN is a MAKE-or-BREAK Choice &lpar;Don’t Mess This Up&rpar;](https://www.youtube.com/shorts/BRiUOGK4VSc)
 <!-- YOUTUBE:END -->
 
 
