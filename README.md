@@ -89,9 +89,9 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [SOLID: Single Responsibility #substack #shorts](https://www.youtube.com/shorts/4qdS63QuC2s)
-- [Use AI, Own the Feature #substack #shorts](https://www.youtube.com/shorts/5LbxULpQ-f8)
-- [Stop settling — choose better tools #substack #shorts](https://www.youtube.com/shorts/ZhoN7Ytneg8)
+- [SOLID: Single Responsibility](https://www.youtube.com/shorts/4qdS63QuC2s)
+- [Use #AI, Own the #Feature](https://www.youtube.com/shorts/5LbxULpQ-f8)
+- [Stop settling — choose better tools #AIEng #solution](https://www.youtube.com/shorts/ZhoN7Ytneg8)
 - [Tiny Changes That Make You WAY Better Than Everyone Else](https://www.youtube.com/watch?v=4VaZNi1YYVU)
 - [Taking a Break to Focus on What&#39;s Next](https://www.youtube.com/watch?v=EOUCz0lh4sU)
 - [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
