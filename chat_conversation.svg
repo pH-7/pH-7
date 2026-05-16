@@ -101,15 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🍇 Daily fuel check: Learning ✅ Coding ✅</text>
-      <text x="80" y="51" class="ai-text">Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊</text>
+      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
+      <text x="80" y="51" class="ai-text">experiences!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
+      <text x="80" y="35" class="ai-text">💻 The '@' symbol was chosen for email because it</text>
+      <text x="80" y="51" class="ai-text">was rarely used!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🛡️ Zero-trust security is becoming the new</text>
-      <text x="80" y="51" class="ai-text">standard!</text>
+      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
+      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
     </g>
     
     <!-- Typing indicator -->
