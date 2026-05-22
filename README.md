@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [From bad refactors to clean, career-proof architecture #substack #shorts](https://www.youtube.com/shorts/1Y7g61_l7DQ)
-- [Don&#39;t let refactors break your architecture #substack #shorts](https://www.youtube.com/shorts/-Ft4H6ZV_2w)
-- [SOLID: Single Responsibility](https://www.youtube.com/shorts/4qdS63QuC2s)
-- [Use #AI, Own the #Feature](https://www.youtube.com/shorts/5LbxULpQ-f8)
-- [Stop settling — choose better tools #AIEng #solution](https://www.youtube.com/shorts/ZhoN7Ytneg8)
-- [Tiny Changes That Make You WAY Better Than Everyone Else](https://www.youtube.com/watch?v=4VaZNi1YYVU)
-- [Taking a Break to Focus on What&#39;s Next](https://www.youtube.com/watch?v=EOUCz0lh4sU)
-- [COMPLEXITY and HOURS SPENT as a SOFTWARE ENGINEER](https://www.youtube.com/watch?v=rahUdK8A0mg)
+- [Learn — then apply immediately #substack #shorts](https://www.youtube.com/shorts/BE2kMKs9vjA)
+- [Debate, not ego, drives better engineering #substack #shorts](https://www.youtube.com/shorts/86s8RpoDjTM)
+- [Train juniors — get 10X returns #substack #shorts](https://www.youtube.com/shorts/z6LxIpyaC0g)
+- [Maximize impact, minimize effort #substack #shorts](https://www.youtube.com/shorts/bxM9CWy8gsM)
+- [Product engineers: the new norm #substack #shorts](https://www.youtube.com/shorts/lea2XI8Ghwg)
+- [AI is changing engineering roles #substack #shorts](https://www.youtube.com/shorts/G1b2YtVdC0k)
+- [Engineers: Your superpower #AI #productivity](https://www.youtube.com/shorts/6zJk_Z3sRww)
+- [Tech choices serve users #substack #shorts](https://www.youtube.com/shorts/6BTzDS_qzzQ)
 <!-- YOUTUBE:END -->
 
 
