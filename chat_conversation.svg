@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #8b5cf6;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌟 Your next breakthrough is just one commit away!</text>
+      <text x="80" y="35" class="ai-text">📊 Data science is revealing patterns we never knew</text>
+      <text x="80" y="51" class="ai-text">existed!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
-      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+      <text x="80" y="35" class="ai-text">💫 Passionate engineer fueled by curiosity and</text>
+      <text x="80" y="51" class="ai-text">great coffee! Reach me at https://ph7.me</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
     </g>
     
     <!-- Typing indicator -->
