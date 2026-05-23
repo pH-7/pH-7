@@ -89,7 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Learn — then apply immediately #substack #shorts](https://www.youtube.com/shorts/BE2kMKs9vjA)
+- [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
 - [Debate, not ego, drives better engineering #substack #shorts](https://www.youtube.com/shorts/86s8RpoDjTM)
 - [Train juniors — get 10X returns #substack #shorts](https://www.youtube.com/shorts/z6LxIpyaC0g)
 - [Maximize impact, minimize effort #substack #shorts](https://www.youtube.com/shorts/bxM9CWy8gsM)
