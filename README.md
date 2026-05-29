@@ -89,14 +89,14 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
+- [Automate what you can, but keep what you love #substack #shorts](https://www.youtube.com/shorts/C7sj6Cs41EI)
+- [Balance automation with passion #substack #shorts](https://www.youtube.com/shorts/cKZYxvtkN3c)
+- [Design for feelings — UX that reduces support #substack #shorts](https://www.youtube.com/shorts/s3hHF4_R93Q)
 - [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
-- [Debate, not ego, drives better engineering #substack #shorts](https://www.youtube.com/shorts/86s8RpoDjTM)
+- [Debate, not ego, drives better engineering #shorts](https://www.youtube.com/shorts/86s8RpoDjTM)
 - [Train juniors — get 10X returns #substack #shorts](https://www.youtube.com/shorts/z6LxIpyaC0g)
 - [Maximize impact, minimize effort #substack #shorts](https://www.youtube.com/shorts/bxM9CWy8gsM)
 - [Product engineers: the new norm #substack #shorts](https://www.youtube.com/shorts/lea2XI8Ghwg)
-- [AI is changing engineering roles #substack #shorts](https://www.youtube.com/shorts/G1b2YtVdC0k)
-- [Engineers: Your superpower #AI #productivity](https://www.youtube.com/shorts/6zJk_Z3sRww)
-- [Tech choices serve users #substack #shorts](https://www.youtube.com/shorts/6BTzDS_qzzQ)
 <!-- YOUTUBE:END -->
 
 
