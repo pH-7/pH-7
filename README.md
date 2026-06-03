@@ -89,7 +89,7 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [Automate what you can, but keep what you love #substack #shorts](https://www.youtube.com/shorts/C7sj6Cs41EI)
+- [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
 - [Balance automation with passion #substack #shorts](https://www.youtube.com/shorts/cKZYxvtkN3c)
 - [Design for feelings — UX that reduces support #substack #shorts](https://www.youtube.com/shorts/s3hHF4_R93Q)
 - [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
