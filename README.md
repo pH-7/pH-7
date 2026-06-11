@@ -1,4 +1,4 @@
-# 👑 Pierre-Henry™ [@pH-7](https://github.com/pH-7?tab=repositories) 🤖
+# 👑 Pierre-Henry™ @ [pH-7](https://github.com/pH-7?tab=repositories) 🤖
 
 ### 🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
@@ -89,7 +89,6 @@ journey
 
 - **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
 <!-- YOUTUBE:START -->
-- [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #substack #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
 - [The indispensable debugger #substack #shorts](https://www.youtube.com/shorts/r2NQd1NYl08)
 - [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
@@ -97,6 +96,7 @@ journey
 - [Design for feelings — UX that reduces support #substack #shorts](https://www.youtube.com/shorts/s3hHF4_R93Q)
 - [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
 - [Debate, not ego, drives better engineering #shorts](https://www.youtube.com/shorts/86s8RpoDjTM)
+- [Train juniors — get 10X returns #substack #shorts](https://www.youtube.com/shorts/z6LxIpyaC0g)
 <!-- YOUTUBE:END -->
 
 
