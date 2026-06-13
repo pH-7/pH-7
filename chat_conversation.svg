@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
-      <text x="80" y="51" class="ai-text">feels great afterward!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📊 Fun fact: JavaScript was created in just 10</text>
-      <text x="80" y="51" class="ai-text">days!</text>
+      <text x="80" y="35" class="ai-text">🎯 The best code is no code at all. Sometimes</text>
+      <text x="80" y="51" class="ai-text">deletion > addition.</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🤖 AI, ML, data science - the future is incredibly</text>
+      <text x="80" y="51" class="ai-text">exciting! Let's build it!</text>
     </g>
     
     <!-- Typing indicator -->
