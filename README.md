@@ -79,18 +79,17 @@ journey
 
 ✔️ Listening to informational Podcasts and Audible 🎧 while walking/hiking 🐾
 
-✔️ Keeping myself up-to-date with the latest programming methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+✔️ Keeping myself up-to-date with the latest AI methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
 
 </details>
 
 ---
 
-### 🎉 [My Latest Programming Videos](https://www.youtube.com/@pH7Programming/videos) 📺
+### 🎉 [My Latest Tech Videos](https://www.youtube.com/@pH7Programming/videos) 📺
 
-- **[Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)**
+- **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
 - [One engineer + AI replaces a team of 10 #substack #shorts](https://www.youtube.com/shorts/kSqLJWIBFBo)
-- [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
 - [The indispensable debugger #substack #shorts](https://www.youtube.com/shorts/r2NQd1NYl08)
 - [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
@@ -98,6 +97,7 @@ journey
 - [Design for feelings — UX that reduces support #substack #shorts](https://www.youtube.com/shorts/s3hHF4_R93Q)
 - [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
 <!-- YOUTUBE:END -->
+- [Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 
 
 ![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&show_icons=true&include_all_commits=true)
