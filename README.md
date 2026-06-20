@@ -89,7 +89,8 @@ journey
 
 - **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
-- [One engineer + AI replaces a team of 10 #substack #shorts](https://www.youtube.com/shorts/kSqLJWIBFBo)
+- [One engineer + AI replaces a team of 10 #AI #shorts](https://www.youtube.com/shorts/kSqLJWIBFBo)
+- [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
 - [The indispensable debugger #substack #shorts](https://www.youtube.com/shorts/r2NQd1NYl08)
 - [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
