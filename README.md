@@ -89,6 +89,7 @@ journey
 
 - **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
+- [When to choose SPA vs SSR/CSR #substack #shorts](https://www.youtube.com/shorts/dnvNLaF_ZlA)
 - [One engineer + AI replaces a team of 10 #AI #shorts](https://www.youtube.com/shorts/kSqLJWIBFBo)
 - [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
@@ -96,7 +97,6 @@ journey
 - [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
 - [Balance automation with passion #substack #shorts](https://www.youtube.com/shorts/cKZYxvtkN3c)
 - [Design for feelings — UX that reduces support #substack #shorts](https://www.youtube.com/shorts/s3hHF4_R93Q)
-- [Learn — then apply immediately #softwareengineering](https://www.youtube.com/shorts/BE2kMKs9vjA)
 <!-- YOUTUBE:END -->
 - [Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 
