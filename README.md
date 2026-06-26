@@ -89,7 +89,6 @@ journey
 
 - **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
-- [When to choose SPA vs SSR/CSR #substack #shorts](https://www.youtube.com/shorts/dnvNLaF_ZlA)
 - [One engineer + AI replaces a team of 10 #AI #shorts](https://www.youtube.com/shorts/kSqLJWIBFBo)
 - [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
