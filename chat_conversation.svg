@@ -101,14 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌱 Green coding practices help save our planet!</text>
+      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
+      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
+      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
+      <text x="80" y="51" class="ai-text">who's up for it?</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
-      <text x="80" y="51" class="ai-text">debugging session better!</text>
+      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
+      <text x="80" y="51" class="ai-text">experiences!</text>
     </g>
     
     <!-- Typing indicator -->
