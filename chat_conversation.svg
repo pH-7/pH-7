@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #6366f1;
+          fill: #ffd700;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,15 +101,14 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
-      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
+      <text x="80" y="35" class="ai-text">🌱 Green coding practices help save our planet!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌐 The first website is still online: info.cern.ch!</text>
+      <text x="80" y="35" class="ai-text">💎 Great software is built one line at a time!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
-      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     
     <!-- Typing indicator -->
