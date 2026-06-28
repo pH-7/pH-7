@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #ffd700;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
-      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+      <text x="80" y="35" class="ai-text">🛡️ Zero-trust security is becoming the new</text>
+      <text x="80" y="51" class="ai-text">standard!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
-      <text x="80" y="51" class="ai-text">who's up for it?</text>
+      <text x="80" y="35" class="ai-text">🎯 Problem-solving enthusiast: Every bug is just a</text>
+      <text x="80" y="51" class="ai-text">puzzle waiting to be solved!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 JAMstack delivers lightning-fast user</text>
-      <text x="80" y="51" class="ai-text">experiences!</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     
     <!-- Typing indicator -->
