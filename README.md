@@ -89,6 +89,7 @@ journey
 
 - **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
+- [Why serverless isn&#39;t always right #substack #shorts](https://www.youtube.com/shorts/dv_qtCApqwI)
 - [When product priorities trump basic settings #substack #shorts](https://www.youtube.com/shorts/ZQZzvZX3EAA)
 - [Don&#39;t settle for average—think 10x #substack #shorts](https://www.youtube.com/shorts/4EFuKHROZdA)
 - [Be the superhero with the solution #substack #shorts](https://www.youtube.com/shorts/IrQweEZelFc)
@@ -96,7 +97,6 @@ journey
 - [A Solo Engineer Building Simple Software That Lasts. Herman Martinus, Found...](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 - [Turn incidents into learning #shorts](https://www.youtube.com/shorts/1cVkPLbLNHQ)
 - [The indispensable debugger #substack #shorts](https://www.youtube.com/shorts/r2NQd1NYl08)
-- [Automate what you can, but keep what you love #motivation #softwareengineer](https://www.youtube.com/shorts/C7sj6Cs41EI)
 <!-- YOUTUBE:END -->
 - [Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 
