@@ -101,16 +101,15 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🚀 Remember: Premature optimization is the root of</text>
-      <text x="80" y="51" class="ai-text">all evil. Make it work first!</text>
+      <text x="80" y="35" class="ai-text">🚀 GitHub processes over 100 million repositories!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🥾 Daily hiking keeps the mind sharp for those</text>
-      <text x="80" y="51" class="ai-text">complex algorithms!</text>
+      <text x="80" y="35" class="ai-text">🔥 Turn your ideas into code, your code into</text>
+      <text x="80" y="51" class="ai-text">impact!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🎯 Focus on progress, not perfection. You've got</text>
-      <text x="80" y="51" class="ai-text">this!</text>
+      <text x="80" y="35" class="ai-text">🎨 Good code is like a good joke - if you have to</text>
+      <text x="80" y="51" class="ai-text">explain it, it's not that good.</text>
     </g>
     
     <!-- Typing indicator -->
