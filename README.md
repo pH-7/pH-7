@@ -89,6 +89,7 @@ journey
 
 - **[How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)**
 <!-- YOUTUBE:START -->
+- [Hard Problems’ Aren’t Actually Hard: The Pygmalion Effect is the Problem](https://www.youtube.com/watch?v=vxo9J3Lpouw)
 - [Why REST Beats GraphQL for PWAs #substack #shorts](https://www.youtube.com/shorts/wJiUbtOzEwE)
 - [Continuous improvement and solving user pain #substack #shorts](https://www.youtube.com/shorts/rj72NesEEoY)
 - [Solve real user problems by questioning the workflow #substack #shorts](https://www.youtube.com/shorts/n6k8_7Fcz-Y)
@@ -96,7 +97,6 @@ journey
 - [Choose Tools Based on Fit, Not FOMO #substack #shorts](https://www.youtube.com/shorts/o7xj8qGOE04)
 - [Why Software Engineers Keep Choosing Complex Solutions Without Realizing It](https://www.youtube.com/watch?v=Ce8YbHmofYY)
 - [Why Your Web App Is Slow: Quick chat on keeping a web app fast, quick, and...](https://www.youtube.com/watch?v=4wLvWHllM9k)
-- [Why serverless isn&#39;t always right #substack #shorts](https://www.youtube.com/shorts/dv_qtCApqwI)
 <!-- YOUTUBE:END -->
 - [Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
 
