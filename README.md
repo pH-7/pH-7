@@ -91,7 +91,7 @@ journey
 <!-- YOUTUBE:START -->
 - [Hard Problems’ Aren’t Actually Hard: The Pygmalion Effect is the Problem](https://www.youtube.com/watch?v=vxo9J3Lpouw)
 - [Why REST Beats GraphQL for PWAs #substack #shorts](https://www.youtube.com/shorts/wJiUbtOzEwE)
-- [Continuous improvement and solving user pain #substack #shorts](https://www.youtube.com/shorts/rj72NesEEoY)
+- [Continuous improvement and solving user pain](https://www.youtube.com/shorts/rj72NesEEoY)
 - [Solve real user problems by questioning the workflow #substack #shorts](https://www.youtube.com/shorts/n6k8_7Fcz-Y)
 - [Master One Tool to Multiply Your Impact #substack #shorts](https://www.youtube.com/shorts/R_la4wDfkkk)
 - [Choose Tools Based on Fit, Not FOMO #substack #shorts](https://www.youtube.com/shorts/o7xj8qGOE04)
