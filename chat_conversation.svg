@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
-      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
+      <text x="80" y="35" class="ai-text">🔧 Refactoring is like cleaning your room - it</text>
+      <text x="80" y="51" class="ai-text">feels great afterward!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
-      <text x="80" y="51" class="ai-text">keep growing!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     
     <!-- Typing indicator -->
