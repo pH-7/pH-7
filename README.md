@@ -90,7 +90,7 @@ journey
 - **[Roberto Capodieci on 40 Years of Hacking, Blockchain, and AI](https://www.youtube.com/watch?v=XHeMsXDyw2A)**
 - [How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
 <!-- YOUTUBE:START -->
-- [He Mined 300 Bitcoin, Then Sold the Computer for $200](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+- [Why Today’s Engineers Don’t Think Like Hackers Anymore](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 - [Hard Problems’ Aren’t Actually Hard: The Pygmalion Effect is the Problem](https://www.youtube.com/watch?v=vxo9J3Lpouw)
 - [Why REST Beats GraphQL for PWAs #substack #shorts](https://www.youtube.com/shorts/wJiUbtOzEwE)
 - [Continuous improvement and solving user pain](https://www.youtube.com/shorts/rj72NesEEoY)
