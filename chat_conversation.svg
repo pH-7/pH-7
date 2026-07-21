@@ -31,7 +31,7 @@
           animation: avatar-glow 4s ease-in-out infinite;
         }
         .sparkle {
-          fill: #64748b;
+          fill: #6366f1;
           animation: sparkle-twinkle 2s ease-in-out infinite;
         }
         .code-symbols {
@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🐍 Python was named after Monty Python's Flying</text>
-      <text x="80" y="51" class="ai-text">Circus!</text>
+      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
+      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
-      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
+      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
+      <text x="80" y="51" class="ai-text">a breeze!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
-      <text x="80" y="51" class="ai-text">who's up for it?</text>
+      <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
+      <text x="80" y="51" class="ai-text">debugging session better!</text>
     </g>
     
     <!-- Typing indicator -->
