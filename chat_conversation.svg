@@ -101,14 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🌊 WebAssembly is making the web faster than ever!</text>
+      <text x="80" y="35" class="ai-text">🐍 Python was named after Monty Python's Flying</text>
+      <text x="80" y="51" class="ai-text">Circus!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌅 Today is a great day to write some amazing code!</text>
+      <text x="80" y="35" class="ai-text">📚 Learning never stops in tech. Embrace the</text>
+      <text x="80" y="51" class="ai-text">journey, not just the destination!</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
-      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
+      <text x="80" y="35" class="ai-text">🤩 Could talk about programming and IT all night -</text>
+      <text x="80" y="51" class="ai-text">who's up for it?</text>
     </g>
     
     <!-- Typing indicator -->
