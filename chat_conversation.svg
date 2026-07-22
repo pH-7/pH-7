@@ -101,12 +101,12 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">🎮 The first video game was created in 1958 -</text>
-      <text x="80" y="51" class="ai-text">Tennis for Two!</text>
+      <text x="80" y="35" class="ai-text">🧠 Clean code is not written by following a set of</text>
+      <text x="80" y="51" class="ai-text">rules. It's written by programmers who care.</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">⚡ Small commits with clear messages make debugging</text>
-      <text x="80" y="51" class="ai-text">a breeze!</text>
+      <text x="80" y="35" class="ai-text">🎭 Micro-frontends are revolutionizing large</text>
+      <text x="80" y="51" class="ai-text">applications!</text>
     </g>
     <g class="message-group message-group-3">
       <text x="80" y="35" class="ai-text">🧀 True cheese lover here! Roquefort makes every</text>
