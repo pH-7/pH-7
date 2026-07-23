@@ -101,16 +101,16 @@
     
     <!-- Chat text lines -->
     <g class="message-group message-group-1">
-      <text x="80" y="35" class="ai-text">☕ Java got its name from the coffee that</text>
-      <text x="80" y="51" class="ai-text">developers drank while coding!</text>
+      <text x="80" y="35" class="ai-text">⭐ Debugging teaches patience, coding teaches</text>
+      <text x="80" y="51" class="ai-text">persistence!</text>
     </g>
     <g class="message-group message-group-2">
-      <text x="80" y="35" class="ai-text">🌟 Code review is not about finding mistakes, it's</text>
-      <text x="80" y="51" class="ai-text">about sharing knowledge.</text>
+      <text x="80" y="35" class="ai-text">🧀 Fun fact: Nothing beats a good Roquefort while</text>
+      <text x="80" y="51" class="ai-text">coding - it's my secret fuel! ☕️</text>
     </g>
     <g class="message-group message-group-3">
-      <text x="80" y="35" class="ai-text">💪 Every expert was once a beginner. Keep coding,</text>
-      <text x="80" y="51" class="ai-text">keep growing!</text>
+      <text x="80" y="35" class="ai-text">🚀 Build something today, even if it's small.</text>
+      <text x="80" y="51" class="ai-text">Progress beats perfection!</text>
     </g>
     
     <!-- Typing indicator -->
