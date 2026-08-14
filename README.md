@@ -11,22 +11,21 @@ AI agents, Model Context Protocol tools and reusable skills are part of my norma
 - Building internal automation that supports accurate, consistent security-advisory decisions at a major bank.
 - Reduced recurring online-ordering outages at a food business from about eight per week to zero through infrastructure, caching, SQL and API work.
 - Created and maintained pH7Builder, an open-source platform with 13 years of history and more than 11,000 commits.
-- Built my own programming language and developer tools.
-- Created four Udemy courses used by more than 225,000 students.
-- Explain technical decisions through my [YouTube channel](https://www.youtube.com/@pH7Programming/videos) and [Substack](https://substack.com/@pierrehenry).
-
-## Technical focus
-
-Product engineering, software architecture, TypeScript, Node.js, React, AWS, API design, reliability, AI-native delivery, technical leadership and developer education.
+- Designed and implemented my own programming language and related developer tools.
+- Created four software-engineering courses with more than 225,000 combined enrolments.
+- Publish technical work through YouTube and Substack.
 
 ## Current fit
 
-I am open to senior engineering, AI product engineering, founding engineering, principal engineering and software architecture conversations. My primary market focus is Wellington, New Zealand, with Australia and remote opportunities also relevant.
+Wellington, New Zealand is my primary market. I am also open to Australia and remote teams.
+
+The strongest role fits are Senior or Lead Software Engineer, AI Product Engineer, Founding Engineer, Principal Software Engineer, and Software or Solution Architect.
 
 ## Links
 
-- [Professional profile and delivery evidence](https://www.pierrehenry.be/)
+- [Professional profile](https://www.pierrehenry.be/)
 - [Extended career history](https://ph7.me/)
 - [LinkedIn](https://www.linkedin.com/in/ph7enry/)
 - [YouTube](https://www.youtube.com/@pH7Programming/videos)
 - [Substack](https://substack.com/@pierrehenry)
+- [Udemy](https://www.udemy.com/user/pierresoria/)
