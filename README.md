@@ -67,15 +67,17 @@ journey
 <details>
   <summary><ins><em>What I'm doing? 💪</em></ins></summary>
 
-✔️ Building <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">exciting projects</a> 🥳
+✔️ Building and maintaining <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">open-source projects</a>, including long-running <a href="https://github.com/pH7Software" target="_blank" rel="noopener">pH7Builder work</a> and new AI and data experiments 🥳
 
-✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
+✔️ Recording practical <a href="https://www.youtube.com/@pH7Programming/videos">AI programming videos</a> and co-hosting a <a href="https://open.spotify.com/show/0Ut8GMYnIGyGHuh9UUg4S3">podcast about life and happiness</a> 📺🎙️
 
-✔️ Drinking oat flat whites ☕️ and eating healthy vegetarian food 🥕
+✔️ Writing on <a href="https://pierrewriter.com/">PierreWriter</a>, publishing technical ideas on <a href="https://substack.com/@pierrehenry">Substack</a> and sharing short lessons through <a href="https://dailylearninghabit.wordpress.com">Daily Learning Habit™</a> 📝
 
-✔️ Listening to informational Podcasts and Audible 🎧 while walking/hiking 🐾
+✔️ Learning new software-engineering, AI and data-science techniques through advanced courses, then testing them in real projects 🤗
 
-✔️ Keeping myself up-to-date with the latest AI methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+✔️ Drinking oat flat whites ☕️, eating vegetarian food 🥕 and tracking meals with <a href="https://apps.apple.com/app/mealsnap-ai-food-log-tracker/id6475162854">MealSnap Diary Journal</a> 🥗
+
+✔️ Listening to podcasts and Audible while walking or hiking 🐾
 
 </details>
 
