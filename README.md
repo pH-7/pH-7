@@ -6,7 +6,7 @@
 
 #### 🧩 Happy Problem-Solving! 🤗
 
-<details open>
+<details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
 **[Pierre-Henry][author-url]**, a super passionate **Senior Full-Stack Engineer** with skills in **Data Science**, **ML**, and **AI**, building things that matter with real impact on the world! 🌏
