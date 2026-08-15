@@ -13,9 +13,7 @@
 
 I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes in rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I bring focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
 
-  <!--
-    [![Pierre-Henry](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry, Senior Software Engineer")
-  -->
+  [![Pierre-Henry](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry, Senior Software Engineer")
 
 </details>
 
