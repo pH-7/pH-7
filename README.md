@@ -1,31 +1,123 @@
-# Pierre-Henry Soria
+# 👑 Pierre-Henry™ @ [pH-7](https://github.com/pH-7?tab=repositories) 🤖
 
-I turn product ideas into shipped, correctness-critical software.
+### 🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡
 
-Senior software engineer and technology builder with 12 years of experience across banking, food tech, health software, enterprise SaaS and founder-led products. I work from product definition through architecture, implementation and production operation.
+[![AI Chat Conversation](chat_conversation.svg "AI Chat Conversation")][x-url]
 
-AI agents, Model Context Protocol tools and reusable skills are part of my normal engineering toolchain. Generated output still goes through explicit design, testing and review.
+#### 🧩 Happy Problem-Solving! 🤗
 
-## Delivery evidence
+<details open>
+  <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
-- Building internal automation that supports accurate, consistent security-advisory decisions at a major bank.
-- Reduced recurring online-ordering outages at a food business from about eight per week to zero through infrastructure, caching, SQL and API work.
-- Created and maintained pH7Builder, an open-source platform with 13 years of history and more than 11,000 commits.
-- Designed and implemented my own programming language and related developer tools.
-- Created four software-engineering courses with more than 225,000 combined enrolments.
-- Publish technical work through YouTube and Substack.
+**[Pierre-Henry][author-url]**, a super passionate **Senior Full-Stack Engineer** with skills in **Data Science**, **ML**, and **AI**, building things that matter with real impact on the world! 🌏
 
-## Current fit
+I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes in rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I bring focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
 
-Wellington, New Zealand is my primary market. I am also open to Australia and remote teams.
+  <!--
+    [![Pierre-Henry](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry, Senior Software Engineer")
+  -->
 
-The strongest role fits are Senior or Lead Software Engineer, AI Product Engineer, Founding Engineer, Principal Software Engineer, and Software or Solution Architect.
+</details>
 
-## Links
+<details>
+  <summary><ins><em>Further about me? 🤔</em></ins></summary>
+  <p>👉 <strong><a href="https://pierrehenry.be">PierreHenry.BE</a></strong></p>
+  <p>
+    <img alt="Pierre-Henry, GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=pH-7" />
+  </p>
+</details>
 
-- [Professional profile](https://www.pierrehenry.be/)
-- [Extended career history](https://ph7.me/)
-- [LinkedIn](https://www.linkedin.com/in/ph7enry/)
-- [YouTube](https://www.youtube.com/@pH7Programming/videos)
-- [Substack](https://substack.com/@pierrehenry)
-- [Udemy](https://www.udemy.com/user/pierresoria/)
+<details>
+  <summary><ins><em>My Principle 🎂</em></ins></summary>
+  <em>🧠 Never Stop Learning &amp; Researching! 🚀</em>
+
+```mermaid
+journey
+  title "🌞 My Daily Routine 🏆"
+  section "Breakfast"
+    "TypeScript": 5
+  section "Lunch"
+    "React": 5
+  section "Dinner"
+    "IntegrationTests": 5
+  ```
+</details>
+
+<details>
+  <summary><ins><em>My Core Values 💥</em></ins></summary>
+
+✅ **Enthusiastic and Highly Passionate** engineer.
+
+✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
+
+✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, ADR, MVC, ...).
+
+✅ **Clean Code, DRY and SOLID principles** are second nature to me.
+
+✅ **Give lots of focus, perseverance, and knowledge** to accomplish new projects as best I can from scratch.
+
+✅ **Passion for writing secure, testable, and scalable applications**, following the best coding practices.
+
+✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
+
+✅ **Love sharing** knowledge and helping others.
+
+✅ **As a lifelong learner, learning is my core value**. Developing new skills on a daily basis is essential to me.
+
+✅ **Working with Agile** methodologies such as Scrum and Kanban.
+
+</details>
+
+<details>
+  <summary><ins><em>What I'm doing? 💪</em></ins></summary>
+
+✔️ Building <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">exciting projects</a> 🥳
+
+✔️ Writing interesting articles on <a href="https://pierrewriter.com">PierreWriter</a> 📝
+
+✔️ Drinking oat flat whites ☕️ and eating healthy vegetarian food 🥕
+
+✔️ Listening to informational Podcasts and Audible 🎧 while walking/hiking 🐾
+
+✔️ Keeping myself up-to-date with the latest AI methodologies and concepts (thanks to amazing video courses I regularly purchase 🤗).
+
+</details>
+
+---
+
+### 🎉 [My Latest Tech Videos](https://www.youtube.com/@pH7Programming/videos) 📺
+
+- **[Narender Reddy on Building Better Software Inside Large Enterprises](https://www.youtube.com/watch?v=srtqr7VHvE4)**
+- **[Roberto Capodieci on 40 Years of Hacking, Blockchain, and AI](https://www.youtube.com/watch?v=XHeMsXDyw2A)**
+- [How This Indie Engineer Builds Evergreen Software That Lasts: Herman Martinus, Founder of BearBlog](https://www.youtube.com/watch?v=I1Iw5yKmR5U)
+<!-- YOUTUBE:START -->
+- [Hard Problems’ Aren’t Actually Hard: The Pygmalion Effect is the Problem](https://www.youtube.com/watch?v=vxo9J3Lpouw)
+- [Why REST Beats GraphQL for PWAs #substack #shorts](https://www.youtube.com/shorts/wJiUbtOzEwE)
+- [Continuous improvement and solving user pain](https://www.youtube.com/shorts/rj72NesEEoY)
+- [Solve real user problems by questioning the workflow #substack #shorts](https://www.youtube.com/shorts/n6k8_7Fcz-Y)
+- [Master One Tool to Multiply Your Impact #substack #shorts](https://www.youtube.com/shorts/R_la4wDfkkk)
+- [Choose Tools Based on Fit, Not FOMO #substack #shorts](https://www.youtube.com/shorts/o7xj8qGOE04)
+- [Why Software Engineers Keep Choosing Complex Solutions Without Realizing It](https://www.youtube.com/watch?v=Ce8YbHmofYY)
+<!-- YOUTUBE:END -->
+- [Tejas Kumar: Learning, AI, React 19, Tech Career Fulfillment...](https://www.youtube.com/watch?v=K3SR37pIzVs)
+
+
+![Pierre-Henry GitHub Stats](https://github-readme-stats.vercel.app/api?username=pH-7&show_icons=true&include_all_commits=true)
+
+
+### 👋 Let's Connect! 🤗
+
+[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12/icons/linkedin.svg">][linkedin-url]
+[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg">][youtube-url]
+[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/devdotto.svg">][dev-url]
+[<img align="left" alt="Subscribe to my Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/substack.svg">][substack-url]
+[<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][author-url]
+<!-- [<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url] -->
+
+<!-- GitHub's Markdown reference links -->
+[linkedin-url]: https://www.linkedin.com/in/ph7enry/
+[x-url]: https://x.com/phenrysay
+[dev-url]: https://dev.to/pierre/
+[youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
+[substack-url]: https://substack.com/@pierrehenry
+[author-url]: https://pierrehenry.dev
