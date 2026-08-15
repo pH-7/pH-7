@@ -44,25 +44,23 @@ journey
 <details>
   <summary><ins><em>My Core Values 💥</em></ins></summary>
 
-✅ **Enthusiastic and Highly Passionate** engineer.
+✅ **Own the outcome, not only the code.** I work from problem definition and trade-offs through architecture, implementation and production operation.
 
-✅ **Experience building complex and scalable applications**, online communities, SaaS and modern CMS from scratch.
+✅ **Treat correctness as a product requirement.** Testing, review, reliability and clear failure modes matter when software supports consequential decisions and real operations.
 
-✅ **Strong knowledge in design patterns** (GRASP, Factory, Strategy, Observer, DI, ADR, MVC, ...).
+✅ **Prefer clear, maintainable systems.** I value simple boundaries, explicit decisions, readable code and solutions that fit the problem.
 
-✅ **Clean Code, DRY and SOLID principles** are second nature to me.
+✅ **Use AI with engineering discipline.** Agents, MCP tools and reusable skills increase delivery speed, but their output still goes through design, testing and review.
 
-✅ **Give lots of focus, perseverance, and knowledge** to accomplish new projects as best I can from scratch.
+✅ **Learn by building.** A programming language, a long-running open-source platform and ongoing AI and data work reflect how I deepen technical understanding.
 
-✅ **Passion for writing secure, testable, and scalable applications**, following the best coding practices.
+✅ **Commit for the long term.** More than 11,000 open-source commits and products carried from idea to production show the value I place on follow-through.
 
-✅ **Growth mindset**, I always tend to see mistakes as "learning experiences & continuous improvements" for myself, and those around me.
+✅ **Share what I learn.** Open source, four software-engineering courses with more than 225,000 combined enrolments, videos and writing are part of my engineering practice.
 
-✅ **Love sharing** knowledge and helping others.
+✅ **Take care of the people around the work.** I value honest communication, useful documentation, teaching and constructive technical review.
 
-✅ **As a lifelong learner, learning is my core value**. Developing new skills on a daily basis is essential to me.
-
-✅ **Working with Agile** methodologies such as Scrum and Kanban.
+✅ **Stay curious.** Learning, researching and testing ideas in practice remain part of my daily routine.
 
 </details>
 
