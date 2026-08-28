@@ -6,6 +6,14 @@
 
 #### 🧩 Happy Problem-Solving! 🤗
 
+### ⚙️ I build product software where correctness matters
+
+AI-first, product-first senior software engineer with 12 years of experience across enterprise operations, health software, food tech and SaaS. I work from product definition and architecture through implementation, testing and release.
+
+**Current focus:** AI product engineering, private and on-device AI, platform modernisation and engineering systems that help teams ship reliably.
+
+[Selected engineering systems](https://www.pierrehenry.be/engineering-assets.html) · [Work with me](https://www.pierrehenry.be/work-with-me.html)
+
 <details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
