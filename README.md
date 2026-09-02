@@ -8,9 +8,9 @@
 
 ### ⚙️ I build product software where correctness matters
 
-AI-first, product-first senior software engineer with 12 years of experience across enterprise operations, health software, food tech and SaaS. I work from product definition and architecture through implementation, testing and release.
+Senior software engineer with 12 years of experience across enterprise operations, health software, food tech and SaaS. I specialise in production AI systems, agent orchestration and correctness-critical product delivery, from product definition and architecture through implementation, testing and release.
 
-**Current focus:** AI product engineering, private and on-device AI, platform modernisation and engineering systems that help teams ship reliably.
+**Current focus:** practical AI products, private and on-device AI, platform modernisation and engineering systems that help teams ship reliably.
 
 [Selected engineering systems](https://www.pierrehenry.be/engineering-assets.html) · [Work with me](https://www.pierrehenry.be/work-with-me.html)
 
@@ -79,7 +79,7 @@ journey
 
 ✔️ Recording practical <a href="https://www.youtube.com/@pH7Programming/videos">AI programming videos</a> and co-hosting a <a href="https://open.spotify.com/show/0Ut8GMYnIGyGHuh9UUg4S3">podcast about life and happiness</a> 📺🎙️
 
-✔️ Writing on <a href="https://pierrewriter.com/">PierreWriter</a>, publishing technical ideas on <a href="https://substack.com/@pierrehenry">Substack</a> and sharing short lessons through <a href="https://dailylearninghabit.wordpress.com">Daily Learning Habit™</a> 📝
+✔️ Writing on <a href="https://pierrewriter.com/">PierreWriter</a> and <a href="https://blog.pierrehenry.be/">my engineering blog</a>, publishing technical ideas on <a href="https://substack.com/@pierrehenry">Substack</a> and sharing short lessons through <a href="https://dailylearninghabit.wordpress.com">Daily Learning Habit™</a> 📝
 
 ✔️ Learning new software-engineering, AI and data-science techniques through advanced courses, then testing them in real projects 🤗
 
