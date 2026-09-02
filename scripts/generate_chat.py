@@ -9,80 +9,82 @@ Generates creative programming-related chat messages
 
 import random
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
+from html import escape
 import os
 import calendar
+from zoneinfo import ZoneInfo
 
 
 class ChatBotGenerator:
     def __init__(self):
         self.config = self.load_config()
+        self.timezone = ZoneInfo(
+            self.config["chat_bot"].get("timezone", "Australia/Sydney")
+        )
         self.programming_tips = [
-            "💡 Pro tip: Use meaningful variable names - your future self will thank you!",
-            "🚀 Remember: Premature optimization is the root of all evil. Make it work first!",
-            "🧠 Clean code is not written by following a set of rules. It's written by programmers who care.",
-            "⚡ Small commits with clear messages make debugging a breeze!",
-            "🎯 The best code is no code at all. Sometimes deletion > addition.",
-            "🔧 Refactoring is like cleaning your room - it feels great afterward!",
-            "🌟 Code review is not about finding mistakes, it's about sharing knowledge.",
-            "🎨 Good code is like a good joke - if you have to explain it, it's not that good.",
-            "📚 Learning never stops in tech. Embrace the journey, not just the destination!",
-            "🚀 Build something today, even if it's small. Progress beats perfection!"
+            "🧭 Choose tools by fit, not novelty.",
+            "✅ Reliability is a product feature.",
+            "🧪 Make assumptions, failure modes and tests explicit.",
+            "🧱 Good architecture keeps important decisions reversible.",
+            "🔍 Clear boundaries make complex systems easier to change.",
+            "⚙️ Production AI is still software engineering.",
+            "📦 Small commits make review and rollback safer.",
+            "🎯 Start with the product problem, then choose the technology.",
+            "🚦Fast prototypes need a credible path to production.",
+            "🛠️ Automate operational cost without hiding operational risk."
         ]
 
         self.motivational_quotes = [
-            "🌅 Today is a great day to write some amazing code!",
-            "💪 Every expert was once a beginner. Keep coding, keep growing!",
-            "🎯 Focus on progress, not perfection. You've got this!",
-            "🌟 Your next breakthrough is just one commit away!",
-            "🚀 Dream in code, build in reality, ship with confidence!",
-            "💎 Great software is built one line at a time!",
-            "🔥 Turn your ideas into code, your code into impact!",
-            "⭐ Debugging teaches patience, coding teaches persistence!",
-            "🎨 Code is poetry that computers can understand!",
-            "🌈 Every bug fixed makes you a stronger developer!"
+            "🚀 From product question to production system.",
+            "🎯 Build the smallest system that proves the important assumption.",
+            "🧠 Use AI to support judgement, not conceal it.",
+            "📈 Ship, observe, learn and improve.",
+            "🔐 Consequential software needs visible safeguards.",
+            "🧩 Solve the workflow, not only the ticket.",
+            "🔄 Design for change, recovery and review.",
+            "📐 Precision beats unnecessary complexity.",
+            "🤝 Clear engineering decisions help teams move faster.",
+            "🏗️ Build useful systems that can be operated with confidence."
         ]
 
         self.personal_insights = [
-            "🧀 Fun fact: Nothing beats a good Roquefort while coding - it's my secret fuel! ☕️",
-            "☕️ Ristretto + coding = perfect combination for problem-solving sessions!",
-            "🍇 Daily fuel check: Learning ✅ Coding ✅ Researching ✅ Fruit ✅ Hiking ✅ Energized! 😊",
-            "🤩 Could talk about programming and IT all night - who's up for it?",
-            "🧀 True cheese lover here! Roquefort makes every debugging session better!",
-            "🍫 Dark chocolate + ristretto = ultimate coding productivity boost!",
-            "🥾 Daily hiking keeps the mind sharp for those complex algorithms!",
-            "🎯 Problem-solving enthusiast: Every bug is just a puzzle waiting to be solved!",
-            "🤖 AI, ML, data science - the future is incredibly exciting! Let's build it!",
-            "💫 Passionate engineer fueled by curiosity and great coffee! Reach me at https://ph7.me"
+            "🧑‍💻 12 years turning product ideas into shipped software.",
+            "🌏 Building from Wellington, New Zealand.",
+            "☕ Oat flat white, focused build session, long walk.",
+            "🥕 Vegetarian food and practical product engineering.",
+            "🎧 Podcasts and Audible make good walking companions.",
+            "🧠 Learning becomes useful when I test it in a real project.",
+            "🗣️ Building and teaching are both part of my engineering practice.",
+            "🧩 Product, architecture, implementation and operation belong together.",
+            "🌱 HealthTech, FoodTech and FinTech reward careful engineering.",
+            "💬 Work and writing: https://pierrehenry.be"
         ]
 
         self.fun_facts = [
-            "🤖 Did you know? The first computer bug was an actual bug - a moth stuck in a relay!",
-            "📊 Fun fact: JavaScript was created in just 10 days!",
-            "🐍 Python was named after Monty Python's Flying Circus!",
-            "☕ Java got its name from the coffee that developers drank while coding!",
-            "🔍 The term 'bug' was popularized by Grace Hopper in 1947!",
-            "🎮 The first video game was created in 1958 - Tennis for Two!",
-            "💻 The '@' symbol was chosen for email because it was rarely used!",
-            "🌐 The first website is still online: info.cern.ch!",
-            "🔐 'Password' was the most common password for years!",
-            "🚀 GitHub processes over 100 million repositories!"
+            "📚 Four software-engineering courses, 225,000+ enrolments.",
+            "🧱 One open-source platform, 13 years, 11,000+ commits.",
+            "⌨️ I built a programming language to explore language design.",
+            "🎥 I explain engineering through courses, video and writing.",
+            "🔄 Long-running software teaches more than a short-lived demo.",
+            "🧭 My work spans product, architecture, cloud, AI and delivery.",
+            "🧪 Side projects are where I test ideas against working software.",
+            "🛠️ Open source is both technical practice and public evidence.",
+            "💡 A clear problem definition is often the best engineering tool.",
+            "📍 Wellington first, Australia and remote too."
         ]
 
         self.tech_trends = [
-            "🔮 AI is reshaping how we code - embrace the future!",
-            "🌊 WebAssembly is making the web faster than ever!",
-            "⚡ Edge computing is bringing processing closer to users!",
-            "🔗 Blockchain isn't just crypto - it's trust in code!",
-            "🎭 Micro-frontends are revolutionizing large applications!",
-            "🛡️ Zero-trust security is becoming the new standard!",
-            "🌱 Green coding practices help save our planet!",
-            "🔄 GitOps is automating deployment workflows!",
-            "📱 Progressive Web Apps blur the line between web and native!",
-            "🎯 JAMstack delivers lightning-fast user experiences!",
-            "🤖 Machine Learning is democratizing AI - exciting times ahead!",
-            "📊 Data science is revealing patterns we never knew existed!",
-            "🧠 Emerging technologies are opening infinite possibilities!"
+            "🤖 AI agents need permissions, evaluation and recovery paths.",
+            "🔍 AI output needs review when consequences matter.",
+            "⚡ Model choice should follow use case, cost, latency and risk.",
+            "🔐 Private and on-device AI can reduce data exposure.",
+            "🧰 Agent orchestration is an engineering systems problem.",
+            "📊 Useful evaluation starts with the real product workflow.",
+            "🔗 AI features work best inside existing product operations.",
+            "🧪 Test agent behaviour, not only individual prompts.",
+            "📉 Measure where automation saves time and where it adds risk.",
+            "👤 Keep human judgement explicit in consequential workflows."
         ]
 
     def load_config(self):
@@ -103,6 +105,7 @@ class ChatBotGenerator:
             "chat_bot": {
                 "name": "AI Assistant",
                 "avatar": "🤖",
+                "timezone": "Australia/Sydney",
                 "theme": {
                     "primary_color": "#10a37f",
                     "secondary_color": "#0f7a5c",
@@ -116,7 +119,10 @@ class ChatBotGenerator:
                     "enable_sparkles": True,
                     "enable_floating_symbols": True,
                     "pulse_duration": "3s",
-                    "typing_duration": "1.8s"
+                    "typing_duration": "1.8s",
+                    "multiple_messages": True,
+                    "message_count": 3,
+                    "message_delay": "4s"
                 },
                 "message_types": {
                     "programming_tips": {"weight": 25, "enabled": True},
@@ -199,7 +205,7 @@ class ChatBotGenerator:
 
     def get_dynamic_context(self):
         """Get dynamic real-time context information"""
-        now = datetime.now()
+        now = datetime.now(self.timezone)
         context = {
             'date': now,
             'year': now.year,
@@ -217,18 +223,15 @@ class ChatBotGenerator:
         return context
 
     def get_season(self, date):
-        """Determine current season"""
+        """Determine the Southern Hemisphere season"""
         month = date.month
-        day = date.day
-        
-        if (month == 12 and day >= 21) or month in [1, 2] or (month == 3 and day < 20):
-            return "winter"
-        elif (month == 3 and day >= 20) or month in [4, 5] or (month == 6 and day < 21):
-            return "spring"
-        elif (month == 6 and day >= 21) or month in [7, 8] or (month == 9 and day < 22):
+        if month in [12, 1, 2]:
             return "summer"
-        else:
+        if month in [3, 4, 5]:
             return "autumn"
+        if month in [6, 7, 8]:
+            return "winter"
+        return "spring"
 
     def check_holidays(self, date):
         """Check for major holidays and special occasions"""
@@ -299,7 +302,9 @@ class ChatBotGenerator:
     def get_moon_phase(self, date):
         """Get approximate moon phase for extra creativity"""
         # Simplified moon phase calculation
-        days_since_new_moon = (date - datetime(2000, 1, 6)).days % 29.53
+        days_since_new_moon = (
+            date.date() - datetime(2000, 1, 6).date()
+        ).days % 29.53
         
         if days_since_new_moon < 7.38:
             return "🌑 New Moon - Perfect time for new coding projects!"
@@ -637,6 +642,8 @@ class ChatBotGenerator:
         # Check if multiple messages are enabled
         multiple_enabled = animation.get("multiple_messages", False)
         message_delay = animation.get("message_delay", "4s")
+        message_delay_seconds = float(message_delay.removesuffix("s"))
+        cycle_duration = len(messages) * message_delay_seconds
 
         # Generate standalone SVG content
         svg_content = f'''<!--
@@ -705,12 +712,13 @@ class ChatBotGenerator:
         if multiple_enabled and len(messages) > 1:
             svg_content += f'''
         .message-group {{
-          animation: message-cycle {len(messages) * 4}s infinite;
+          animation: message-cycle {cycle_duration:g}s infinite;
           opacity: 0;
-        }}
-        .message-group-1 {{ animation-delay: 0s; }}
-        .message-group-2 {{ animation-delay: {message_delay}; }}
-        .message-group-3 {{ animation-delay: {float(message_delay.replace('s', '')) * 2}s; }}'''
+        }}'''
+            for message_index in range(len(messages)):
+                delay = message_index * message_delay_seconds
+                svg_content += f'''
+        .message-group-{message_index + 1} {{ animation-delay: {delay:g}s; }}'''
 
         # Add keyframes animations
         svg_content += f'''
@@ -784,14 +792,14 @@ class ChatBotGenerator:
                 svg_content += f'\n    <g class="message-group message-group-{msg_idx}">'
                 for i, line in enumerate(lines):
                     y_pos = 35 + (i * 16)
-                    svg_content += f'\n      <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
+                    svg_content += f'\n      <text x="80" y="{y_pos}" class="ai-text">{escape(line)}</text>'
                 svg_content += '\n    </g>'
         else:
             # Single message (use first message if multiple provided)
             lines = all_lines[0]
             for i, line in enumerate(lines):
                 y_pos = 35 + (i * 16)
-                svg_content += f'\n    <text x="80" y="{y_pos}" class="ai-text">{line}</text>'
+                svg_content += f'\n    <text x="80" y="{y_pos}" class="ai-text">{escape(line)}</text>'
 
         # Add typing indicator (use longest message for positioning)
         indicator_y = 35 + (max_lines * 16) + 10
@@ -845,11 +853,12 @@ def main():
     readme_svg = generator.generate_readme_svg_reference(primary_message)
 
     # Save the message and timestamp
+    generated_at = datetime.now(generator.timezone)
     data = {
         "message": primary_message,
         "svg": readme_svg,  # Use simple reference for README
-        "timestamp": datetime.now().isoformat(),
-        "last_updated": datetime.now().strftime("%B %d, %Y at %H:%M UTC")
+        "timestamp": generated_at.isoformat(),
+        "last_updated": generated_at.strftime("%B %d, %Y at %H:%M %Z")
     }
 
     if multiple_enabled:

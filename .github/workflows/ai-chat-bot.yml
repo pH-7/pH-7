@@ -15,7 +15,15 @@ on:
     branches: [ main ]
     paths:
       - 'scripts/**'
+      - 'config/**'
       - '.github/workflows/ai-chat-bot.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dynamic-ai-chat-svg
+  cancel-in-progress: false
 
 jobs:
   update-ai-chat-svg:
@@ -72,7 +80,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AI Chat Bot 🤖"
-          git add -A
+          git add chat_conversation.svg data/chat_data.json
           
           # Get the message from the generated data
           MESSAGE=$(python3 -c "
@@ -93,43 +101,37 @@ jobs:
       
       - name: 📈 Workflow Summary
         if: always()
+        env:
+          CHAT_CHANGED: ${{ steps.verify-changed-files.outputs.changed }}
         run: |
-          echo "## 🤖 AI Chat SVG Update Summary" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          
-          if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-            echo "✅ **Status:** Successfully updated dynamic SVG with new message" >> $GITHUB_STEP_SUMMARY
-            
-            if [ -f "data/chat_data.json" ]; then
-              MESSAGE=$(python3 -c "
-              import json
-              try:
-                  with open('data/chat_data.json', 'r') as f:
-                      data = json.load(f)
-                      print(data['message'])
-              except:
-                  print('Unable to read message')
-              ")
-              echo "💬 **New Message:** $MESSAGE" >> $GITHUB_STEP_SUMMARY
-              
-              TIMESTAMP=$(python3 -c "
-              import json
-              try:
-                  with open('data/chat_data.json', 'r') as f:
-                      data = json.load(f)
-                      print(data['last_updated'])
-              except:
-                  print('Unknown')
-              ")
-              echo "🕒 **Updated:** $TIMESTAMP" >> $GITHUB_STEP_SUMMARY
-            fi
-          else
-            echo "ℹ️ **Status:** No changes needed (same message as previous run)" >> $GITHUB_STEP_SUMMARY
-          fi
-          
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "🔄 **Next Update:** In 6 hours (automatic)" >> $GITHUB_STEP_SUMMARY
-          echo "⚡ **Manual Trigger:** Available via workflow_dispatch" >> $GITHUB_STEP_SUMMARY
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          changed = os.environ.get("CHAT_CHANGED") == "true"
+          lines = ["## 🤖 AI Chat SVG Update Summary", ""]
+
+          if changed:
+              lines.append("✅ **Status:** Updated the dynamic SVG")
+              data_path = Path("data/chat_data.json")
+              if data_path.exists():
+                  data = json.loads(data_path.read_text(encoding="utf-8"))
+                  lines.append(f"💬 **New message:** {data.get('message', 'Unknown')}")
+                  lines.append(f"🕒 **Updated:** {data.get('last_updated', 'Unknown')}")
+          else:
+              lines.append("ℹ️ **Status:** No generated change")
+
+          lines.extend([
+              "",
+              "🔄 **Next update:** In 12 hours",
+              "⚡ **Manual trigger:** Available through workflow_dispatch",
+          ])
+
+          summary_path = Path(os.environ["GITHUB_STEP_SUMMARY"])
+          with summary_path.open("a", encoding="utf-8") as summary:
+              summary.write("\n".join(lines) + "\n")
+          PY
 
       - name: 🎯 Performance Check
         if: always()

@@ -4,7 +4,8 @@
   "chat_bot": {
     "name": "Pierre-Henry's AI Assistant",
     "avatar": "🤖",
-    "update_frequency": "every 6 hours",
+    "timezone": "Australia/Sydney",
+    "update_frequency": "every 12 hours",
     "theme": {
       "primary_color": "#10a37f",
       "secondary_color": "#0f7a5c",
