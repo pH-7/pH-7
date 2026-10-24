@@ -91,7 +91,7 @@ journey
 
 ---
 
-### 🎉 [My Latest Tech Videos](https://www.youtube.com/@pH7Programming/videos) 📺
+### 🎉 [My Latest Tech Videos](https://www.youtube.com/@pH7Programming/videos?sub_confirmation=1) 📺
 
 - **[Narender Reddy on Building Better Software Inside Large Enterprises](https://www.youtube.com/watch?v=srtqr7VHvE4)**
 - **[Roberto Capodieci on 40 Years of Hacking, Blockchain, and AI](https://www.youtube.com/watch?v=XHeMsXDyw2A)**
@@ -124,6 +124,6 @@ journey
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
 [x-url]: https://x.com/phenrysay
 [dev-url]: https://dev.to/pierre/
-[youtube-url]: https://www.youtube.com/channel/UCGqLuT0upPiocwYSnnmqt2g
+[youtube-url]: https://www.youtube.com/@pH7Programming?sub_confirmation=1
 [substack-url]: https://substack.com/@pierrehenry
 [author-url]: https://pierrehenry.dev
