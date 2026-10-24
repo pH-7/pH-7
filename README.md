@@ -77,7 +77,7 @@ journey
 
 ✔️ Building and maintaining <a href="https://github.com/pH-7?tab=repositories&q=&type=source&sort=stargazers" target="_blank" rel="noopener">open-source projects</a>, including long-running <a href="https://github.com/pH7Software" target="_blank" rel="noopener">pH7Builder work</a> and new AI and data experiments 🥳
 
-✔️ Recording practical <a href="https://www.youtube.com/@pH7Programming/videos">AI programming videos</a> and co-hosting a <a href="https://open.spotify.com/show/0Ut8GMYnIGyGHuh9UUg4S3">podcast about life and happiness</a> 📺🎙️
+✔️ Recording practical <a href="https://www.youtube.com/@pH7Programming/videos?sub_confirmation=1">AI programming videos</a> and co-hosting a <a href="https://open.spotify.com/show/0Ut8GMYnIGyGHuh9UUg4S3">podcast about life and happiness</a> 📺🎙️
 
 ✔️ Writing on <a href="https://pierrewriter.com/">PierreWriter</a> and <a href="https://blog.pierrehenry.be/">my engineering blog</a>, publishing technical ideas on <a href="https://substack.com/@pierrehenry">Substack</a> and sharing short lessons through <a href="https://dailylearninghabit.wordpress.com">Daily Learning Habit™</a> 📝
 
