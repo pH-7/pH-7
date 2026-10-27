@@ -8,7 +8,7 @@
 
 ### ⚙️ I build product software where correctness matters
 
-Senior software engineer with 12 years of experience across enterprise operations, health software, food tech and SaaS. I specialise in production AI systems, agent orchestration and correctness-critical product delivery, from product definition and architecture through implementation, testing and release.
+Senior software engineer with 14 years of experience across enterprise operations, health software, food tech and SaaS. I specialise in production AI systems, agent orchestration and correctness-critical product delivery, from product definition and architecture through implementation, testing and release.
 
 **Current focus:** practical AI products, private and on-device AI, platform modernisation and engineering systems that help teams ship reliably.
 
