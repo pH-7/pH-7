@@ -17,9 +17,11 @@ I work across full-stack engineering, architecture and AI integration. I believe
 <details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
-**[Pierre-Henry][author-url]**, a super passionate **Senior Full-Stack Engineer** with skills in **Data Science**, **ML**, and **AI**, building things that matter with real impact on the world! 🌏
+I'm **[Pierre-Henry][author-url]**, a software engineer who enjoys building products, solving difficult problems and learning by doing.
 
-I really enjoy taking care of others and managing my workflow based on productivity methodologies. I'm open to fast-paced changes in rapidly evolving business and technologies, always eager to learn and undertake exciting new challenges. For every project I commit to, I bring focus, determination, energy, and knowledge to accomplish new projects or missions from scratch 😊
+I've worked on everything from mobile apps and healthcare platforms to large-scale integrations and open-source software. I care about the details: readable code, reliable systems, good tests and understanding why we're building something before deciding how.
+
+Outside client work, I build my own projects, share what I learn and keep experimenting with new ideas.
 
   [![Pierre-Henry](https://github.com/user-attachments/assets/5d82ee36-78a2-41bd-8c14-9b80929105d5)](https://ph7.me "Pierre-Henry, Senior Software Engineer")
 
