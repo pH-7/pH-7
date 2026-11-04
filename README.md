@@ -6,13 +6,13 @@
 
 #### 🧩 Happy Problem-Solving! 🤗
 
-### ⚙️ I build product software where correctness matters
+### ⚙️ I build software that solves real problems
 
-Senior software engineer with 14 years of experience across enterprise operations, health software, food tech and SaaS. My work spans software architecture, product engineering, technical leadership and production AI, from product definition through implementation, testing and release.
+I've spent 14 years building and improving software across healthcare, banking, retail and SaaS. I enjoy taking a product from an idea to production, but also figuring out why an existing system is slow, unreliable or difficult to maintain.
 
-**Current focus:** practical AI products, private and on-device AI, platform modernisation and engineering systems that help teams ship reliably.
+I work across full-stack engineering, architecture and AI integration. I believe the best technical decisions come from understanding the problem, keeping things simple and verifying that the solution actually works.
 
-[Selected engineering systems](https://www.pierrehenry.be/engineering-assets.html) · [Work with me](https://www.pierrehenry.be/work-with-me.html)
+[See my engineering work](https://www.pierrehenry.be/engineering-assets.html) · [Work with me](https://www.pierrehenry.be/work-with-me.html)
 
 <details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
