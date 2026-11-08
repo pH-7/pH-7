@@ -14,6 +14,14 @@ I work across full-stack engineering, architecture and AI integration. I believe
 
 [See my engineering work](https://www.pierrehenry.be/engineering-assets.html) · [Work with me](https://www.pierrehenry.be/work-with-me.html)
 
+### Selected open-source work
+
+- **[ToucanDB](https://github.com/ToucanDB/ToucanDB)**: An embedded, local-first Python vector database for semantic search, RAG and application memory.
+- **[pH7Builder](https://github.com/pH7Software/pH7-Social-Dating-CMS)**: A long-running open-source community platform covering product architecture, maintenance and evolution.
+- **[pH7Console](https://github.com/EfficientTools/pH7Console)**: A privacy-focused macOS command console with local AI capabilities.
+- **[Lifyzer](https://github.com/Lifyzer)**: Food technology projects spanning product data and mobile applications.
+
+
 <details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
