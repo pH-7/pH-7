@@ -21,7 +21,6 @@ I work across full-stack engineering, architecture and AI integration. I believe
 - **[pH7Console](https://github.com/EfficientTools/pH7Console)**: A privacy-focused macOS command console with local AI capabilities.
 - **[Lifyzer](https://github.com/Lifyzer)**: Food technology projects spanning product data and mobile applications.
 
-
 <details>
   <summary><ins><strong><em>Who Am I?</em></strong></ins></summary>
 
