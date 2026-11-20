@@ -122,17 +122,20 @@ journey
 
 ### 👋 Let's Connect! 🤗
 
-[<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12/icons/linkedin.svg">][linkedin-url]
-[<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg">][youtube-url]
-[<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/devdotto.svg">][dev-url]
-[<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url]
-[<img align="left" alt="Subscribe to my Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/substack.svg">][substack-url]
-[<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][author-url]
+[<img alt="LinkedIn" width="24" height="24" src="https://cdn.simpleicons.org/linkedin/808080">][linkedin-url] &nbsp;
+[<img alt="YouTube" width="24" height="24" src="https://cdn.simpleicons.org/youtube/808080">][youtube-url] &nbsp;
+[<img alt="DEV Community" width="24" height="24" src="https://cdn.simpleicons.org/devdotto/808080">][dev-url] &nbsp;
+[<img alt="X" width="24" height="24" src="https://cdn.simpleicons.org/x/808080">][x-url] &nbsp;
+[<img alt="Bluesky" width="24" height="24" src="https://cdn.simpleicons.org/bluesky/808080">][bluesky-url] &nbsp;
+[<img alt="Substack" width="24" height="24" src="https://cdn.simpleicons.org/substack/808080">][substack-url]
+
+[Personal website][author-url]
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
 [youtube-url]: https://www.youtube.com/@pH7Programming?sub_confirmation=1
 [dev-url]: https://dev.to/pierre/
 [x-url]: https://x.com/phenrysay
+[bluesky-url]: https://bsky.app/profile/ph7.me
 [substack-url]: https://substack.com/@pierrehenry
 [author-url]: https://pierrehenry.dev
