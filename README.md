@@ -122,20 +122,17 @@ journey
 
 ### 👋 Let's Connect! 🤗
 
-[<img alt="LinkedIn" width="24" height="24" src="https://cdn.simpleicons.org/linkedin/808080">][linkedin-url] &nbsp;
-[<img alt="YouTube" width="24" height="24" src="https://cdn.simpleicons.org/youtube/808080">][youtube-url] &nbsp;
-[<img alt="DEV Community" width="24" height="24" src="https://cdn.simpleicons.org/devdotto/808080">][dev-url] &nbsp;
-[<img alt="X" width="24" height="24" src="https://cdn.simpleicons.org/x/808080">][x-url] &nbsp;
-[<img alt="Bluesky" width="24" height="24" src="https://cdn.simpleicons.org/bluesky/808080">][bluesky-url] &nbsp;
-[<img alt="Substack" width="24" height="24" src="https://cdn.simpleicons.org/substack/808080">][substack-url]
-
-[Personal website][author-url]
+[<img alt="LinkedIn" width="36" height="36" src="assets/social/linkedin.svg">][linkedin-url] &nbsp;
+[<img alt="YouTube" width="36" height="36" src="assets/social/youtube.svg">][youtube-url] &nbsp;
+[<img alt="DEV Community" width="36" height="36" src="assets/social/dev.svg">][dev-url] &nbsp;
+[<img alt="X" width="36" height="36" src="assets/social/x.svg">][x-url] &nbsp;
+[<img alt="Substack" width="36" height="36" src="assets/social/substack.svg">][substack-url] &nbsp;
+[<img alt="Personal website" width="36" height="36" src="assets/social/website.svg">][author-url]
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
 [youtube-url]: https://www.youtube.com/@pH7Programming?sub_confirmation=1
 [dev-url]: https://dev.to/pierre/
 [x-url]: https://x.com/phenrysay
-[bluesky-url]: https://bsky.app/profile/ph7.me
 [substack-url]: https://substack.com/@pierrehenry
 [author-url]: https://pierrehenry.dev
