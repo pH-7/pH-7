@@ -125,14 +125,14 @@ journey
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12/icons/linkedin.svg">][linkedin-url]
 [<img align="left" alt="My YouTube Tech Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg">][youtube-url]
 [<img align="left" alt="My Dev.to Articles" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/devdotto.svg">][dev-url]
+[<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url]
 [<img align="left" alt="Subscribe to my Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/substack.svg">][substack-url]
 [<img align="left" alt="PierreHenry's" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][author-url]
-<!-- [<img align="left" alt="Follow Me on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/x.svg">][x-url] -->
 
 <!-- GitHub's Markdown reference links -->
 [linkedin-url]: https://www.linkedin.com/in/ph7enry/
-[x-url]: https://x.com/phenrysay
-[dev-url]: https://dev.to/pierre/
 [youtube-url]: https://www.youtube.com/@pH7Programming?sub_confirmation=1
+[dev-url]: https://dev.to/pierre/
+[x-url]: https://x.com/phenrysay
 [substack-url]: https://substack.com/@pierrehenry
 [author-url]: https://pierrehenry.dev
